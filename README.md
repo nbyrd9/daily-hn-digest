@@ -16,34 +16,34 @@ was reading on any given day.
 
 ## Latest snapshot - [`2026-08-31.md`](./digests/2026-08-31.md)
 
-_Captured 2026-08-31 00:33 UTC._
+_Captured 2026-08-31 01:01 UTC._
 
 1. **[“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)**
-   160 points by `zdw` - [38 comments](https://news.ycombinator.com/item?id=49503601)
+   209 points by `zdw` - [49 comments](https://news.ycombinator.com/item?id=49503601)
 
 2. **[Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)**
-   892 points by `zdw` - [409 comments](https://news.ycombinator.com/item?id=49491791)
+   902 points by `zdw` - [419 comments](https://news.ycombinator.com/item?id=49491791)
 
 3. **[Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6)**
-   241 points by `metrofun` - [74 comments](https://news.ycombinator.com/item?id=49499867)
+   245 points by `metrofun` - [75 comments](https://news.ycombinator.com/item?id=49499867)
 
 4. **[Cores in space: The core memory module from a 1980 Spacelab computer](https://www.righto.com/2026/08/spacelab-core-memory.html)**
-   64 points by `pwg` - [10 comments](https://news.ycombinator.com/item?id=49502214)
+   68 points by `pwg` - [12 comments](https://news.ycombinator.com/item?id=49502214)
 
-5. **[Thoughts on Pope Leo XIV's Magnifica Humanitas](https://adropincalm.com/blog/thoughts-on-magnifica-humanitas/)**
-   43 points by `borracciaBlu` - [33 comments](https://news.ycombinator.com/item?id=49503587)
+5. **[Show HN: NFC Energy-Harvesting PCB Business Card with an MCU](https://wilsonharper.net/projects/businesscard/)**
+   89 points by `WilsonHarper` - [9 comments](https://news.ycombinator.com/item?id=49478426)
 
-6. **[Show HN: NFC Energy-Harvesting PCB Business Card with an MCU](https://wilsonharper.net/projects/businesscard/)**
-   81 points by `WilsonHarper` - [8 comments](https://news.ycombinator.com/item?id=49478426)
+6. **[Sort branches by last commit date](https://ryangreenberg.com/til/git-branches-by-commit-date/)**
+   82 points by `speckx` - [24 comments](https://news.ycombinator.com/item?id=49435285)
 
-7. **[Sort branches by last commit date](https://ryangreenberg.com/til/git-branches-by-commit-date/)**
-   78 points by `speckx` - [22 comments](https://news.ycombinator.com/item?id=49435285)
+7. **[Continuous Diffusion Language Models (CDLM's)](https://sander.ai/2026/08/24/continuous-dlms.html)**
+   48 points by `peter_d_sherman` - [13 comments](https://news.ycombinator.com/item?id=49502611)
 
-8. **[Continuous Diffusion Language Models (CDLM's)](https://sander.ai/2026/08/24/continuous-dlms.html)**
-   46 points by `peter_d_sherman` - [13 comments](https://news.ycombinator.com/item?id=49502611)
+8. **[Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver](https://github.com/KodeMunkie/sm750hdmifb)**
+   63 points by `SillyUsername` - [33 comments](https://news.ycombinator.com/item?id=49501611)
 
-9. **[Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver](https://github.com/KodeMunkie/sm750hdmifb)**
-   61 points by `SillyUsername` - [32 comments](https://news.ycombinator.com/item?id=49501611)
+9. **[Relm4 makes developing beautiful cross-platform applications idiomatic](https://relm4.org/)**
+   9 points by `Bluestein` - [0 comments](https://news.ycombinator.com/item?id=49446705)
 
-10. **[Coordination Headwind: How Organizations Are Like Slime Molds](https://komoroske.com/slime-mold/)**
-   120 points by `rzk` - [42 comments](https://news.ycombinator.com/item?id=49499891)
+10. **[Commercially Available Bike Generators Are Not Sustainable (2011)](https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/)**
+   20 points by `baud147258` - [11 comments](https://news.ycombinator.com/item?id=49450461)

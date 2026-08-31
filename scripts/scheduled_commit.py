@@ -26,6 +26,19 @@ import sys
 import time
 from datetime import datetime, timezone
 
+COMMIT_PHRASINGS = [
+    "Update Hacker News digest",
+    "Refresh the HN top {n} snapshot",
+    "Capture the HN front page",
+    "Log Hacker News standings",
+    "Record what HN is reading",
+    "Snapshot Hacker News top stories",
+    "Re-run the digest",
+    "Sync Hacker News digest",
+    "Pull the latest HN rankings",
+    "Note the HN front page shift",
+]
+
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from build_digest import (  # noqa: E402
     DIGESTS,
@@ -92,7 +105,8 @@ def publish(now: datetime, window: int) -> int:
         return 0
 
     tag = "" if MANUAL else f" [w{window:02d}]"
-    msg = f"chore: Hacker News digest {now:%Y-%m-%d %H:%M UTC}{tag}"
+    phrasing = random.choice(COMMIT_PHRASINGS).format(n=TOP_N)
+    msg = f"{phrasing} ({now:%Y-%m-%d %H:%M UTC}){tag}"
     sh("git", "commit", "-m", msg)
 
     for attempt in range(1, 5):

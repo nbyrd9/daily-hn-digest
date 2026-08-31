@@ -25,13 +25,17 @@ README = ROOT / "README.md"
 README_HEADER = """# Daily Hacker News Digest
 
 A self-updating archive of the top {top_n} [Hacker News](https://news.ycombinator.com/)
-stories, captured once a day by a scheduled GitHub Actions workflow. Each run
-appends a dated file under [`digests/`](./digests) and refreshes the snapshot
-below, so this repo doubles as a searchable record of what the tech community
-was reading on any given day.
+stories. A scheduled GitHub Actions workflow captures the current standings
+one to three times a day, at randomized times, rewriting the dated file for
+the day under [`digests/`](./digests) and refreshing the snapshot below -- so
+this repo doubles as a searchable record of what the tech community was
+reading, and how the rankings shifted through the day.
 
 - **How it works:** [`.github/workflows/daily-digest.yml`](./.github/workflows/daily-digest.yml)
-  runs [`scripts/build_digest.py`](./scripts/build_digest.py) on a cron schedule.
+  fires every 2 hours; [`scripts/scheduled_commit.py`](./scripts/scheduled_commit.py)
+  uses a date-seeded RNG to pick 1-3 two-hour windows for the day, waits a
+  random 0-85 minutes, then builds the digest via
+  [`scripts/build_digest.py`](./scripts/build_digest.py), commits, and pushes.
 - **Data source:** the public [Hacker News API](https://github.com/HackerNews/API)
   (no authentication).
 - **Browse the archive:** [`digests/`](./digests)

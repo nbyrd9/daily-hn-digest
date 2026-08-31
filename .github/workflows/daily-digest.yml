@@ -2,8 +2,11 @@ name: daily-digest
 
 on:
   schedule:
-    # 13:07 UTC every day (offset from the top of the hour per GitHub's guidance)
-    - cron: "7 13 * * *"
+    # Fires every 2 hours. scripts/scheduled_commit.py then decides, from a
+    # date-seeded RNG, whether the current 2-hour window is one of today's
+    # 1-3 chosen commit windows, and adds a random 0-85 min sleep so the
+    # push time is unpredictable.
+    - cron: "0 */2 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -16,24 +19,15 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Build today's digest
-        run: python scripts/build_digest.py
-
-      - name: Commit and push if changed
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-            exit 0
-          fi
-          git commit -m "chore: Hacker News digest for $(date -u +%Y-%m-%d)"
-          git push
+      - name: Plan, build, and push if this window is scheduled
+        run: python scripts/scheduled_commit.py

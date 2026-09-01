@@ -50,6 +50,10 @@ from build_digest import (  # noqa: E402
 
 WINDOW_HOURS = list(range(0, 24, 2))  # 0,2,...,22 -- matches cron "0 */2 * * *"
 MAX_JITTER_SECONDS = 85 * 60
+GIT_NAME = os.environ.get("DIGEST_GIT_NAME", "nbyrd9")
+GIT_EMAIL = os.environ.get(
+    "DIGEST_GIT_EMAIL", "50628304+nbyrd9@users.noreply.github.com"
+)
 EVENT_NAME = os.environ.get("GITHUB_EVENT_NAME", "")
 IN_CI = os.environ.get("GITHUB_ACTIONS") == "true"
 MANUAL = EVENT_NAME == "workflow_dispatch"
@@ -94,11 +98,11 @@ def publish(now: datetime, window: int) -> int:
         print(f"[local] wrote digests/{name}; skipping git commit/push.")
         return 0
 
-    sh("git", "config", "user.name", "github-actions[bot]")
-    sh(
-        "git", "config", "user.email",
-        "41898282+github-actions[bot]@users.noreply.github.com",
-    )
+    # Commit as the repo owner (not github-actions[bot]) so these runs land on
+    # the GitHub contribution graph. The account's noreply address is always
+    # linked to the account and needs no separate verification.
+    sh("git", "config", "user.name", GIT_NAME)
+    sh("git", "config", "user.email", GIT_EMAIL)
     sh("git", "add", "-A")
     if not sh("git", "status", "--porcelain"):
         print("Digest unchanged since last run; nothing to commit.")

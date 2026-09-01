@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-09-01.md`](./digests/2026-09-01.md)
 
-_Captured 2026-09-01 20:31 UTC._
+_Captured 2026-09-01 23:19 UTC._
 
 1. **[Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)**
-   579 points by `denysvitali` - [561 comments](https://news.ycombinator.com/item?id=49525378)
+   817 points by `denysvitali` - [786 comments](https://news.ycombinator.com/item?id=49525378)
 
-2. **[Play Store blocks AuroraStore, hurting GrapheneOS users](https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566)**
-   397 points by `erikvanoosten` - [153 comments](https://news.ycombinator.com/item?id=49523754)
+2. **[Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox)**
+   135 points by `speckx` - [75 comments](https://news.ycombinator.com/item?id=49527748)
 
-3. **[The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)**
-   23 points by `timpera` - [3 comments](https://news.ycombinator.com/item?id=49527396)
+3. **[How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)**
+   303 points by `jatins` - [353 comments](https://news.ycombinator.com/item?id=49526069)
 
-4. **[Refurbishing a Tektronix TDS7104 Oscilloscope](https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html)**
-   13 points by `jwise0` - [5 comments](https://news.ycombinator.com/item?id=49527232)
+4. **[Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/)**
+   26 points by `masteranza` - [8 comments](https://news.ycombinator.com/item?id=49528895)
 
-5. **[Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/)**
-   75 points by `AntonioLi` - [21 comments](https://news.ycombinator.com/item?id=49525153)
+5. **[The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)**
+   191 points by `timpera` - [99 comments](https://news.ycombinator.com/item?id=49527396)
 
 6. **[AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)**
-   752 points by `hexa555` - [212 comments](https://news.ycombinator.com/item?id=49520022)
+   808 points by `hexa555` - [236 comments](https://news.ycombinator.com/item?id=49520022)
 
-7. **[Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s](https://github.com/carloslfu/slotstream)**
-   92 points by `carloslfu` - [62 comments](https://news.ycombinator.com/item?id=49524447)
+7. **[Refurbishing a Tektronix TDS7104 Oscilloscope](https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html)**
+   64 points by `jwise0` - [31 comments](https://news.ycombinator.com/item?id=49527232)
 
-8. **[Ambient CSS v3 – Blender meets CSS](https://ambientcss.vercel.app/)**
-   138 points by `kikkupico` - [54 comments](https://news.ycombinator.com/item?id=49523387)
+8. **[Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra/)**
+   65 points by `jithinraj` - [21 comments](https://news.ycombinator.com/item?id=49527595)
 
-9. **[Ask HN: Who is hiring? (September 2026)](https://news.ycombinator.com/item?id=49522897)**
-   154 points by `whoishiring` - [162 comments](https://news.ycombinator.com/item?id=49522897)
+9. **[The creator of Jujutsu has joined ERSC](https://ersc.io/blog/martin-joins-ersc)**
+   159 points by `steveklabnik` - [124 comments](https://news.ycombinator.com/item?id=49525297)
 
-10. **[Movie Scene Map – 13,312 films, series, games, anime and manga](https://moviescenemap.com/)**
-   88 points by `Flightmussy` - [21 comments](https://news.ycombinator.com/item?id=49524320)
+10. **[Introducing Ad Blocker for Firefox on iOS](https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/)**
+   263 points by `HieronymusBosch` - [95 comments](https://news.ycombinator.com/item?id=49521973)

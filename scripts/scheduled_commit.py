@@ -6,7 +6,7 @@ fires, so this script layers a per-day plan on top of a fixed
 every-2-hours trigger:
 
   * a deterministic RNG seeded from today's UTC date picks a commit count
-    between 1 and 3, then that many distinct 2-hour windows -- every run
+    between 2 and 7, then that many distinct 2-hour windows -- every run
     of the day computes the same plan
   * a run whose window is not in today's plan exits without committing
   * a run whose window IS in the plan waits a random 0-85 minutes (so the
@@ -67,7 +67,7 @@ def sh(*args: str, check: bool = True) -> str:
 
 def todays_plan(day: str) -> list[int]:
     rng = random.Random(f"hn-digest::{day}")
-    count = rng.randint(1, 3)
+    count = rng.randint(2, 7)
     return sorted(rng.sample(WINDOW_HOURS, count))
 
 

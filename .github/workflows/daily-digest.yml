@@ -4,7 +4,7 @@ on:
   schedule:
     # Fires every 2 hours. scripts/scheduled_commit.py then decides, from a
     # date-seeded RNG, whether the current 2-hour window is one of today's
-    # 1-3 chosen commit windows, and adds a random 0-85 min sleep so the
+    # 2-7 chosen commit windows, and adds a random 0-85 min sleep so the
     # push time is unpredictable.
     - cron: "0 */2 * * *"
   workflow_dispatch: {}

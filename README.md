@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-09-04.md`](./digests/2026-09-04.md)
 
-_Captured 2026-09-04 15:30 UTC._
+_Captured 2026-09-04 20:21 UTC._
 
-1. **[Google AI Mode shows same products 21.6% more expensive than traditional search](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products)**
-   163 points by `DeepLogin` - [25 comments](https://news.ycombinator.com/item?id=49563386)
+1. **[Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)**
+   205 points by `jlebar` - [117 comments](https://news.ycombinator.com/item?id=49568506)
 
 2. **[Discovery of a new OpenAI agent message board](https://collusion.wiki/)**
-   602 points by `moultano` - [416 comments](https://news.ycombinator.com/item?id=49563355)
+   1232 points by `moultano` - [1008 comments](https://news.ycombinator.com/item?id=49563355)
 
-3. **[Solving the Jane Street Reverse Engineering Challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html)**
-   220 points by `anitil` - [58 comments](https://news.ycombinator.com/item?id=49562657)
+3. **[Shutting down our public encrypted DNS](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead)**
+   107 points by `mywacaday` - [22 comments](https://news.ycombinator.com/item?id=49568579)
 
-4. **[GPT-6 Astra](https://openai.com/index/gpt-6-astra/)**
-   1996 points by `kibae` - [1825 comments](https://news.ycombinator.com/item?id=49554643)
+4. **[Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)**
+   25 points by `iopapa` - [12 comments](https://news.ycombinator.com/item?id=49569366)
 
-5. **[Ok, but Does It Scale?](https://spacetimedb.com/blog/how-does-spacetime-scale)**
-   55 points by `theanonymousone` - [26 comments](https://news.ycombinator.com/item?id=49563772)
+5. **[Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com)**
+   143 points by `stingrae` - [53 comments](https://news.ycombinator.com/item?id=49567437)
 
-6. **[.name Termination](https://neil.fraser.name/news/2026/09/03/)**
-   2046 points by `pavel_lishin` - [499 comments](https://news.ycombinator.com/item?id=49550772)
+6. **[Government Rails Site Hit Hours After CVE Patch](https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/)**
+   29 points by `rietta` - [9 comments](https://news.ycombinator.com/item?id=49568828)
 
-7. **[The Two Abstractions of System Design: Hide or Reduce](http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html)**
-   31 points by `ubolonton_` - [2 comments](https://news.ycombinator.com/item?id=49534936)
+7. **[The Rust React Compiler is now native in Vite](https://blog.master.dev/react-now-rusted-all-the-way-out/)**
+   48 points by `acusti` - [10 comments](https://news.ycombinator.com/item?id=49567873)
 
-8. **[Elevator of the Year Winner Modernization of the Metropolis Trust Building](https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building)**
-   70 points by `palashawas` - [24 comments](https://news.ycombinator.com/item?id=49516312)
+8. **[IBM Bob](https://bob.ibm.com/)**
+   178 points by `artpar` - [209 comments](https://news.ycombinator.com/item?id=49563851)
 
-9. **[GMails custom domain "send as" discontinues January 2027](https://support.google.com/mail/answer/22370?hl=en)**
-   20 points by `sva_` - [16 comments](https://news.ycombinator.com/item?id=49565693)
+9. **[Solving the Jane Street reverse engineering challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html)**
+   345 points by `anitil` - [79 comments](https://news.ycombinator.com/item?id=49562657)
 
-10. **[Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)**
-   629 points by `altertable` - [208 comments](https://news.ycombinator.com/item?id=49554520)
+10. **[deSEC – Free Secure DNS](https://desec.io/)**
+   69 points by `gurjeet` - [29 comments](https://news.ycombinator.com/item?id=49566193)

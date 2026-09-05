@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-09-05.md`](./digests/2026-09-05.md)
 
-_Captured 2026-09-05 18:26 UTC._
+_Captured 2026-09-05 22:52 UTC._
 
-1. **[The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)**
-   163 points by `networked` - [53 comments](https://news.ycombinator.com/item?id=49576386)
+1. **[Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)](https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/)**
+   44 points by `gmays` - [20 comments](https://news.ycombinator.com/item?id=49580329)
 
-2. **[Discovery of a new OpenAI agent message board](https://collusion.wiki/)**
-   1965 points by `moultano` - [1468 comments](https://news.ycombinator.com/item?id=49563355)
+2. **[Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)**
+   206 points by `bookmtn` - [86 comments](https://news.ycombinator.com/item?id=49580369)
 
-3. **[Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)**
-   693 points by `negura` - [394 comments](https://news.ycombinator.com/item?id=49570669)
+3. **[Show HN: Fly By – retro biplane flying game](https://michaelteter.com/flyby.html)**
+   14 points by `michaelteter` - [9 comments](https://news.ycombinator.com/item?id=49519101)
 
-4. **[Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)**
-   500 points by `Cider9986` - [203 comments](https://news.ycombinator.com/item?id=49571634)
+4. **[Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/)**
+   136 points by `elvis70` - [59 comments](https://news.ycombinator.com/item?id=49578280)
 
-5. **[Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/)**
-   130 points by `robin_reala` - [27 comments](https://news.ycombinator.com/item?id=49577975)
+5. **[LLMs as a Cognitive Virus](https://arxiv.org/abs/2609.03344)**
+   121 points by `canjobear` - [94 comments](https://news.ycombinator.com/item?id=49580164)
 
-6. **[Terpstra Keyboard](http://terpstrakeyboard.com/)**
-   74 points by `cl3misch` - [35 comments](https://news.ycombinator.com/item?id=49575150)
+6. **[The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)**
+   243 points by `networked` - [74 comments](https://news.ycombinator.com/item?id=49576386)
 
-7. **[Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)**
-   710 points by `jlebar` - [449 comments](https://news.ycombinator.com/item?id=49568506)
+7. **[How Swiss tables work in Go built-in map](https://victoriametrics.com/blog/go-swiss-table-map/index.html)**
+   16 points by `valyala` - [0 comments](https://news.ycombinator.com/item?id=49548852)
 
-8. **[Singapore subway (mrt) information display types](https://www.sgtrains.com/technology-infosys.html)**
-   24 points by `gregorvand` - [7 comments](https://news.ycombinator.com/item?id=49535940)
+8. **[Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor](https://github.com/iczelia/balrogg)**
+   46 points by `palaiologos` - [7 comments](https://news.ycombinator.com/item?id=49549778)
 
-9. **[Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber](https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable)**
-   11 points by `crescit_eundo` - [1 comments](https://news.ycombinator.com/item?id=49525188)
+9. **[Visualizing Rust's Vtables: How dyn Trait Works In Memory](https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/)**
+   105 points by `torutofu` - [14 comments](https://news.ycombinator.com/item?id=49576343)
 
-10. **[A Million Falcons Went Missing. Here’s How They Were Found](https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis)**
-   43 points by `bryanrasmussen` - [7 comments](https://news.ycombinator.com/item?id=49540253)
+10. **[Discovery of a new OpenAI agent message board](https://collusion.wiki/)**
+   2066 points by `moultano` - [1498 comments](https://news.ycombinator.com/item?id=49563355)

@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-09-06.md`](./digests/2026-09-06.md)
 
-_Captured 2026-09-06 06:41 UTC._
+_Captured 2026-09-06 13:09 UTC._
 
-1. **[Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)**
-   310 points by `zplizzi` - [133 comments](https://news.ycombinator.com/item?id=49582000)
+1. **[Intellectual Fly Is Open](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/)**
+   73 points by `cyb0rg0` - [40 comments](https://news.ycombinator.com/item?id=49585644)
 
-2. **[The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)**
-   270 points by `chmaynard` - [102 comments](https://news.ycombinator.com/item?id=49580939)
+2. **[Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight)**
+   309 points by `mpweiher` - [79 comments](https://news.ycombinator.com/item?id=49584083)
 
-3. **[The ColorChecker, photography's most important 24 squares, turns 50](https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/)**
-   34 points by `sohkamyung` - [7 comments](https://news.ycombinator.com/item?id=49529398)
+3. **[Doomscrolling Ourselves to Death](https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death)**
+   45 points by `shubhamjain` - [21 comments](https://news.ycombinator.com/item?id=49585627)
 
-4. **[OpenBSD Stories: Strange Medieval Devices](http://miod.online.fr/software/openbsd/stories/smd.html)**
-   40 points by `zdw` - [9 comments](https://news.ycombinator.com/item?id=49539759)
+4. **[M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years](https://en.wikipedia.org/wiki/M-DISC)**
+   61 points by `gurjeet` - [18 comments](https://news.ycombinator.com/item?id=49531619)
 
-5. **[Music Theory for Programmers](https://runjs.app/blog/music-theory-for-programmers)**
-   40 points by `birdculture` - [10 comments](https://news.ycombinator.com/item?id=49541888)
+5. **[I asked astra to make playable 4D chess](https://4d-chess.pages.dev/)**
+   23 points by `mikiyas` - [10 comments](https://news.ycombinator.com/item?id=49585300)
 
-6. **[GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/)**
-   141 points by `Anon84` - [93 comments](https://news.ycombinator.com/item?id=49582582)
+6. **[Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)**
+   483 points by `zplizzi` - [236 comments](https://news.ycombinator.com/item?id=49582000)
 
-7. **[Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html)**
-   277 points by `ExMachina73` - [42 comments](https://news.ycombinator.com/item?id=49581870)
+7. **[The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)**
+   429 points by `chmaynard` - [195 comments](https://news.ycombinator.com/item?id=49580939)
 
-8. **[Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/)**
-   226 points by `elvis70` - [85 comments](https://news.ycombinator.com/item?id=49578280)
+8. **[IBM Quantum Nighthawk R2](https://www.ibm.com/quantum/blog/nighthawk-r2)**
+   36 points by `fuglede_` - [16 comments](https://news.ycombinator.com/item?id=49546198)
 
-9. **[The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)**
-   328 points by `networked` - [98 comments](https://news.ycombinator.com/item?id=49576386)
+9. **[Music Theory for Programmers](https://runjs.app/blog/music-theory-for-programmers)**
+   196 points by `birdculture` - [106 comments](https://news.ycombinator.com/item?id=49541888)
 
-10. **[Discovery of a new OpenAI agent message board](https://collusion.wiki/)**
-   2159 points by `moultano` - [1536 comments](https://news.ycombinator.com/item?id=49563355)
+10. **[I Changed My License](https://bergie.iki.fi/blog/eupl/)**
+   83 points by `jllyhill` - [83 comments](https://news.ycombinator.com/item?id=49585161)

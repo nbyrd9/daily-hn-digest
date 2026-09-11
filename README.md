@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-09-11.md`](./digests/2026-09-11.md)
 
-_Captured 2026-09-11 13:15 UTC._
+_Captured 2026-09-11 23:58 UTC._
 
-1. **[The Waymo effect: how AI is quietly making research less collaborative](https://www.researchagenda.news/articles/the-waymo-effect.html)**
-   139 points by `JohnHammersley` - [86 comments](https://news.ycombinator.com/item?id=49656496)
+1. **[OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)**
+   55 points by `chao-` - [11 comments](https://news.ycombinator.com/item?id=49666735)
 
-2. **[RTK reports token savings, but our cost benchmarks disagree](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/)**
-   53 points by `michalwarda` - [26 comments](https://news.ycombinator.com/item?id=49656471)
+2. **[A misalignment of AI in mathematics](https://mathandai.org/)**
+   559 points by `meredydd` - [621 comments](https://news.ycombinator.com/item?id=49662371)
 
-3. **[Cherenkov Radiation - traveling faster than light](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)**
-   124 points by `andsoitis` - [71 comments](https://news.ycombinator.com/item?id=49655286)
+3. **[I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)**
+   233 points by `nickabe` - [125 comments](https://news.ycombinator.com/item?id=49662990)
 
-4. **[So you want to use OpenRouter?](https://mmoustafa.com/blog/so-you-want-to-use-openrouter/)**
-   277 points by `player85` - [62 comments](https://news.ycombinator.com/item?id=49621546)
+4. **[GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)**
+   173 points by `microtonal` - [100 comments](https://news.ycombinator.com/item?id=49663373)
 
-5. **[Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)**
-   1132 points by `fnthawar2` - [825 comments](https://news.ycombinator.com/item?id=49643982)
+5. **[A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/)**
+   101 points by `wcrichton` - [21 comments](https://news.ycombinator.com/item?id=49626718)
 
-6. **[Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850)**
-   15 points by `cromka` - [2 comments](https://news.ycombinator.com/item?id=49657850)
+6. **[Project Blinkenlights](https://blinkenlights.de/en/)**
+   29 points by `doener` - [12 comments](https://news.ycombinator.com/item?id=49666146)
 
-7. **[Show HN: Foldelight – the iPhone Duo folding effect the MacBook was owed](https://lufzle.dev/foldelight/)**
-   7 points by `riffonio` - [2 comments](https://news.ycombinator.com/item?id=49656948)
+7. **[Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ)**
+   18 points by `mirza_rizvi` - [8 comments](https://news.ycombinator.com/item?id=49665864)
 
-8. **[Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)**
-   613 points by `Brajeshwar` - [384 comments](https://news.ycombinator.com/item?id=49645393)
+8. **[Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)**
+   83 points by `kennethwolters` - [34 comments](https://news.ycombinator.com/item?id=49662767)
 
-9. **[Claude is no longer available for minors](https://support.claude.com/en/articles/15171100-age-assurance-on-claude)**
-   175 points by `Muhammad523` - [237 comments](https://news.ycombinator.com/item?id=49656225)
+9. **[Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/)**
+   100 points by `dr_kiszonka` - [53 comments](https://news.ycombinator.com/item?id=49662214)
 
-10. **[iPod Classic 6G in QEMU](https://www.reddit.com/r/emulation/s/VL4Au2HGxq)**
-   52 points by `dmonterocrespo` - [7 comments](https://news.ycombinator.com/item?id=49611240)
+10. **[QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]](https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf)**
+   11 points by `matt_d` - [0 comments](https://news.ycombinator.com/item?id=49666155)

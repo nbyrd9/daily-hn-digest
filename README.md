@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-09-11.md`](./digests/2026-09-11.md)
 
-_Captured 2026-09-11 03:11 UTC._
+_Captured 2026-09-11 13:15 UTC._
 
-1. **[Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)**
-   834 points by `fnthawar2` - [553 comments](https://news.ycombinator.com/item?id=49643982)
+1. **[The Waymo effect: how AI is quietly making research less collaborative](https://www.researchagenda.news/articles/the-waymo-effect.html)**
+   139 points by `JohnHammersley` - [86 comments](https://news.ycombinator.com/item?id=49656496)
 
-2. **[More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201)**
-   719 points by `pred_` - [660 comments](https://news.ycombinator.com/item?id=49639408)
+2. **[RTK reports token savings, but our cost benchmarks disagree](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/)**
+   53 points by `michalwarda` - [26 comments](https://news.ycombinator.com/item?id=49656471)
 
-3. **[OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)**
-   160 points by `aquir` - [101 comments](https://news.ycombinator.com/item?id=49649213)
+3. **[Cherenkov Radiation - traveling faster than light](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)**
+   124 points by `andsoitis` - [71 comments](https://news.ycombinator.com/item?id=49655286)
 
-4. **[Thelio Mira AI Linux Workstation: 192 GB GPU Memory](https://system76.com/workstations/thelio-mira-ai)**
-   49 points by `jonifico` - [27 comments](https://news.ycombinator.com/item?id=49651372)
+4. **[So you want to use OpenRouter?](https://mmoustafa.com/blog/so-you-want-to-use-openrouter/)**
+   277 points by `player85` - [62 comments](https://news.ycombinator.com/item?id=49621546)
 
-5. **[Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)**
-   353 points by `Brajeshwar` - [263 comments](https://news.ycombinator.com/item?id=49645393)
+5. **[Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)**
+   1132 points by `fnthawar2` - [825 comments](https://news.ycombinator.com/item?id=49643982)
 
-6. **[YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/)**
-   54 points by `sexy_seedbox` - [47 comments](https://news.ycombinator.com/item?id=49652028)
+6. **[Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850)**
+   15 points by `cromka` - [2 comments](https://news.ycombinator.com/item?id=49657850)
 
-7. **[Google will buy half the electricity of a nuclear power plant](https://www.bbc.com/news/articles/c8r6y4me2g6o)**
-   111 points by `lukaspetersson` - [82 comments](https://news.ycombinator.com/item?id=49652105)
+7. **[Show HN: Foldelight – the iPhone Duo folding effect the MacBook was owed](https://lufzle.dev/foldelight/)**
+   7 points by `riffonio` - [2 comments](https://news.ycombinator.com/item?id=49656948)
 
-8. **[Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2)**
-   363 points by `seelos` - [153 comments](https://news.ycombinator.com/item?id=49645443)
+8. **[Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)**
+   613 points by `Brajeshwar` - [384 comments](https://news.ycombinator.com/item?id=49645393)
 
-9. **[Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)**
-   61 points by `rguiscard` - [21 comments](https://news.ycombinator.com/item?id=49652237)
+9. **[Claude is no longer available for minors](https://support.claude.com/en/articles/15171100-age-assurance-on-claude)**
+   175 points by `Muhammad523` - [237 comments](https://news.ycombinator.com/item?id=49656225)
 
-10. **[Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)](https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images)**
-   284 points by `gumby` - [45 comments](https://news.ycombinator.com/item?id=49645437)
+10. **[iPod Classic 6G in QEMU](https://www.reddit.com/r/emulation/s/VL4Au2HGxq)**
+   52 points by `dmonterocrespo` - [7 comments](https://news.ycombinator.com/item?id=49611240)

@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-09-12.md`](./digests/2026-09-12.md)
 
-_Captured 2026-09-12 02:57 UTC._
+_Captured 2026-09-12 14:13 UTC._
 
-1. **[A misalignment of AI in mathematics](https://mathandai.org/)**
-   695 points by `meredydd` - [725 comments](https://news.ycombinator.com/item?id=49662371)
+1. **[Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)**
+   232 points by `JayOtter` - [170 comments](https://news.ycombinator.com/item?id=49671329)
 
-2. **[I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)**
-   344 points by `nickabe` - [181 comments](https://news.ycombinator.com/item?id=49662990)
+2. **[IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI)**
+   335 points by `kegenaar` - [73 comments](https://news.ycombinator.com/item?id=49639647)
 
-3. **[A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/)**
-   168 points by `wcrichton` - [37 comments](https://news.ycombinator.com/item?id=49626718)
+3. **[Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)**
+   148 points by `zdw` - [19 comments](https://news.ycombinator.com/item?id=49670032)
 
-4. **[OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)**
-   401 points by `chao-` - [230 comments](https://news.ycombinator.com/item?id=49666735)
+4. **[The Worst Spam Emails: Inside iLands' AI Agent Hustle](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)**
+   48 points by `ColinWright` - [26 comments](https://news.ycombinator.com/item?id=49671159)
 
-5. **[AI researchers debate how close we are to recursive self-improvement](https://www.dwarkesh.com/p/john-beren-charlie)**
-   54 points by `artninja1988` - [38 comments](https://news.ycombinator.com/item?id=49665711)
+5. **[A misalignment of AI in mathematics](https://mathandai.org/)**
+   1053 points by `meredydd` - [1012 comments](https://news.ycombinator.com/item?id=49662371)
 
-6. **[GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)**
-   213 points by `microtonal` - [133 comments](https://news.ycombinator.com/item?id=49663373)
+6. **[I Fixed a Tractor Using John Deere's Self-Repair Service. Farmers Aren't Sold](https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/)**
+   21 points by `sbulaev` - [31 comments](https://news.ycombinator.com/item?id=49658672)
 
-7. **[Project Blinkenlights](https://blinkenlights.de/en/)**
-   56 points by `doener` - [23 comments](https://news.ycombinator.com/item?id=49666146)
+7. **[Coding Is Over. Get over It](https://blog.pitermarx.com/2026/09/coding-is-over.-get-over-it./)**
+   6 points by `pitermarx` - [1 comments](https://news.ycombinator.com/item?id=49672045)
 
-8. **[Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)**
-   102 points by `kennethwolters` - [38 comments](https://news.ycombinator.com/item?id=49662767)
+8. **[I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)**
+   625 points by `nickabe` - [345 comments](https://news.ycombinator.com/item?id=49662990)
 
-9. **[How Poor People Buy Cars](https://abio.substack.com/p/how-poor-people-buy-cars)**
-   52 points by `barry-cotter` - [38 comments](https://news.ycombinator.com/item?id=49667762)
+9. **[LRU is harder to beat than the KV-cache papers suggest](https://github.com/gauravapiscean/agentic-kv-cache)**
+   14 points by `gauravapiscean` - [4 comments](https://news.ycombinator.com/item?id=49643543)
 
-10. **[Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ)**
-   34 points by `mirza_rizvi` - [12 comments](https://news.ycombinator.com/item?id=49665864)
+10. **[Forgotten Woodlands](https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49)**
+   21 points by `NaOH` - [4 comments](https://news.ycombinator.com/item?id=49665549)

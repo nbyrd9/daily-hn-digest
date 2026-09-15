@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-09-15.md`](./digests/2026-09-15.md)
 
-_Captured 2026-09-15 00:20 UTC._
+_Captured 2026-09-15 07:46 UTC._
 
 1. **[iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)**
-   324 points by `throw0101d` - [364 comments](https://news.ycombinator.com/item?id=49701004)
+   559 points by `throw0101d` - [620 comments](https://news.ycombinator.com/item?id=49701004)
 
-2. **[Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion)**
-   270 points by `lukaspetersson` - [281 comments](https://news.ycombinator.com/item?id=49700477)
+2. **[Linux from Scratch](https://www.linuxfromscratch.org/)**
+   114 points by `sippingabonedry` - [38 comments](https://news.ycombinator.com/item?id=49707627)
 
-3. **[Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd)**
-   20 points by `fretlessjazz` - [0 comments](https://news.ycombinator.com/item?id=49705442)
+3. **[OpenArm: An open-source 7DOF humanoid arm](https://github.com/enactic/OpenArm)**
+   55 points by `Lwrless` - [11 comments](https://news.ycombinator.com/item?id=49684289)
 
-4. **[Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/)**
-   66 points by `thingsilearned` - [20 comments](https://news.ycombinator.com/item?id=49704246)
+4. **[4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls](https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/)**
+   113 points by `arunbahl` - [28 comments](https://news.ycombinator.com/item?id=49675817)
 
-5. **[Compressing a Flag to 11 Bits](https://read.vantezzen.io/miniflags)**
-   50 points by `bennett_dev` - [21 comments](https://news.ycombinator.com/item?id=49673689)
+5. **[Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion)**
+   380 points by `lukaspetersson` - [443 comments](https://news.ycombinator.com/item?id=49700477)
 
-6. **[Distributed Systems Classics (2017)](https://nvartolomei.com/dist-sys-classics/)**
-   222 points by `grep_it` - [43 comments](https://news.ycombinator.com/item?id=49699158)
+6. **[When code is a maze, smart developers make maps (2025)](https://medium.com/@simonsmartiom/when-code-is-a-maze-smart-developers-make-maps-fbc452a48c1b)**
+   20 points by `boxesnlines` - [25 comments](https://news.ycombinator.com/item?id=49693690)
 
-7. **[OpenAI bots knew about the RubyGems caching vulnerability](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/)**
-   356 points by `gregnavis` - [304 comments](https://news.ycombinator.com/item?id=49695876)
+7. **[Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/)**
+   205 points by `thingsilearned` - [64 comments](https://news.ycombinator.com/item?id=49704246)
 
-8. **[Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit](https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html)**
-   156 points by `neom` - [158 comments](https://news.ycombinator.com/item?id=49704008)
+8. **[XCancel service is suspended until further notice](https://xcancel.com/#)**
+   590 points by `gaganyaan` - [880 comments](https://news.ycombinator.com/item?id=49694296)
 
-9. **[XCancel service is suspended until further notice](https://xcancel.com/#)**
-   425 points by `gaganyaan` - [739 comments](https://news.ycombinator.com/item?id=49694296)
+9. **[Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)](https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/)**
+   95 points by `nathannaveen` - [25 comments](https://news.ycombinator.com/item?id=49697477)
 
-10. **[How my e-reader lost its stripes](https://www.serpentine.com/posts/2026/x3-stripes/)**
-   140 points by `simonmic` - [23 comments](https://news.ycombinator.com/item?id=49699489)
+10. **[Show HN: Redis City – Explore how Redis works in an interactive 3D model](https://poltora.dev/redis)**
+   55 points by `poltora` - [9 comments](https://news.ycombinator.com/item?id=49676425)

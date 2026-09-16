@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-09-16.md`](./digests/2026-09-16.md)
 
-_Captured 2026-09-16 00:21 UTC._
+_Captured 2026-09-16 03:21 UTC._
 
 1. **[Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)**
-   665 points by `albelfio` - [214 comments](https://news.ycombinator.com/item?id=49717558)
+   878 points by `albelfio` - [281 comments](https://news.ycombinator.com/item?id=49717558)
 
 2. **[Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)**
-   1247 points by `arnemunthekaas` - [175 comments](https://news.ycombinator.com/item?id=49711544)
+   1370 points by `arnemunthekaas` - [183 comments](https://news.ycombinator.com/item?id=49711544)
 
-3. **[An Update on Wayback Machine Access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/)**
-   352 points by `ChrisArchitect` - [194 comments](https://news.ycombinator.com/item?id=49716176)
+3. **[Negativland, Culture Jamming, and the Art of Making Something New](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/)**
+   14 points by `bananaboy` - [4 comments](https://news.ycombinator.com/item?id=49721548)
 
-4. **[German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)**
-   105 points by `summarity` - [28 comments](https://news.ycombinator.com/item?id=49718928)
+4. **[An update on Wayback Machine access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/)**
+   421 points by `ChrisArchitect` - [222 comments](https://news.ycombinator.com/item?id=49716176)
 
 5. **[Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/)**
-   269 points by `leumon` - [183 comments](https://news.ycombinator.com/item?id=49715947)
+   331 points by `leumon` - [203 comments](https://news.ycombinator.com/item?id=49715947)
 
-6. **[Jean-Pierre Serre is 100 years old today](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/)**
-   76 points by `jzox` - [13 comments](https://news.ycombinator.com/item?id=49718822)
+6. **[German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)**
+   147 points by `summarity` - [44 comments](https://news.ycombinator.com/item?id=49718928)
 
-7. **[Building a Linux GPU Driver for the M4 Mac Mini in One Month](https://codyho.dev/blog/gpu-driver/)**
-   125 points by `ADevWithAnIdea` - [77 comments](https://news.ycombinator.com/item?id=49717638)
+7. **[Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/)**
+   19 points by `imwally` - [8 comments](https://news.ycombinator.com/item?id=49721322)
 
-8. **[We got admin access to Baseten's production GitHub in 25 minutes](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover)**
-   195 points by `bearsyankees` - [106 comments](https://news.ycombinator.com/item?id=49716476)
+8. **[Stay discoverable in search while disallowing AI training](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)**
+   24 points by `djfergus` - [12 comments](https://news.ycombinator.com/item?id=49721435)
 
-9. **[Why I'm still bearish on LLMs after Navier-Stokes](https://dank.systems/posts/2026-09-15-ai-bear.html)**
-   107 points by `jaykru` - [61 comments](https://news.ycombinator.com/item?id=49715927)
+9. **[Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA](https://nand2mario.github.io/posts/2026/zsst-voodoo/)**
+   53 points by `zdw` - [10 comments](https://news.ycombinator.com/item?id=49719938)
 
-10. **[Chopping up books when they're physically too big](https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html)**
-   109 points by `matt_kirkland` - [106 comments](https://news.ycombinator.com/item?id=49716953)
+10. **[We got admin access to Baseten's production GitHub in 25 minutes](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover)**
+   241 points by `bearsyankees` - [130 comments](https://news.ycombinator.com/item?id=49716476)

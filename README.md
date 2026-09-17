@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-09-17.md`](./digests/2026-09-17.md)
 
-_Captured 2026-09-17 02:31 UTC._
+_Captured 2026-09-17 09:54 UTC._
 
-1. **[Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)**
-   323 points by `nonmaskable` - [130 comments](https://news.ycombinator.com/item?id=49724881)
+1. **[One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)**
+   60 points by `AshleysBrain` - [26 comments](https://news.ycombinator.com/item?id=49737849)
 
-2. **[Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)**
-   416 points by `polyphilz` - [84 comments](https://news.ycombinator.com/item?id=49731285)
+2. **[I didn't sign the Fields medallists' letter](https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/)**
+   18 points by `simianwords` - [24 comments](https://news.ycombinator.com/item?id=49738091)
 
-3. **[Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/)**
-   278 points by `krackers` - [69 comments](https://news.ycombinator.com/item?id=49732270)
+3. **[Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)**
+   685 points by `nonmaskable` - [268 comments](https://news.ycombinator.com/item?id=49724881)
 
-4. **[Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)**
-   148 points by `matt_d` - [20 comments](https://news.ycombinator.com/item?id=49732931)
+4. **[Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)**
+   167 points by `Ryan5453` - [64 comments](https://news.ycombinator.com/item?id=49735930)
 
-5. **[Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html)**
-   100 points by `afilipovski` - [44 comments](https://news.ycombinator.com/item?id=49732513)
+5. **[The Relation Between Mathematics and Physics by Paul Dirac](https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html)**
+   46 points by `rramadass` - [12 comments](https://news.ycombinator.com/item?id=49685835)
 
-6. **[Small programming tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)**
-   410 points by `signa11` - [186 comments](https://news.ycombinator.com/item?id=49729000)
+6. **[My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it](https://jakeasmith.com/blog/http-build-url/)**
+   104 points by `jakeasmith` - [17 comments](https://news.ycombinator.com/item?id=49718773)
 
-7. **[The engineering behind the US Strategic Petroleum Reserve](https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve)**
-   118 points by `johnjwang` - [43 comments](https://news.ycombinator.com/item?id=49719596)
+7. **[Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)**
+   550 points by `polyphilz` - [117 comments](https://news.ycombinator.com/item?id=49731285)
 
-8. **[Developing provably correct Rust code with Verus](https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus)**
-   27 points by `Betelbuddy` - [1 comments](https://news.ycombinator.com/item?id=49700153)
+8. **[GLM Built Its Own Inference Infrastructure](https://z.ai/blog/glm-built-its-inference-infrastructure)**
+   12 points by `whiteros_e` - [0 comments](https://news.ycombinator.com/item?id=49737922)
 
-9. **[OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/)**
-   76 points by `etoxin` - [28 comments](https://news.ycombinator.com/item?id=49734264)
+9. **[Lucasart's Afterlife](https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/)**
+   18 points by `Bondi_Blue` - [10 comments](https://news.ycombinator.com/item?id=49719751)
 
-10. **[The Return of Sail Power: Cargo Ships Are Turning Back to the Wind](https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/)**
-   23 points by `gumby` - [4 comments](https://news.ycombinator.com/item?id=49734929)
+10. **[Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/)**
+   434 points by `krackers` - [111 comments](https://news.ycombinator.com/item?id=49732270)

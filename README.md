@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-09-18.md`](./digests/2026-09-18.md)
 
-_Captured 2026-09-18 02:54 UTC._
+_Captured 2026-09-18 20:49 UTC._
 
-1. **[Astra for Law](https://openai.com/index/astra-for-law/)**
-   351 points by `vertigoruntime` - [383 comments](https://news.ycombinator.com/item?id=49745940)
+1. **[Korea raises data breach fines to 10% of revenue](https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899)**
+   87 points by `throw7` - [20 comments](https://news.ycombinator.com/item?id=49759466)
 
-2. **[Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)**
-   263 points by `JonSchneider` - [83 comments](https://news.ycombinator.com/item?id=49746618)
+2. **[Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)**
+   204 points by `theanonymousone` - [93 comments](https://news.ycombinator.com/item?id=49758736)
 
-3. **[Goose:experimental lang 1.16x faster than C++ and 1.12x than safe Rust, mem safe](https://github.com/aardappel/goose/tree/master)**
-   43 points by `bobbydigitales` - [36 comments](https://news.ycombinator.com/item?id=49748954)
+3. **[Cloudflare Quick Tunnels](https://try.cloudflare.com/)**
+   431 points by `jcbhmr` - [192 comments](https://news.ycombinator.com/item?id=49754785)
 
-4. **[Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/)**
-   322 points by `nicolas-siplis` - [168 comments](https://news.ycombinator.com/item?id=49746163)
+4. **[Saving another 100TB of RAM with math (and Rust)](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/)**
+   76 points by `f311a` - [10 comments](https://news.ycombinator.com/item?id=49758580)
 
-5. **[Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister)**
-   490 points by `bookofjoe` - [139 comments](https://news.ycombinator.com/item?id=49743097)
+5. **[Apple releases iPhone Duo simulator and Xcode 27.1 beta](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes)**
+   66 points by `CameronBanga` - [31 comments](https://news.ycombinator.com/item?id=49758419)
 
-6. **[Wax motor](https://en.wikipedia.org/wiki/Wax_motor)**
-   269 points by `mhb` - [50 comments](https://news.ycombinator.com/item?id=49726007)
+6. **[Cache-to-Cache: Direct Semantic Communication Between Large Language Models](https://arxiv.org/abs/2510.03215)**
+   35 points by `rochansinha` - [6 comments](https://news.ycombinator.com/item?id=49758615)
 
-7. **[Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02)**
-   524 points by `my123` - [198 comments](https://news.ycombinator.com/item?id=49715813)
+7. **[Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug](https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/)**
+   116 points by `synack` - [35 comments](https://news.ycombinator.com/item?id=49757050)
 
-8. **[Alibaba releases Qwen 3.8 Omni Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash)**
-   48 points by `jjcm` - [8 comments](https://news.ycombinator.com/item?id=49747925)
+8. **[Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash](https://cactuscompute.com/needle)**
+   120 points by `HenryNdubuaku` - [59 comments](https://news.ycombinator.com/item?id=49748553)
 
-9. **[Telstra outage: The night a network decided the year was 2006](https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006)**
-   14 points by `TMWNN` - [3 comments](https://news.ycombinator.com/item?id=49748957)
+9. **[OpenJev](https://openjev.com/)**
+   487 points by `ilreb` - [233 comments](https://news.ycombinator.com/item?id=49752041)
 
-10. **[Flet 1.0 – Build cross-platform apps in Python](https://flet.dev/)**
-   67 points by `absqueued` - [36 comments](https://news.ycombinator.com/item?id=49746290)
+10. **[The Implications of Linguistic Illegibility for LLM Security](https://arxiv.org/abs/2609.02852)**
+   23 points by `tomjakubowski` - [10 comments](https://news.ycombinator.com/item?id=49758689)

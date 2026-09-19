@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-09-19.md`](./digests/2026-09-19.md)
 
-_Captured 2026-09-19 17:26 UTC._
+_Captured 2026-09-19 19:55 UTC._
 
-1. **[Laya the open source version of Jev](https://laya.convaiinnovations.com/)**
-   600 points by `nandakishor_ml` - [145 comments](https://news.ycombinator.com/item?id=49765348)
+1. **[I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/)**
+   829 points by `nandakishor_ml` - [204 comments](https://news.ycombinator.com/item?id=49765348)
 
-2. **[A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk)**
-   82 points by `graemep` - [58 comments](https://news.ycombinator.com/item?id=49766676)
+2. **[AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)**
+   1055 points by `ereiamjh` - [597 comments](https://news.ycombinator.com/item?id=49764791)
 
-3. **[AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)**
-   801 points by `ereiamjh` - [481 comments](https://news.ycombinator.com/item?id=49764791)
+3. **[Btrfs/ZFS/bcachefs under workloads classic benchmarks skip](https://bartosz.fenski.pl/modern-fs-benchmark/)**
+   38 points by `farlight` - [26 comments](https://news.ycombinator.com/item?id=49768833)
 
 4. **[Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)**
-   506 points by `emigre` - [186 comments](https://news.ycombinator.com/item?id=49763697)
+   572 points by `emigre` - [207 comments](https://news.ycombinator.com/item?id=49763697)
 
-5. **[Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin)**
-   93 points by `ksec` - [45 comments](https://news.ycombinator.com/item?id=49766611)
+5. **[A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk)**
+   116 points by `graemep` - [89 comments](https://news.ycombinator.com/item?id=49766676)
 
-6. **[Asking Authors About Their Own Papers](https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0)**
-   77 points by `stefanpie` - [40 comments](https://news.ycombinator.com/item?id=49734467)
+6. **[Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin)**
+   136 points by `ksec` - [61 comments](https://news.ycombinator.com/item?id=49766611)
 
-7. **[“The Secret Life of Circuits” is here](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here)**
-   202 points by `surprisetalk` - [54 comments](https://news.ycombinator.com/item?id=49720143)
+7. **[Suzanne Ciani's Buchla Cookbook](https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook)**
+   21 points by `stuart78` - [8 comments](https://news.ycombinator.com/item?id=49735010)
 
-8. **[Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'](https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/)**
-   53 points by `jandrewrogers` - [17 comments](https://news.ycombinator.com/item?id=49756121)
+8. **[UFO Series Home Page: "UFO" TV Series from 1970](https://ufoseries.com/)**
+   7 points by `DropDead` - [1 comments](https://news.ycombinator.com/item?id=49754194)
 
-9. **[Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)**
-   992 points by `theanonymousone` - [555 comments](https://news.ycombinator.com/item?id=49758736)
+9. **[The Secret Life of Circuits](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here)**
+   242 points by `surprisetalk` - [62 comments](https://news.ycombinator.com/item?id=49720143)
 
-10. **[GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)**
-   264 points by `nsoonhui` - [135 comments](https://news.ycombinator.com/item?id=49763987)
+10. **[Show HN: CUA-S1 – A System One Model for Computer Use](https://github.com/trycua/cua)**
+   15 points by `frabonacci` - [1 comments](https://news.ycombinator.com/item?id=49767564)

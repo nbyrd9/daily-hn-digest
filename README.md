@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-09-19.md`](./digests/2026-09-19.md)
 
-_Captured 2026-09-19 14:48 UTC._
+_Captured 2026-09-19 17:26 UTC._
 
 1. **[Laya the open source version of Jev](https://laya.convaiinnovations.com/)**
-   313 points by `nandakishor_ml` - [62 comments](https://news.ycombinator.com/item?id=49765348)
+   600 points by `nandakishor_ml` - [145 comments](https://news.ycombinator.com/item?id=49765348)
 
-2. **[What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)**
-   28 points by `ksec` - [8 comments](https://news.ycombinator.com/item?id=49766637)
+2. **[A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk)**
+   82 points by `graemep` - [58 comments](https://news.ycombinator.com/item?id=49766676)
 
-3. **[Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin)**
-   19 points by `ksec` - [3 comments](https://news.ycombinator.com/item?id=49766611)
+3. **[AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)**
+   801 points by `ereiamjh` - [481 comments](https://news.ycombinator.com/item?id=49764791)
 
-4. **[AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)**
-   556 points by `ereiamjh` - [343 comments](https://news.ycombinator.com/item?id=49764791)
+4. **[Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)**
+   506 points by `emigre` - [186 comments](https://news.ycombinator.com/item?id=49763697)
 
-5. **[Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)**
-   422 points by `emigre` - [156 comments](https://news.ycombinator.com/item?id=49763697)
+5. **[Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin)**
+   93 points by `ksec` - [45 comments](https://news.ycombinator.com/item?id=49766611)
 
-6. **[A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk)**
-   15 points by `graemep` - [4 comments](https://news.ycombinator.com/item?id=49766676)
+6. **[Asking Authors About Their Own Papers](https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0)**
+   77 points by `stefanpie` - [40 comments](https://news.ycombinator.com/item?id=49734467)
 
 7. **[“The Secret Life of Circuits” is here](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here)**
-   150 points by `surprisetalk` - [33 comments](https://news.ycombinator.com/item?id=49720143)
+   202 points by `surprisetalk` - [54 comments](https://news.ycombinator.com/item?id=49720143)
 
-8. **[Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)**
-   934 points by `theanonymousone` - [513 comments](https://news.ycombinator.com/item?id=49758736)
+8. **[Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'](https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/)**
+   53 points by `jandrewrogers` - [17 comments](https://news.ycombinator.com/item?id=49756121)
 
-9. **[Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'](https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/)**
-   15 points by `jandrewrogers` - [3 comments](https://news.ycombinator.com/item?id=49756121)
+9. **[Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)**
+   992 points by `theanonymousone` - [555 comments](https://news.ycombinator.com/item?id=49758736)
 
-10. **[San Francisco Onion Futures Company](https://onionfutures.com/)**
-   262 points by `z-mach9` - [91 comments](https://news.ycombinator.com/item?id=49763296)
+10. **[GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)**
+   264 points by `nsoonhui` - [135 comments](https://news.ycombinator.com/item?id=49763987)

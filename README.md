@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-09-22.md`](./digests/2026-09-22.md)
 
-_Captured 2026-09-22 01:31 UTC._
+_Captured 2026-09-22 07:18 UTC._
 
-1. **[Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)**
-   522 points by `volf_` - [269 comments](https://news.ycombinator.com/item?id=49792730)
+1. **[MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)**
+   800 points by `volf_` - [359 comments](https://news.ycombinator.com/item?id=49792730)
 
-2. **[Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh)**
-   28 points by `corvad` - [14 comments](https://news.ycombinator.com/item?id=49795579)
+2. **[Spymarks, Not Watermarks](https://brand.io/article/spymarks/)**
+   346 points by `possibilistic` - [77 comments](https://news.ycombinator.com/item?id=49794615)
 
-3. **[Spymarks, Not Watermarks](https://brand.io/article/spymarks/)**
-   100 points by `possibilistic` - [23 comments](https://news.ycombinator.com/item?id=49794615)
+3. **[Apple Music to open concert venue in Battersea Power Station](https://www.bbc.com/news/articles/c607l2j2rj8ro)**
+   46 points by `dabinat` - [31 comments](https://news.ycombinator.com/item?id=49797139)
 
-4. **[NASA’s Mars Sample Return mission is dead](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead)**
-   305 points by `Muhammad523` - [235 comments](https://news.ycombinator.com/item?id=49791939)
+4. **[Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/)**
+   346 points by `aray07` - [53 comments](https://news.ycombinator.com/item?id=49792342)
 
-5. **[I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)**
-   222 points by `mooreds` - [87 comments](https://news.ycombinator.com/item?id=49794330)
+5. **[Attention is all you have](https://alicegg.tech/2026/09/21/attention)**
+   729 points by `zer0tonin` - [214 comments](https://news.ycombinator.com/item?id=49787726)
 
-6. **[Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/)**
-   196 points by `aray07` - [35 comments](https://news.ycombinator.com/item?id=49792342)
+6. **[MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/mimo-v2-6-pro)**
+   19 points by `theanonymousone` - [4 comments](https://news.ycombinator.com/item?id=49796660)
 
 7. **[What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)**
-   494 points by `chmaynard` - [283 comments](https://news.ycombinator.com/item?id=49787436)
+   563 points by `chmaynard` - [324 comments](https://news.ycombinator.com/item?id=49787436)
 
-8. **[Attention is all you have](https://alicegg.tech/2026/09/21/attention)**
-   572 points by `zer0tonin` - [170 comments](https://news.ycombinator.com/item?id=49787726)
+8. **[Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)**
+   8 points by `networked` - [0 comments](https://news.ycombinator.com/item?id=49797323)
 
-9. **[AI coding has made CI a bottleneck, so we reworked ours to keep up](https://linear.app/now/ci-bottleneck-reworked)**
-   137 points by `julian_digital` - [137 comments](https://news.ycombinator.com/item?id=49792067)
+9. **[I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)**
+   579 points by `mooreds` - [206 comments](https://news.ycombinator.com/item?id=49794330)
 
-10. **[The agents, they just want to talk](https://snats.xyz/pages/articles/political_ecology/the_agents_they_just_want_to_talk.html)**
-   11 points by `snats` - [1 comments](https://news.ycombinator.com/item?id=49789361)
+10. **[NASA’s Mars Sample Return mission is dead](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead)**
+   371 points by `Muhammad523` - [306 comments](https://news.ycombinator.com/item?id=49791939)

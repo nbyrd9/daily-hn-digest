@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-09-26.md`](./digests/2026-09-26.md)
 
-_Captured 2026-09-26 14:34 UTC._
+_Captured 2026-09-26 18:13 UTC._
 
 1. **[Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)**
-   269 points by `ezst` - [105 comments](https://news.ycombinator.com/item?id=49855315)
+   516 points by `ezst` - [197 comments](https://news.ycombinator.com/item?id=49855315)
 
-2. **[Understanding the Impact of LLM Watermarking on AI Agent Behavior](https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior)**
-   41 points by `nisosguy` - [22 comments](https://news.ycombinator.com/item?id=49856149)
+2. **[PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe)**
+   124 points by `Qision` - [61 comments](https://news.ycombinator.com/item?id=49842764)
 
-3. **[Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)**
-   149 points by `ksec` - [17 comments](https://news.ycombinator.com/item?id=49854693)
+3. **[Show HN: A Claude Code skill to analyze your chess games](https://github.com/brumar/chess-postmortem-skills)**
+   45 points by `brumar` - [30 comments](https://news.ycombinator.com/item?id=49857528)
 
-4. **[Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)**
-   568 points by `specked-citrus` - [359 comments](https://news.ycombinator.com/item?id=49849985)
+4. **[Make Claude your assistant in excalidraw](https://tangled.org/yanndegat.tngl.sh/drawgent)**
+   24 points by `parasitid` - [9 comments](https://news.ycombinator.com/item?id=49857729)
 
-5. **[We're gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)**
-   212 points by `srcreigh` - [293 comments](https://news.ycombinator.com/item?id=49852717)
+5. **[Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)**
+   256 points by `ksec` - [42 comments](https://news.ycombinator.com/item?id=49854693)
 
-6. **[Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html)**
-   408 points by `jmvldz` - [372 comments](https://news.ycombinator.com/item?id=49840054)
+6. **[The Lost Atomic Update on Loongson CPU](https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/)**
+   43 points by `jiegec` - [1 comments](https://news.ycombinator.com/item?id=49827900)
 
-7. **[Modern Object Pascal Introduction for Programmers – Castle Game Engine](https://castle-engine.io/modern_pascal)**
-   21 points by `birdculture` - [7 comments](https://news.ycombinator.com/item?id=49829202)
+7. **[OpenAI bots meddled with multiple US Government agency sites](https://www.bbc.com/news/articles/cw62jje658dlo)**
+   26 points by `Betelbuddy` - [12 comments](https://news.ycombinator.com/item?id=49856665)
 
-8. **[Reflections on 1,000 Days of Math](https://gmays.com/reflections-on-1000-days-of-math/)**
-   3 points by `gmays` - [0 comments](https://news.ycombinator.com/item?id=49816907)
+8. **[Modern Object Pascal Introduction for Programmers – Castle Game Engine](https://castle-engine.io/modern_pascal)**
+   77 points by `birdculture` - [31 comments](https://news.ycombinator.com/item?id=49829202)
 
-9. **[Floci: Locally emulating any cloud service](https://floci.io)**
-   77 points by `theanonymousone` - [11 comments](https://news.ycombinator.com/item?id=49854416)
+9. **[Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)**
+   634 points by `specked-citrus` - [402 comments](https://news.ycombinator.com/item?id=49849985)
 
-10. **[Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)**
-   513 points by `Ardakilic` - [126 comments](https://news.ycombinator.com/item?id=49848269)
+10. **[Reflections on 1,000 Days of Math](https://gmays.com/reflections-on-1000-days-of-math/)**
+   46 points by `gmays` - [14 comments](https://news.ycombinator.com/item?id=49816907)

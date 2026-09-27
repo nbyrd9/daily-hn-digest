@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-09-27.md`](./digests/2026-09-27.md)
 
-_Captured 2026-09-27 08:23 UTC._
+_Captured 2026-09-27 19:14 UTC._
 
-1. **[Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later)**
-   308 points by `silveraxe93` - [217 comments](https://news.ycombinator.com/item?id=49844657)
+1. **[Ember-1](https://fireworks.ai/blog/ember-1)**
+   117 points by `gmays` - [52 comments](https://news.ycombinator.com/item?id=49868830)
 
-2. **[Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/)**
-   200 points by `chmaynard` - [62 comments](https://news.ycombinator.com/item?id=49856988)
+2. **[In an $80 motel room, a discovery to shed light on the origins of life](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html)**
+   138 points by `danso` - [53 comments](https://news.ycombinator.com/item?id=49866951)
 
-3. **[Flip Fluid on Flip Dots](https://mitxela.com/projects/flipflip)**
-   46 points by `blutack` - [6 comments](https://news.ycombinator.com/item?id=49854219)
+3. **[Writing Efficient C++ Code (2013)](https://asawicki.info/articles/writing_efficient_cpp_code.php)**
+   109 points by `ibobev` - [47 comments](https://news.ycombinator.com/item?id=49849409)
 
-4. **[OpenAI Feared "Optics" of what might appear on Hacker News](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)**
-   25 points by `papergirl` - [2 comments](https://news.ycombinator.com/item?id=49863864)
+4. **[Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/)**
+   100 points by `surprisetalk` - [49 comments](https://news.ycombinator.com/item?id=49866515)
 
-5. **[PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe)**
-   403 points by `Qision` - [219 comments](https://news.ycombinator.com/item?id=49842764)
+5. **[Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/)**
+   57 points by `hp6` - [31 comments](https://news.ycombinator.com/item?id=49867775)
 
-6. **[Improving site performance by shipping more CSS](https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/)**
-   34 points by `torutofu` - [15 comments](https://news.ycombinator.com/item?id=49856193)
+6. **[The Normalization of Inexplicable Failures](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html)**
+   186 points by `pxx` - [65 comments](https://news.ycombinator.com/item?id=49867486)
 
-7. **[DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)**
-   237 points by `shenli3514` - [79 comments](https://news.ycombinator.com/item?id=49859112)
+7. **[SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]](https://www.youtube.com/watch?v=-Nvne3LzBls)**
+   132 points by `CharlesW` - [37 comments](https://news.ycombinator.com/item?id=49868831)
 
-8. **[Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)**
-   288 points by `jpwalsh234` - [80 comments](https://news.ycombinator.com/item?id=49858513)
+8. **[Oral history of John Chowning, inventor of FM synthesis [video]](https://www.youtube.com/watch?v=e1Xn3030IvM)**
+   4 points by `Rochus` - [0 comments](https://news.ycombinator.com/item?id=49869142)
 
-9. **[What is the size of Yemen? (2024)](https://theborys.substack.com/p/what-is-the-size-of-yemen)**
-   147 points by `kspacewalk2` - [30 comments](https://news.ycombinator.com/item?id=49862809)
+9. **[On caring for user data: NeoVim caused Vim undo files to be deleted](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/)**
+   292 points by `jandeboevrie` - [255 comments](https://news.ycombinator.com/item?id=49867067)
 
-10. **[A searchable library of forgotten public-domain film clips from 1915 onward](https://www.movingimagearchive.com/)**
-   161 points by `momentmaker` - [26 comments](https://news.ycombinator.com/item?id=49832768)
+10. **[Fragment of oldest known peace treaty found in Turkey](https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey)**
+   20 points by `gmays` - [3 comments](https://news.ycombinator.com/item?id=49866988)

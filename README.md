@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-09-29.md`](./digests/2026-09-29.md)
 
-_Captured 2026-09-29 17:57 UTC._
+_Captured 2026-09-29 22:51 UTC._
 
-1. **[GPT 6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol/)**
-   282 points by `crorella` - [196 comments](https://news.ycombinator.com/item?id=49896586)
+1. **[U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)**
+   122 points by `ilamont` - [61 comments](https://news.ycombinator.com/item?id=49899090)
 
-2. **[Dots](https://openai.com/index/introducing-dots/)**
-   180 points by `alvis` - [95 comments](https://news.ycombinator.com/item?id=49896604)
+2. **[GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/)**
+   714 points by `crorella` - [642 comments](https://news.ycombinator.com/item?id=49896586)
 
-3. **[Tcl/Tk 9.1 Released](https://www.tcl-lang.org/software/tcltk/9.1.html)**
-   35 points by `dmux` - [5 comments](https://news.ycombinator.com/item?id=49896712)
+3. **[PS5 Relapse Exploit](https://github.com/ntfargo/Relapse-Exploit)**
+   197 points by `therepanic` - [101 comments](https://news.ycombinator.com/item?id=49895304)
 
-4. **[DraftKings Is Using AI to Behaviorally Target Chronic Gamblers](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising)**
-   175 points by `paimapi` - [109 comments](https://news.ycombinator.com/item?id=49896050)
+4. **[How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss)**
+   405 points by `rbanffy` - [238 comments](https://news.ycombinator.com/item?id=49892245)
 
-5. **[How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss)**
-   316 points by `rbanffy` - [187 comments](https://news.ycombinator.com/item?id=49892245)
+5. **[NAND-16: a computer built from 277,248 NAND gates](https://somethingbig.ai/computer)**
+   91 points by `rossant` - [46 comments](https://news.ycombinator.com/item?id=49871018)
 
-6. **[DevDay 2026 Recap](https://openai.com/index/devday-2026-recap/)**
-   24 points by `polygot` - [2 comments](https://news.ycombinator.com/item?id=49896600)
+6. **[Show HN: Real-time Solar System with 526k asteroids and all tracked satellites](https://space.bl2.net/)**
+   51 points by `wanick` - [21 comments](https://news.ycombinator.com/item?id=49898778)
 
-7. **[A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]](https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf)**
-   377 points by `damaru2` - [121 comments](https://news.ycombinator.com/item?id=49890226)
+7. **[America.gov](https://america.gov/)**
+   224 points by `plesiv` - [185 comments](https://news.ycombinator.com/item?id=49893509)
 
-8. **[Without the Hot Air](https://www.withouthotair.com/)**
-   99 points by `0sake_rs` - [48 comments](https://news.ycombinator.com/item?id=49892175)
+8. **[A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]](https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf)**
+   400 points by `damaru2` - [126 comments](https://news.ycombinator.com/item?id=49890226)
 
-9. **[Jeeves. Reasoning improves Jev-like decision models](https://github.com/PostHog/jeeves)**
-   185 points by `nicowaltz` - [76 comments](https://news.ycombinator.com/item?id=49891290)
+9. **[Show HN: TurboGPT: train 22KiB transformer in 13s](https://github.com/lostmsu/TurboGPT)**
+   36 points by `lostmsu` - [5 comments](https://news.ycombinator.com/item?id=49898931)
 
-10. **[Show HN: NSL – WSL for Linux](https://frostyard.github.io/nsl/)**
-   42 points by `bketelsen` - [31 comments](https://news.ycombinator.com/item?id=49894351)
+10. **[Tcl/Tk 9.1](https://www.tcl-lang.org/software/tcltk/9.1.html)**
+   225 points by `dmux` - [74 comments](https://news.ycombinator.com/item?id=49896712)

@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-10-09.md`](./digests/2026-10-09.md)
+## Latest snapshot - [`2026-10-10.md`](./digests/2026-10-10.md)
 
-_Captured 2026-10-09 23:08 UTC._
+_Captured 2026-10-10 23:41 UTC._
 
-1. **[YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306)**
-   301 points by `gumby` - [151 comments](https://news.ycombinator.com/item?id=50026555)
+1. **[Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)**
+   21 points by `softwaredoug` - [2 comments](https://news.ycombinator.com/item?id=50037949)
 
-2. **[Cloudflare acquires Deno](https://deno.com/blog/cloudflare)**
-   998 points by `ilreb` - [519 comments](https://news.ycombinator.com/item?id=50019911)
+2. **[2D Vehicles](https://patkerr.co.uk/2d-vehicles/)**
+   322 points by `Michelangelo11` - [77 comments](https://news.ycombinator.com/item?id=49991852)
 
-3. **[Triple-A Minesweeper](https://minesweeper.mikelacher.com/)**
-   467 points by `robin_reala` - [97 comments](https://news.ycombinator.com/item?id=50022292)
+3. **[A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)**
+   114 points by `JumpCrisscross` - [42 comments](https://news.ycombinator.com/item?id=50036864)
 
-4. **[No Man Is an Island](https://borretti.me/article/no-man-is-an-island)**
-   226 points by `zetalyrae` - [128 comments](https://news.ycombinator.com/item?id=50025935)
+4. **[Nix wrote half of my debugger](https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger)**
+   100 points by `ingve` - [12 comments](https://news.ycombinator.com/item?id=50017247)
 
-5. **[Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/)**
-   168 points by `simplyalec` - [16 comments](https://news.ycombinator.com/item?id=50024499)
+5. **[Why DuckDB 2.0 is faster](https://motherduck.com/blog/why-duckdb-20-is-faster/)**
+   119 points by `tosh` - [39 comments](https://news.ycombinator.com/item?id=50035530)
 
-6. **[Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)**
-   547 points by `ahlCVA` - [244 comments](https://news.ycombinator.com/item?id=50020014)
+6. **[The Lightbulb Computer](https://lightbulbcomputer.com/)**
+   170 points by `oskarth` - [38 comments](https://news.ycombinator.com/item?id=50029487)
 
-7. **[Ideas aren't getting harder to find, anyone who tells you otherwise is a coward](https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find)**
-   108 points by `rafaelc` - [44 comments](https://news.ycombinator.com/item?id=50024571)
+7. **[Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/)**
+   129 points by `Curiositry` - [48 comments](https://news.ycombinator.com/item?id=50034081)
 
-8. **[Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai)**
-   218 points by `tosh` - [186 comments](https://news.ycombinator.com/item?id=50023450)
+8. **[Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)**
+   230 points by `rociiu` - [118 comments](https://news.ycombinator.com/item?id=50031614)
 
-9. **[Sorry, I'm in a meeting](https://iminafleeting.com/)**
-   706 points by `splintersio` - [221 comments](https://news.ycombinator.com/item?id=50018088)
+9. **[Five months treating bugs like patients and coding agents like a medical team](https://www.cockroachlabs.com/blog/experiment-running-hospital-code/)**
+   24 points by `rafiss` - [6 comments](https://news.ycombinator.com/item?id=50021899)
 
-10. **[Pointing AI at archives found a forgotten meteorite, lost rhinos, and more](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/)**
-   86 points by `piratebroadcast` - [44 comments](https://news.ycombinator.com/item?id=50019056)
+10. **[Mxc: Microsoft Execution Containers version 1.0.0](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/)**
+   149 points by `smokel` - [32 comments](https://news.ycombinator.com/item?id=50016956)

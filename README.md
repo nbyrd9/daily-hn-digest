@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-10-10.md`](./digests/2026-10-10.md)
+## Latest snapshot - [`2026-10-11.md`](./digests/2026-10-11.md)
 
-_Captured 2026-10-10 23:41 UTC._
+_Captured 2026-10-11 10:41 UTC._
 
-1. **[Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)**
-   21 points by `softwaredoug` - [2 comments](https://news.ycombinator.com/item?id=50037949)
+1. **[IRCv3](https://ircv3.net/)**
+   32 points by `basilikum` - [8 comments](https://news.ycombinator.com/item?id=50041540)
 
-2. **[2D Vehicles](https://patkerr.co.uk/2d-vehicles/)**
-   322 points by `Michelangelo11` - [77 comments](https://news.ycombinator.com/item?id=49991852)
+2. **[LineageOS 24.0](https://lineageos.org/Changelog-32/)**
+   114 points by `timschumi` - [26 comments](https://news.ycombinator.com/item?id=50040276)
 
-3. **[A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)**
-   114 points by `JumpCrisscross` - [42 comments](https://news.ycombinator.com/item?id=50036864)
+3. **[Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)**
+   316 points by `softwaredoug` - [72 comments](https://news.ycombinator.com/item?id=50037949)
 
-4. **[Nix wrote half of my debugger](https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger)**
-   100 points by `ingve` - [12 comments](https://news.ycombinator.com/item?id=50017247)
+4. **[2D Vehicles](https://patkerr.co.uk/2d-vehicles/)**
+   489 points by `Michelangelo11` - [102 comments](https://news.ycombinator.com/item?id=49991852)
 
-5. **[Why DuckDB 2.0 is faster](https://motherduck.com/blog/why-duckdb-20-is-faster/)**
-   119 points by `tosh` - [39 comments](https://news.ycombinator.com/item?id=50035530)
+5. **[A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)**
+   355 points by `JumpCrisscross` - [120 comments](https://news.ycombinator.com/item?id=50036864)
 
 6. **[The Lightbulb Computer](https://lightbulbcomputer.com/)**
-   170 points by `oskarth` - [38 comments](https://news.ycombinator.com/item?id=50029487)
+   434 points by `oskarth` - [66 comments](https://news.ycombinator.com/item?id=50029487)
 
-7. **[Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/)**
-   129 points by `Curiositry` - [48 comments](https://news.ycombinator.com/item?id=50034081)
+7. **[How big is a Git commit?](https://ratfactor.com/cards/git-commit-size)**
+   38 points by `theanonymousone` - [17 comments](https://news.ycombinator.com/item?id=50017548)
 
-8. **[Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)**
-   230 points by `rociiu` - [118 comments](https://news.ycombinator.com/item?id=50031614)
+8. **[European Alternatives](https://buy-european.net/en/alternatives)**
+   69 points by `doener` - [36 comments](https://news.ycombinator.com/item?id=50039063)
 
-9. **[Five months treating bugs like patients and coding agents like a medical team](https://www.cockroachlabs.com/blog/experiment-running-hospital-code/)**
-   24 points by `rafiss` - [6 comments](https://news.ycombinator.com/item?id=50021899)
+9. **[Retrofitting language models to operate over bytes](https://www.nature.com/articles/s41586-026-11111-4)**
+   70 points by `theanonymousone` - [7 comments](https://news.ycombinator.com/item?id=50001234)
 
-10. **[Mxc: Microsoft Execution Containers version 1.0.0](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/)**
-   149 points by `smokel` - [32 comments](https://news.ycombinator.com/item?id=50016956)
+10. **[PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6)**
+   89 points by `therepanic` - [7 comments](https://news.ycombinator.com/item?id=50038623)

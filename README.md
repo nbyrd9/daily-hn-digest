@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-10-11.md`](./digests/2026-10-11.md)
+## Latest snapshot - [`2026-10-12.md`](./digests/2026-10-12.md)
 
-_Captured 2026-10-11 21:19 UTC._
+_Captured 2026-10-12 09:18 UTC._
 
-1. **[Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)**
-   225 points by `jttnr` - [92 comments](https://news.ycombinator.com/item?id=50045984)
+1. **[Postgres isn't slow, your storage is](https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is)**
+   66 points by `saisrirampur` - [36 comments](https://news.ycombinator.com/item?id=50052163)
 
-2. **[Cartographers of North Korea](https://cartographers-nk.wonyoung.so/)**
-   63 points by `edent` - [5 comments](https://news.ycombinator.com/item?id=50047091)
+2. **[Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)**
+   111 points by `lukaslalinsky` - [46 comments](https://news.ycombinator.com/item?id=50051573)
 
-3. **[Chapter 1 of Ways of Seeing by John Berger](https://www.ways-of-seeing.com/ch1)**
-   50 points by `rafael859` - [6 comments](https://news.ycombinator.com/item?id=50046241)
+3. **[Fable Took My Job](https://cendyne.dev/posts/2026-10-11-fable-took-my-jorb.html)**
+   9 points by `jllyhill` - [0 comments](https://news.ycombinator.com/item?id=50053216)
 
-4. **[Artificial Insanity](https://richwhitehouse.com/index.php?postid=78)**
-   30 points by `leglock` - [22 comments](https://news.ycombinator.com/item?id=50047071)
+4. **[Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)**
+   356 points by `royfish` - [172 comments](https://news.ycombinator.com/item?id=50048642)
 
-5. **[Be The Onion's Hero for Once](https://mailchi.mp/email.theonion.com/archivehunt)**
-   130 points by `mooreds` - [8 comments](https://news.ycombinator.com/item?id=50047055)
+5. **[Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)**
+   121 points by `subset` - [10 comments](https://news.ycombinator.com/item?id=50034206)
 
-6. **[Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)**
-   255 points by `Anon84` - [309 comments](https://news.ycombinator.com/item?id=50043026)
+6. **[Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)**
+   497 points by `jttnr` - [198 comments](https://news.ycombinator.com/item?id=50045984)
 
-7. **[NYC's "Click to Cancel" rule is now in effect](https://www.nyc.gov/main/click-to-cancel)**
-   225 points by `gregsadetsky` - [91 comments](https://news.ycombinator.com/item?id=50045946)
+7. **[Running the unmodified Linux amdgpu driver on an iPad](https://github.com/Geramy/LemonSeed-Studio)**
+   17 points by `joshcsimmons` - [7 comments](https://news.ycombinator.com/item?id=50041573)
 
-8. **[I guess I'm using WebP now?](https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now)**
-   42 points by `Brajeshwar` - [30 comments](https://news.ycombinator.com/item?id=50021989)
+8. **[Zod 4.6.6 compromised by malware?](https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467)**
+   113 points by `luggage_bazooka` - [28 comments](https://news.ycombinator.com/item?id=50052814)
 
-9. **[The Unreasonable Effectiveness of Vex in NixOS](https://blog.kammel.dev/post/nixos_vex/)**
-   19 points by `datosh` - [0 comments](https://news.ycombinator.com/item?id=50046864)
+9. **[Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography)**
+   128 points by `cainxinth` - [63 comments](https://news.ycombinator.com/item?id=50049411)
 
-10. **[apsw: Another Python SQLite Wrapper](https://github.com/rogerbinns/apsw)**
-   42 points by `tosh` - [12 comments](https://news.ycombinator.com/item?id=50045273)
+10. **[Cartographers of North Korea (2019)](https://cartographers-nk.wonyoung.so/)**
+   257 points by `edent` - [46 comments](https://news.ycombinator.com/item?id=50047091)

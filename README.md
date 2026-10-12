@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-10-12.md`](./digests/2026-10-12.md)
 
-_Captured 2026-10-12 09:18 UTC._
+_Captured 2026-10-12 20:07 UTC._
 
-1. **[Postgres isn't slow, your storage is](https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is)**
-   66 points by `saisrirampur` - [36 comments](https://news.ycombinator.com/item?id=50052163)
+1. **[Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195)**
+   223 points by `whimblepop` - [132 comments](https://news.ycombinator.com/item?id=50060694)
 
-2. **[Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)**
-   111 points by `lukaslalinsky` - [46 comments](https://news.ycombinator.com/item?id=50051573)
+2. **[GLM-Legal](https://z.ai/blog/glm-legal)**
+   299 points by `ilreb` - [164 comments](https://news.ycombinator.com/item?id=50058507)
 
-3. **[Fable Took My Job](https://cendyne.dev/posts/2026-10-11-fable-took-my-jorb.html)**
-   9 points by `jllyhill` - [0 comments](https://news.ycombinator.com/item?id=50053216)
+3. **[A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)**
+   223 points by `prophittcorey` - [87 comments](https://news.ycombinator.com/item?id=50058528)
 
-4. **[Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)**
-   356 points by `royfish` - [172 comments](https://news.ycombinator.com/item?id=50048642)
+4. **[AI models may be capable of self-replicating without access to a datacenter](https://www.anthropic.com/research/self-replicating-ai)**
+   31 points by `artninja1988` - [21 comments](https://news.ycombinator.com/item?id=50061603)
 
-5. **[Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)**
-   121 points by `subset` - [10 comments](https://news.ycombinator.com/item?id=50034206)
+5. **[AI coding agents generate more code, but not more software](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/)**
+   175 points by `gumby` - [138 comments](https://news.ycombinator.com/item?id=50059523)
 
-6. **[Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)**
-   497 points by `jttnr` - [198 comments](https://news.ycombinator.com/item?id=50045984)
+6. **[Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents](https://news.ycombinator.com/item?id=50059096)**
+   58 points by `vishnukool` - [42 comments](https://news.ycombinator.com/item?id=50059096)
 
-7. **[Running the unmodified Linux amdgpu driver on an iPad](https://github.com/Geramy/LemonSeed-Studio)**
-   17 points by `joshcsimmons` - [7 comments](https://news.ycombinator.com/item?id=50041573)
+7. **[Hackers activate automatic defrosting accross European supermarket fridges](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)**
+   216 points by `Zeekaas` - [373 comments](https://news.ycombinator.com/item?id=50055304)
 
-8. **[Zod 4.6.6 compromised by malware?](https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467)**
-   113 points by `luggage_bazooka` - [28 comments](https://news.ycombinator.com/item?id=50052814)
+8. **[Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver](https://github.com/h0m3us3r/w1700k-sdr)**
+   160 points by `djfergus` - [47 comments](https://news.ycombinator.com/item?id=50055593)
 
-9. **[Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography)**
-   128 points by `cainxinth` - [63 comments](https://news.ycombinator.com/item?id=50049411)
+9. **[Citroen revives the 2CV for an electric age](https://www.bbc.com/news/articles/c620r33plgppo)**
+   193 points by `scrlk` - [216 comments](https://news.ycombinator.com/item?id=50055220)
 
-10. **[Cartographers of North Korea (2019)](https://cartographers-nk.wonyoung.so/)**
-   257 points by `edent` - [46 comments](https://news.ycombinator.com/item?id=50047091)
+10. **[Muse Wonder](https://research.meta.ai/blog/muse-wonder)**
+   375 points by `meetpateltech` - [174 comments](https://news.ycombinator.com/item?id=50059115)

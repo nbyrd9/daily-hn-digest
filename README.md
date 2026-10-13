@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-10-12.md`](./digests/2026-10-12.md)
+## Latest snapshot - [`2026-10-13.md`](./digests/2026-10-13.md)
 
-_Captured 2026-10-12 20:07 UTC._
+_Captured 2026-10-13 10:04 UTC._
 
-1. **[Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195)**
-   223 points by `whimblepop` - [132 comments](https://news.ycombinator.com/item?id=50060694)
+1. **[The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/)**
+   282 points by `jsomers` - [59 comments](https://news.ycombinator.com/item?id=50041866)
 
-2. **[GLM-Legal](https://z.ai/blog/glm-legal)**
-   299 points by `ilreb` - [164 comments](https://news.ycombinator.com/item?id=50058507)
+2. **[Were Software Engineers blue-collar workers all along?](https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along)**
+   62 points by `ilreb` - [71 comments](https://news.ycombinator.com/item?id=50068946)
 
-3. **[A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)**
-   223 points by `prophittcorey` - [87 comments](https://news.ycombinator.com/item?id=50058528)
+3. **[GLM-Legal](https://z.ai/blog/glm-legal)**
+   563 points by `ilreb` - [316 comments](https://news.ycombinator.com/item?id=50058507)
 
-4. **[AI models may be capable of self-replicating without access to a datacenter](https://www.anthropic.com/research/self-replicating-ai)**
-   31 points by `artninja1988` - [21 comments](https://news.ycombinator.com/item?id=50061603)
+4. **[Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)**
+   209 points by `hurricanepootis` - [107 comments](https://news.ycombinator.com/item?id=50063365)
 
-5. **[AI coding agents generate more code, but not more software](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/)**
-   175 points by `gumby` - [138 comments](https://news.ycombinator.com/item?id=50059523)
+5. **[Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)**
+   700 points by `Zeekaas` - [820 comments](https://news.ycombinator.com/item?id=50055304)
 
-6. **[Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents](https://news.ycombinator.com/item?id=50059096)**
-   58 points by `vishnukool` - [42 comments](https://news.ycombinator.com/item?id=50059096)
+6. **[A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)**
+   565 points by `prophittcorey` - [238 comments](https://news.ycombinator.com/item?id=50058528)
 
-7. **[Hackers activate automatic defrosting accross European supermarket fridges](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)**
-   216 points by `Zeekaas` - [373 comments](https://news.ycombinator.com/item?id=50055304)
+7. **[Who is vfmaddrnd231pd?](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)**
+   204 points by `pngmangi` - [20 comments](https://news.ycombinator.com/item?id=50063138)
 
-8. **[Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver](https://github.com/h0m3us3r/w1700k-sdr)**
-   160 points by `djfergus` - [47 comments](https://news.ycombinator.com/item?id=50055593)
+8. **[Document Review with Unsiloed and TypeSafe Jev](https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev)**
+   7 points by `ritzaco` - [1 comments](https://news.ycombinator.com/item?id=50068443)
 
-9. **[Citroen revives the 2CV for an electric age](https://www.bbc.com/news/articles/c620r33plgppo)**
-   193 points by `scrlk` - [216 comments](https://news.ycombinator.com/item?id=50055220)
+9. **[DishwasherBench – Can Frontier Models Stack a Dishwasher?](https://github.com/composo-ai/DishwasherBench)**
+   44 points by `mlukewizard` - [17 comments](https://news.ycombinator.com/item?id=50068437)
 
-10. **[Muse Wonder](https://research.meta.ai/blog/muse-wonder)**
-   375 points by `meetpateltech` - [174 comments](https://news.ycombinator.com/item?id=50059115)
+10. **[Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas)**
+   142 points by `khalidkhair` - [46 comments](https://news.ycombinator.com/item?id=50063717)

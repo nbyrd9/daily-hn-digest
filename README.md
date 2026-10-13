@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-10-13.md`](./digests/2026-10-13.md)
 
-_Captured 2026-10-13 10:04 UTC._
+_Captured 2026-10-13 18:16 UTC._
 
-1. **[The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/)**
-   282 points by `jsomers` - [59 comments](https://news.ycombinator.com/item?id=50041866)
+1. **[Gemini 4 Argon](https://deepmind.google/models/gemini/)**
+   471 points by `737max` - [356 comments](https://news.ycombinator.com/item?id=50073879)
 
-2. **[Were Software Engineers blue-collar workers all along?](https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along)**
-   62 points by `ilreb` - [71 comments](https://news.ycombinator.com/item?id=50068946)
+2. **[Apple HomeView](https://www.apple.com/apple-homeview/)**
+   478 points by `etothet` - [588 comments](https://news.ycombinator.com/item?id=50071017)
 
-3. **[GLM-Legal](https://z.ai/blog/glm-legal)**
-   563 points by `ilreb` - [316 comments](https://news.ycombinator.com/item?id=50058507)
+3. **[Cyberattack halts construction of tunnel between Denmark and Germany](https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24)**
+   72 points by `paaloeye` - [24 comments](https://news.ycombinator.com/item?id=50074289)
 
-4. **[Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)**
-   209 points by `hurricanepootis` - [107 comments](https://news.ycombinator.com/item?id=50063365)
+4. **[Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/)**
+   163 points by `mjorgers` - [59 comments](https://news.ycombinator.com/item?id=50072913)
 
-5. **[Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)**
-   700 points by `Zeekaas` - [820 comments](https://news.ycombinator.com/item?id=50055304)
+5. **[11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)**
+   561 points by `formerly_proven` - [326 comments](https://news.ycombinator.com/item?id=50069499)
 
-6. **[A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)**
-   565 points by `prophittcorey` - [238 comments](https://news.ycombinator.com/item?id=50058528)
+6. **[Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/)**
+   38 points by `xnx` - [8 comments](https://news.ycombinator.com/item?id=50074869)
 
-7. **[Who is vfmaddrnd231pd?](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)**
-   204 points by `pngmangi` - [20 comments](https://news.ycombinator.com/item?id=50063138)
+7. **[Firefox Enterprise](https://www.firefox.com/en-US/enterprise/)**
+   418 points by `recvonline` - [173 comments](https://news.ycombinator.com/item?id=50070302)
 
-8. **[Document Review with Unsiloed and TypeSafe Jev](https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev)**
-   7 points by `ritzaco` - [1 comments](https://news.ycombinator.com/item?id=50068443)
+8. **[Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)**
+   107 points by `Philpax` - [78 comments](https://news.ycombinator.com/item?id=50073633)
 
-9. **[DishwasherBench – Can Frontier Models Stack a Dishwasher?](https://github.com/composo-ai/DishwasherBench)**
-   44 points by `mlukewizard` - [17 comments](https://news.ycombinator.com/item?id=50068437)
+9. **[I posted to HN, and then my website was flooded with AI bot traffic](https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic)**
+   112 points by `sammy0910` - [70 comments](https://news.ycombinator.com/item?id=50073221)
 
-10. **[Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas)**
-   142 points by `khalidkhair` - [46 comments](https://news.ycombinator.com/item?id=50063717)
+10. **[We turned EmbeddingGemma 2 into a speech-to-text model](https://eg2.haku.sh/)**
+   316 points by `amrrs` - [78 comments](https://news.ycombinator.com/item?id=50069971)

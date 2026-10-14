@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-10-13.md`](./digests/2026-10-13.md)
+## Latest snapshot - [`2026-10-14.md`](./digests/2026-10-14.md)
 
-_Captured 2026-10-13 18:16 UTC._
+_Captured 2026-10-14 15:17 UTC._
 
-1. **[Gemini 4 Argon](https://deepmind.google/models/gemini/)**
-   471 points by `737max` - [356 comments](https://news.ycombinator.com/item?id=50073879)
+1. **[Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)**
+   422 points by `otobrglez` - [157 comments](https://news.ycombinator.com/item?id=50084240)
 
-2. **[Apple HomeView](https://www.apple.com/apple-homeview/)**
-   478 points by `etothet` - [588 comments](https://news.ycombinator.com/item?id=50071017)
+2. **[Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)**
+   94 points by `jascha_eng` - [33 comments](https://news.ycombinator.com/item?id=50086165)
 
-3. **[Cyberattack halts construction of tunnel between Denmark and Germany](https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24)**
-   72 points by `paaloeye` - [24 comments](https://news.ycombinator.com/item?id=50074289)
+3. **[ASML's strong orders ease fears AI spending boom is running out of steam](https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/)**
+   39 points by `tartoran` - [22 comments](https://news.ycombinator.com/item?id=50088430)
 
-4. **[Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/)**
-   163 points by `mjorgers` - [59 comments](https://news.ycombinator.com/item?id=50072913)
+4. **[Passkeys Are Not a Trap](https://scotthelme.co.uk/passkeys-are-not-a-trap/)**
+   3 points by `speckx` - [0 comments](https://news.ycombinator.com/item?id=50088935)
 
-5. **[11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)**
-   561 points by `formerly_proven` - [326 comments](https://news.ycombinator.com/item?id=50069499)
+5. **[Amazon pushes up prices across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)**
+   361 points by `sighborg` - [342 comments](https://news.ycombinator.com/item?id=50084757)
 
-6. **[Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/)**
-   38 points by `xnx` - [8 comments](https://news.ycombinator.com/item?id=50074869)
+6. **[TV4 postpones show after AI agent erases edited material](https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage)**
+   79 points by `tobr` - [46 comments](https://news.ycombinator.com/item?id=50085323)
 
-7. **[Firefox Enterprise](https://www.firefox.com/en-US/enterprise/)**
-   418 points by `recvonline` - [173 comments](https://news.ycombinator.com/item?id=50070302)
+7. **[Pulsar at ESUG 2026 (new Smalltalk IDE)](https://blog.lorenzano.eu/pulsar-at-esug-2026/)**
+   56 points by `mpweiher` - [9 comments](https://news.ycombinator.com/item?id=50085306)
 
-8. **[Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)**
-   107 points by `Philpax` - [78 comments](https://news.ycombinator.com/item?id=50073633)
+8. **[The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)](https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html)**
+   18 points by `ripe` - [0 comments](https://news.ycombinator.com/item?id=50055632)
 
-9. **[I posted to HN, and then my website was flooded with AI bot traffic](https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic)**
-   112 points by `sammy0910` - [70 comments](https://news.ycombinator.com/item?id=50073221)
+9. **[Sound – Bartosz Ciechanowski (2022)](https://ciechanow.ski/sound/)**
+   215 points by `dverlaeckt80` - [23 comments](https://news.ycombinator.com/item?id=50045147)
 
-10. **[We turned EmbeddingGemma 2 into a speech-to-text model](https://eg2.haku.sh/)**
-   316 points by `amrrs` - [78 comments](https://news.ycombinator.com/item?id=50069971)
+10. **[The Aaronson Oracle](https://aaronsonoracle.com/)**
+   34 points by `routeroff` - [26 comments](https://news.ycombinator.com/item?id=50086484)

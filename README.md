@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-10-15.md`](./digests/2026-10-15.md)
 
-_Captured 2026-10-15 20:38 UTC._
+_Captured 2026-10-15 23:33 UTC._
 
 1. **[Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)**
-   412 points by `bigwheels` - [256 comments](https://news.ycombinator.com/item?id=50107379)
+   561 points by `bigwheels` - [320 comments](https://news.ycombinator.com/item?id=50107379)
 
-2. **[Neural networks are clean](https://already-clean.goodfire.com/)**
-   336 points by `themgt` - [106 comments](https://news.ycombinator.com/item?id=50105647)
+2. **[What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)**
+   170 points by `BrunoBernardino` - [90 comments](https://news.ycombinator.com/item?id=50109715)
 
-3. **[E Ink Kaleido 4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4)**
-   61 points by `Perroboc` - [23 comments](https://news.ycombinator.com/item?id=50108229)
+3. **[Neural networks are clean](https://already-clean.goodfire.com/)**
+   454 points by `themgt` - [170 comments](https://news.ycombinator.com/item?id=50105647)
 
-4. **[Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)**
-   411 points by `FinalDestiny` - [168 comments](https://news.ycombinator.com/item?id=50103338)
+4. **[Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)**
+   171 points by `speckx` - [65 comments](https://news.ycombinator.com/item?id=50108872)
 
-5. **[Krea 3 – An image model built for editing at scale](https://www.krea.ai/krea-3)**
-   185 points by `dvrp` - [68 comments](https://news.ycombinator.com/item?id=50105648)
+5. **[Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)**
+   468 points by `FinalDestiny` - [184 comments](https://news.ycombinator.com/item?id=50103338)
 
-6. **[AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/)**
-   290 points by `jcomp` - [454 comments](https://news.ycombinator.com/item?id=50101813)
+6. **[Jev meets the Trolley Problem](https://zachlandes.com/trolley-problem/)**
+   252 points by `zlandes86` - [115 comments](https://news.ycombinator.com/item?id=50106023)
 
-7. **[Why I Wrote PGP (1991, revised 1999)](https://philzimmermann.com/EN/essays/WhyIWrotePGP.html)**
-   54 points by `GaryBluto` - [12 comments](https://news.ycombinator.com/item?id=50084674)
+7. **[AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/)**
+   357 points by `jcomp` - [525 comments](https://news.ycombinator.com/item?id=50101813)
 
-8. **[Celebrating 70 Years of Fortran](https://fortran-lang.org/news/2026/09-15-Fortran-birthday/)**
-   171 points by `rbanffy` - [70 comments](https://news.ycombinator.com/item?id=50104726)
+8. **[Krea 3 – An image model built for editing at scale](https://www.krea.ai/krea-3)**
+   227 points by `dvrp` - [76 comments](https://news.ycombinator.com/item?id=50105648)
 
-9. **[Jev meets the Trolley Problem](https://zachlandes.com/trolley-problem/)**
-   143 points by `zlandes86` - [66 comments](https://news.ycombinator.com/item?id=50106023)
+9. **[Major ICQ security hole (1998)](https://opennet.ru/base/maillist/169.txt.html)**
+   14 points by `sysoleg` - [3 comments](https://news.ycombinator.com/item?id=50069439)
 
-10. **[Delta’s Biscoff cookies were supposed to be temporary](https://www.seriouseats.com/biscoff-history-12168161)**
-   117 points by `mhb` - [109 comments](https://news.ycombinator.com/item?id=50080155)
+10. **[Celebrating 70 Years of Fortran](https://fortran-lang.org/news/2026/09-15-Fortran-birthday/)**
+   200 points by `rbanffy` - [92 comments](https://news.ycombinator.com/item?id=50104726)

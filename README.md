@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-10-14.md`](./digests/2026-10-14.md)
+## Latest snapshot - [`2026-10-15.md`](./digests/2026-10-15.md)
 
-_Captured 2026-10-14 15:17 UTC._
+_Captured 2026-10-15 09:56 UTC._
 
-1. **[Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)**
-   422 points by `otobrglez` - [157 comments](https://news.ycombinator.com/item?id=50084240)
+1. **[Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)**
+   1366 points by `jjmaxwell4` - [339 comments](https://news.ycombinator.com/item?id=50093568)
 
-2. **[Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)**
-   94 points by `jascha_eng` - [33 comments](https://news.ycombinator.com/item?id=50086165)
+2. **[Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/)**
+   84 points by `0xdeafbeef` - [31 comments](https://news.ycombinator.com/item?id=50070625)
 
-3. **[ASML's strong orders ease fears AI spending boom is running out of steam](https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/)**
-   39 points by `tartoran` - [22 comments](https://news.ycombinator.com/item?id=50088430)
+3. **[Creating a Garmin "MCP"](https://jackantico.io/garmin-mcp)**
+   39 points by `ricotico060` - [37 comments](https://news.ycombinator.com/item?id=50081045)
 
-4. **[Passkeys Are Not a Trap](https://scotthelme.co.uk/passkeys-are-not-a-trap/)**
-   3 points by `speckx` - [0 comments](https://news.ycombinator.com/item?id=50088935)
+4. **[OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)**
+   614 points by `gmays` - [242 comments](https://news.ycombinator.com/item?id=50094994)
 
-5. **[Amazon pushes up prices across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)**
-   361 points by `sighborg` - [342 comments](https://news.ycombinator.com/item?id=50084757)
+5. **[Tiny Little Office](https://tinylittleoffice.com/)**
+   438 points by `donohoe` - [70 comments](https://news.ycombinator.com/item?id=50096142)
 
-6. **[TV4 postpones show after AI agent erases edited material](https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage)**
-   79 points by `tobr` - [46 comments](https://news.ycombinator.com/item?id=50085323)
+6. **[The cost of getting a job today](https://weli.dev/blog/the-cost-of-getting-a-job-today/)**
+   7 points by `weli` - [0 comments](https://news.ycombinator.com/item?id=50101149)
 
-7. **[Pulsar at ESUG 2026 (new Smalltalk IDE)](https://blog.lorenzano.eu/pulsar-at-esug-2026/)**
-   56 points by `mpweiher` - [9 comments](https://news.ycombinator.com/item?id=50085306)
+7. **[Show HN: Indigene – Native plants for where you stand](https://indigene.app/)**
+   26 points by `olivierlacan` - [5 comments](https://news.ycombinator.com/item?id=50064470)
 
-8. **[The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)](https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html)**
-   18 points by `ripe` - [0 comments](https://news.ycombinator.com/item?id=50055632)
+8. **[LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)**
+   212 points by `gmays` - [45 comments](https://news.ycombinator.com/item?id=50097369)
 
-9. **[Sound – Bartosz Ciechanowski (2022)](https://ciechanow.ski/sound/)**
-   215 points by `dverlaeckt80` - [23 comments](https://news.ycombinator.com/item?id=50045147)
+9. **[Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists)**
+   700 points by `doitLP` - [507 comments](https://news.ycombinator.com/item?id=50050553)
 
-10. **[The Aaronson Oracle](https://aaronsonoracle.com/)**
-   34 points by `routeroff` - [26 comments](https://news.ycombinator.com/item?id=50086484)
+10. **[The First Social Network: In rural Argentina residents send messages w AM radio](https://www.newyorker.com/magazine/2026/10/19/the-first-social-network)**
+   15 points by `bookofjoe` - [3 comments](https://news.ycombinator.com/item?id=50079701)

@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-10-15.md`](./digests/2026-10-15.md)
+## Latest snapshot - [`2026-10-16.md`](./digests/2026-10-16.md)
 
-_Captured 2026-10-15 23:33 UTC._
+_Captured 2026-10-16 14:58 UTC._
 
-1. **[Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)**
-   561 points by `bigwheels` - [320 comments](https://news.ycombinator.com/item?id=50107379)
+1. **[Hello Toronto – Waymo Is En Route](https://waymo.com/blog/2026/10/waymo-in-toronto/)**
+   18 points by `ChrisArchitect` - [11 comments](https://news.ycombinator.com/item?id=50118981)
 
-2. **[What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)**
-   170 points by `BrunoBernardino` - [90 comments](https://news.ycombinator.com/item?id=50109715)
+2. **[I Love Software Rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)**
+   126 points by `speckx` - [87 comments](https://news.ycombinator.com/item?id=50117746)
 
-3. **[Neural networks are clean](https://already-clean.goodfire.com/)**
-   454 points by `themgt` - [170 comments](https://news.ycombinator.com/item?id=50105647)
+3. **[Gyroscopes Got So Small [video]](https://www.youtube.com/watch?v=0Zc_6xB5W3Y)**
+   26 points by `surprisetalk` - [2 comments](https://news.ycombinator.com/item?id=50104965)
 
-4. **[Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)**
-   171 points by `speckx` - [65 comments](https://news.ycombinator.com/item?id=50108872)
+4. **[Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]](https://www.youtube.com/watch?v=eF6bMSjPepM)**
+   19 points by `zdw` - [4 comments](https://news.ycombinator.com/item?id=50111752)
 
-5. **[Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)**
-   468 points by `FinalDestiny` - [184 comments](https://news.ycombinator.com/item?id=50103338)
+5. **[Redesigning Source Control at Anthropic](https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/)**
+   7 points by `hn9zmdcaou` - [2 comments](https://news.ycombinator.com/item?id=50118863)
 
-6. **[Jev meets the Trolley Problem](https://zachlandes.com/trolley-problem/)**
-   252 points by `zlandes86` - [115 comments](https://news.ycombinator.com/item?id=50106023)
+6. **[Show HN: Gemini 4 Argon plays StarCraft](https://starskirmish.com/bench/v0-2/)**
+   9 points by `__cayenne__` - [0 comments](https://news.ycombinator.com/item?id=50118688)
 
-7. **[AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/)**
-   357 points by `jcomp` - [525 comments](https://news.ycombinator.com/item?id=50101813)
+7. **[Yet another way to invoke functions without parentheses](https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/)**
+   182 points by `aragonite` - [70 comments](https://news.ycombinator.com/item?id=50077225)
 
-8. **[Krea 3 – An image model built for editing at scale](https://www.krea.ai/krea-3)**
-   227 points by `dvrp` - [76 comments](https://news.ycombinator.com/item?id=50105648)
+8. **[Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)**
+   7 points by `rs_rs_rs_rs_rs` - [0 comments](https://news.ycombinator.com/item?id=50118977)
 
-9. **[Major ICQ security hole (1998)](https://opennet.ru/base/maillist/169.txt.html)**
-   14 points by `sysoleg` - [3 comments](https://news.ycombinator.com/item?id=50069439)
+9. **[Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]](https://www.youtube.com/watch?v=sjNpfz4UzqU)**
+   622 points by `johnnyApplePRNG` - [203 comments](https://news.ycombinator.com/item?id=50065859)
 
-10. **[Celebrating 70 Years of Fortran](https://fortran-lang.org/news/2026/09-15-Fortran-birthday/)**
-   200 points by `rbanffy` - [92 comments](https://news.ycombinator.com/item?id=50104726)
+10. **[The Economic Complexity of the Western Roman Empire](https://www.michelecoscia.com/?p=2613)**
+   100 points by `mikk14` - [16 comments](https://news.ycombinator.com/item?id=50084790)

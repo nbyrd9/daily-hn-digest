@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-10-16.md`](./digests/2026-10-16.md)
 
-_Captured 2026-10-16 14:58 UTC._
+_Captured 2026-10-16 20:05 UTC._
 
-1. **[Hello Toronto – Waymo Is En Route](https://waymo.com/blog/2026/10/waymo-in-toronto/)**
-   18 points by `ChrisArchitect` - [11 comments](https://news.ycombinator.com/item?id=50118981)
+1. **[Tesla Roadster](https://www.tesla.com/roadster)**
+   739 points by `shekhar101` - [1360 comments](https://news.ycombinator.com/item?id=50112657)
 
-2. **[I Love Software Rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)**
-   126 points by `speckx` - [87 comments](https://news.ycombinator.com/item?id=50117746)
+2. **[Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)**
+   238 points by `ahlCVA` - [96 comments](https://news.ycombinator.com/item?id=50122800)
 
-3. **[Gyroscopes Got So Small [video]](https://www.youtube.com/watch?v=0Zc_6xB5W3Y)**
-   26 points by `surprisetalk` - [2 comments](https://news.ycombinator.com/item?id=50104965)
+3. **[Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)**
+   60 points by `Anon84` - [10 comments](https://news.ycombinator.com/item?id=50122431)
 
-4. **[Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]](https://www.youtube.com/watch?v=eF6bMSjPepM)**
-   19 points by `zdw` - [4 comments](https://news.ycombinator.com/item?id=50111752)
+4. **[JPEG XL vs. AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)**
+   126 points by `farlight` - [90 comments](https://news.ycombinator.com/item?id=50120224)
 
-5. **[Redesigning Source Control at Anthropic](https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/)**
-   7 points by `hn9zmdcaou` - [2 comments](https://news.ycombinator.com/item?id=50118863)
+5. **[Waymo in Toronto](https://waymo.com/blog/2026/10/waymo-in-toronto/)**
+   140 points by `ChrisArchitect` - [256 comments](https://news.ycombinator.com/item?id=50118981)
 
-6. **[Show HN: Gemini 4 Argon plays StarCraft](https://starskirmish.com/bench/v0-2/)**
-   9 points by `__cayenne__` - [0 comments](https://news.ycombinator.com/item?id=50118688)
+6. **[90% of US working hours are spent on tasks not covered well by AI benchmarks](https://www.mercor.com/research/labor-index/benchmark-map/)**
+   251 points by `speckx` - [219 comments](https://news.ycombinator.com/item?id=50121179)
 
-7. **[Yet another way to invoke functions without parentheses](https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/)**
-   182 points by `aragonite` - [70 comments](https://news.ycombinator.com/item?id=50077225)
+7. **[Designing more efficient quantum circuits with Claude](https://www.anthropic.com/research/designing-efficient-quantum-circuits)**
+   42 points by `pretext` - [7 comments](https://news.ycombinator.com/item?id=50121939)
 
-8. **[Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)**
-   7 points by `rs_rs_rs_rs_rs` - [0 comments](https://news.ycombinator.com/item?id=50118977)
+8. **[The Fatal Flaw of 911](https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health)**
+   10 points by `plunge` - [4 comments](https://news.ycombinator.com/item?id=50123356)
 
-9. **[Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]](https://www.youtube.com/watch?v=sjNpfz4UzqU)**
-   622 points by `johnnyApplePRNG` - [203 comments](https://news.ycombinator.com/item?id=50065859)
+9. **[Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference)**
+   212 points by `antipaul` - [100 comments](https://news.ycombinator.com/item?id=50118320)
 
-10. **[The Economic Complexity of the Western Roman Empire](https://www.michelecoscia.com/?p=2613)**
-   100 points by `mikk14` - [16 comments](https://news.ycombinator.com/item?id=50084790)
+10. **[eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear)**
+   87 points by `7402` - [63 comments](https://news.ycombinator.com/item?id=50122034)

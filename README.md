@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-10-16.md`](./digests/2026-10-16.md)
+## Latest snapshot - [`2026-10-17.md`](./digests/2026-10-17.md)
 
-_Captured 2026-10-16 20:05 UTC._
+_Captured 2026-10-17 13:43 UTC._
 
-1. **[Tesla Roadster](https://www.tesla.com/roadster)**
-   739 points by `shekhar101` - [1360 comments](https://news.ycombinator.com/item?id=50112657)
+1. **[DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)**
+   351 points by `theanonymousone` - [140 comments](https://news.ycombinator.com/item?id=50129121)
 
-2. **[Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)**
-   238 points by `ahlCVA` - [96 comments](https://news.ycombinator.com/item?id=50122800)
+2. **[Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine)**
+   288 points by `i_rush_carriers` - [95 comments](https://news.ycombinator.com/item?id=50106747)
 
-3. **[Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)**
-   60 points by `Anon84` - [10 comments](https://news.ycombinator.com/item?id=50122431)
+3. **[Tesla Roadster](https://www.tesla.com/roadster)**
+   1506 points by `shekhar101` - [2709 comments](https://news.ycombinator.com/item?id=50112657)
 
-4. **[JPEG XL vs. AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)**
-   126 points by `farlight` - [90 comments](https://news.ycombinator.com/item?id=50120224)
+4. **[Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)**
+   137 points by `albinstman` - [47 comments](https://news.ycombinator.com/item?id=50127979)
 
-5. **[Waymo in Toronto](https://waymo.com/blog/2026/10/waymo-in-toronto/)**
-   140 points by `ChrisArchitect` - [256 comments](https://news.ycombinator.com/item?id=50118981)
+5. **[DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)**
+   272 points by `theykk` - [106 comments](https://news.ycombinator.com/item?id=50129045)
 
-6. **[90% of US working hours are spent on tasks not covered well by AI benchmarks](https://www.mercor.com/research/labor-index/benchmark-map/)**
-   251 points by `speckx` - [219 comments](https://news.ycombinator.com/item?id=50121179)
+6. **[Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)**
+   314 points by `Anon84` - [76 comments](https://news.ycombinator.com/item?id=50122431)
 
-7. **[Designing more efficient quantum circuits with Claude](https://www.anthropic.com/research/designing-efficient-quantum-circuits)**
-   42 points by `pretext` - [7 comments](https://news.ycombinator.com/item?id=50121939)
+7. **[You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)**
+   351 points by `speckx` - [80 comments](https://news.ycombinator.com/item?id=50122878)
 
-8. **[The Fatal Flaw of 911](https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health)**
-   10 points by `plunge` - [4 comments](https://news.ycombinator.com/item?id=50123356)
+8. **[Recipes Are Moving from Maven Central to the Code Genome Project](https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module)**
+   23 points by `javahippie` - [5 comments](https://news.ycombinator.com/item?id=50104783)
 
-9. **[Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference)**
-   212 points by `antipaul` - [100 comments](https://news.ycombinator.com/item?id=50118320)
+9. **[Intuitive concurrent programming in any language](https://www.lf-lang.org/)**
+   77 points by `mpweiher` - [16 comments](https://news.ycombinator.com/item?id=50103255)
 
-10. **[eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear)**
-   87 points by `7402` - [63 comments](https://news.ycombinator.com/item?id=50122034)
+10. **[Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)**
+   925 points by `ahlCVA` - [339 comments](https://news.ycombinator.com/item?id=50122800)

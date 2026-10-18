@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-10-17.md`](./digests/2026-10-17.md)
+## Latest snapshot - [`2026-10-18.md`](./digests/2026-10-18.md)
 
-_Captured 2026-10-17 22:56 UTC._
+_Captured 2026-10-18 17:24 UTC._
 
-1. **[Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x)**
-   240 points by `alkyon` - [44 comments](https://news.ycombinator.com/item?id=50126253)
+1. **[macOS 15.8.2 Breaks OpenGL](https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550)**
+   165 points by `Audiophilip` - [117 comments](https://news.ycombinator.com/item?id=50141909)
 
-2. **[Dam removals are bringing fish back across the northeastern United States](https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/)**
-   128 points by `sohkamyung` - [36 comments](https://news.ycombinator.com/item?id=50126312)
+2. **[RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)**
+   194 points by `RobotToaster` - [27 comments](https://news.ycombinator.com/item?id=50141076)
 
-3. **[Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/)**
-   216 points by `plaguna` - [45 comments](https://news.ycombinator.com/item?id=50100994)
+3. **[Someone Behind the Software](https://karrisaarinen.com/posts/someone-behind-the-software/)**
+   25 points by `tosh` - [5 comments](https://news.ycombinator.com/item?id=50142573)
 
-4. **[The Commodore 64 hardware simulator: break chips and pins, see the results](https://github.com/antirez/c64-hw-simulator)**
-   118 points by `antirez` - [20 comments](https://news.ycombinator.com/item?id=50100366)
+4. **[Java sealed classes and exhaustive pattern matching](https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/)**
+   46 points by `hnisjafx40` - [12 comments](https://news.ycombinator.com/item?id=50141579)
 
-5. **[DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)**
-   639 points by `theykk` - [543 comments](https://news.ycombinator.com/item?id=50129045)
+5. **[DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)**
+   425 points by `fagnerbrack` - [206 comments](https://news.ycombinator.com/item?id=50138531)
 
-6. **[Making chicken transparent using Dorito dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)**
-   234 points by `crescit_eundo` - [63 comments](https://news.ycombinator.com/item?id=50131213)
+6. **[Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)**
+   166 points by `DeepLogin` - [45 comments](https://news.ycombinator.com/item?id=50139692)
 
-7. **[Pele – Mermaid diagrams as themeable SVG](https://pele.run/)**
-   167 points by `dchest` - [17 comments](https://news.ycombinator.com/item?id=50132193)
+7. **[Sigsaly: Churchill's top secret hotline to the President](https://www.iwm.org.uk/history/iwm/cwr/telephone)**
+   30 points by `stmw` - [0 comments](https://news.ycombinator.com/item?id=50096110)
 
-8. **[Types of types: Haskell's Kind system](https://thunk.blog/posts/types-of-types-haskell-kind-system/)**
-   12 points by `Thom2503` - [3 comments](https://news.ycombinator.com/item?id=50090927)
+8. **[Show HN: The Zelda timeline to catch up before the Ocarina of Time remake](https://legendofhyrule.com/)**
+   86 points by `jsomau` - [35 comments](https://news.ycombinator.com/item?id=50140769)
 
-9. **[Gold is now the top U.S. export](https://www.numismaticnews.net/gold-now-top-u-s-export)**
-   176 points by `iamnothere` - [96 comments](https://news.ycombinator.com/item?id=50132870)
+9. **[The Intel 8087 chip: floating-point addition and subtraction](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)**
+   18 points by `pwg` - [3 comments](https://news.ycombinator.com/item?id=50142449)
 
-10. **[Source code of the Estonian online voting system](https://github.com/valimised/ivxv)**
-   122 points by `theanonymousone` - [107 comments](https://news.ycombinator.com/item?id=50127586)
+10. **[Open MicroManipulator – A sub-micrometer 3D motion control plattform](https://github.com/0x23/MicroManipulatorStepper)**
+   120 points by `_Microft` - [10 comments](https://news.ycombinator.com/item?id=50140001)

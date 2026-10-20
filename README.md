@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-10-20.md`](./digests/2026-10-20.md)
 
-_Captured 2026-10-20 02:05 UTC._
+_Captured 2026-10-20 13:31 UTC._
 
-1. **[Lula supporters protest against Meta to denounce its 'electoral interference'](https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/)**
-   98 points by `jumpocelot` - [21 comments](https://news.ycombinator.com/item?id=50159993)
+1. **[DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)**
+   966 points by `ggcr` - [333 comments](https://news.ycombinator.com/item?id=50163277)
 
-2. **[MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)**
-   386 points by `jtg` - [166 comments](https://news.ycombinator.com/item?id=50154540)
+2. **[Demographic "Doomsday" Misses the Mark](https://www.science.org/doi/10.1126/science.ael8752)**
+   33 points by `YeGoblynQueenne` - [31 comments](https://news.ycombinator.com/item?id=50165276)
 
-3. **[I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU)**
-   392 points by `hakonjdjohnsen` - [84 comments](https://news.ycombinator.com/item?id=50150089)
+3. **[MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki)**
+   192 points by `theanonymousone` - [18 comments](https://news.ycombinator.com/item?id=50162177)
 
-4. **[Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)**
-   507 points by `iamnothere` - [168 comments](https://news.ycombinator.com/item?id=50152307)
+4. **[Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)**
+   387 points by `noriax86` - [119 comments](https://news.ycombinator.com/item?id=50141581)
 
-5. **[OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)**
-   92 points by `doener` - [14 comments](https://news.ycombinator.com/item?id=50158138)
+5. **[OpenBSD 8.0](https://www.openbsd.org/80.html)**
+   378 points by `privong` - [117 comments](https://news.ycombinator.com/item?id=50160494)
 
-6. **[Weball: Play Katamari on Websites](https://www.funwithcomputervision.com/weball/)**
-   61 points by `croes` - [4 comments](https://news.ycombinator.com/item?id=50140584)
+6. **[WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)**
+   585 points by `ds` - [164 comments](https://news.ycombinator.com/item?id=50159341)
 
-7. **[France's supermarket fridges were vulnerable online for months](https://ipinfo.io/blog/france-fridges-hack)**
-   62 points by `emot` - [57 comments](https://news.ycombinator.com/item?id=50159616)
+7. **[Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/)**
+   87 points by `birdculture` - [12 comments](https://news.ycombinator.com/item?id=50132198)
 
-8. **[RuneScape Bench: MMOs for Agents [video]](https://www.youtube.com/watch?v=cNm4zyUtWj0)**
-   158 points by `evakhoury` - [64 comments](https://news.ycombinator.com/item?id=50136126)
+8. **[DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/)**
+   384 points by `cmrdporcupine` - [326 comments](https://news.ycombinator.com/item?id=50154244)
 
-9. **[It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)**
-   448 points by `goostavos` - [418 comments](https://news.ycombinator.com/item?id=50134472)
+9. **[Google cloud outage takes down banks](https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/)**
+   131 points by `paweladamczuk` - [54 comments](https://news.ycombinator.com/item?id=50163961)
 
-10. **[Android apps running native on macOS](https://github.com/kksimp/Mac.apk)**
-   260 points by `flocked` - [137 comments](https://news.ycombinator.com/item?id=50154624)
+10. **['Der Viener Schlinger': The meat cannon that launched 20k hot dogs](https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/)**
+   32 points by `NaOH` - [12 comments](https://news.ycombinator.com/item?id=50147034)

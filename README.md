@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-10-20.md`](./digests/2026-10-20.md)
 
-_Captured 2026-10-20 13:31 UTC._
+_Captured 2026-10-20 23:57 UTC._
 
-1. **[DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)**
-   966 points by `ggcr` - [333 comments](https://news.ycombinator.com/item?id=50163277)
+1. **[SimCity, but with Permits](https://permit.petercai.com/)**
+   477 points by `pcai` - [256 comments](https://news.ycombinator.com/item?id=50170593)
 
-2. **[Demographic "Doomsday" Misses the Mark](https://www.science.org/doi/10.1126/science.ael8752)**
-   33 points by `YeGoblynQueenne` - [31 comments](https://news.ycombinator.com/item?id=50165276)
+2. **[Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)**
+   48 points by `Bender` - [10 comments](https://news.ycombinator.com/item?id=50173487)
 
-3. **[MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki)**
-   192 points by `theanonymousone` - [18 comments](https://news.ycombinator.com/item?id=50162177)
+3. **[DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)**
+   2097 points by `ggcr` - [818 comments](https://news.ycombinator.com/item?id=50163277)
 
-4. **[Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)**
-   387 points by `noriax86` - [119 comments](https://news.ycombinator.com/item?id=50141581)
+4. **[Voxtral 3](https://mistral.ai/news/voxtral-3/)**
+   488 points by `ilreb` - [133 comments](https://news.ycombinator.com/item?id=50168396)
 
-5. **[OpenBSD 8.0](https://www.openbsd.org/80.html)**
-   378 points by `privong` - [117 comments](https://news.ycombinator.com/item?id=50160494)
+5. **[What shall I teach my son?](https://stevekrouse.com/ends)**
+   218 points by `Curiositry` - [288 comments](https://news.ycombinator.com/item?id=50169707)
 
-6. **[WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)**
-   585 points by `ds` - [164 comments](https://news.ycombinator.com/item?id=50159341)
+6. **[Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)**
+   241 points by `ilreb` - [57 comments](https://news.ycombinator.com/item?id=50169053)
 
-7. **[Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/)**
-   87 points by `birdculture` - [12 comments](https://news.ycombinator.com/item?id=50132198)
+7. **[The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/)**
+   18 points by `gaplong` - [6 comments](https://news.ycombinator.com/item?id=50173891)
 
-8. **[DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/)**
-   384 points by `cmrdporcupine` - [326 comments](https://news.ycombinator.com/item?id=50154244)
+8. **[SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md)**
+   140 points by `dhorthy` - [63 comments](https://news.ycombinator.com/item?id=50108717)
 
-9. **[Google cloud outage takes down banks](https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/)**
-   131 points by `paweladamczuk` - [54 comments](https://news.ycombinator.com/item?id=50163961)
+9. **[Academics have a duty to defend open knowledge systems like Wikipedia](https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/)**
+   80 points by `jruohonen` - [33 comments](https://news.ycombinator.com/item?id=50170917)
 
-10. **['Der Viener Schlinger': The meat cannon that launched 20k hot dogs](https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/)**
-   32 points by `NaOH` - [12 comments](https://news.ycombinator.com/item?id=50147034)
+10. **[Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)**
+   471 points by `evanb` - [245 comments](https://news.ycombinator.com/item?id=50165208)

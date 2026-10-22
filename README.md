@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-10-21.md`](./digests/2026-10-21.md)
+## Latest snapshot - [`2026-10-22.md`](./digests/2026-10-22.md)
 
-_Captured 2026-10-21 15:52 UTC._
+_Captured 2026-10-22 09:15 UTC._
 
-1. **[PHP 8.2.35](https://github.com/php/php-src/releases/tag/php-8.2.35)**
-   501 points by `tuyuri` - [211 comments](https://news.ycombinator.com/item?id=50180873)
+1. **[CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943)**
+   14 points by `keks24` - [1 comments](https://news.ycombinator.com/item?id=50192900)
 
-2. **[PHP2Shell: AI uncovers critical RCE in PHP](https://www.wiz.io/blog/php2shell-php-rce)**
-   292 points by `danlark1` - [81 comments](https://news.ycombinator.com/item?id=50180836)
+2. **[WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)**
+   171 points by `alphax314` - [54 comments](https://news.ycombinator.com/item?id=50190363)
 
-3. **[DuckDB 2.0.0 LTS "Cinnamon Teal"](https://duckdb.org/2026/10/21/announcing-duckdb-200)**
-   140 points by `nnx` - [13 comments](https://news.ycombinator.com/item?id=50181136)
+3. **[The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)**
+   193 points by `craigcitro` - [129 comments](https://news.ycombinator.com/item?id=50190455)
 
-4. **[Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)**
-   553 points by `hkc` - [245 comments](https://news.ycombinator.com/item?id=50177916)
+4. **[Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)**
+   451 points by `passenger` - [260 comments](https://news.ycombinator.com/item?id=50188228)
 
-5. **[Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)**
-   62 points by `abhisek` - [22 comments](https://news.ycombinator.com/item?id=50181114)
+5. **[Show HN: The fastest browser for AI agents to run browser automation](https://ego-lite.apposters.com)**
+   8 points by `ehurynovich` - [0 comments](https://news.ycombinator.com/item?id=50192585)
 
-6. **[Patch the Planet: global response coordination as agents uncover vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)**
-   96 points by `nr378` - [49 comments](https://news.ycombinator.com/item?id=50181175)
+6. **[OpenAI CLI](https://github.com/openai/openai-cli)**
+   110 points by `armcat` - [66 comments](https://news.ycombinator.com/item?id=50191507)
 
-7. **[Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin](https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488)**
-   12 points by `surprisetalk` - [3 comments](https://news.ycombinator.com/item?id=50182526)
+7. **[Claude Duet](https://claude.com/product/claude-duet)**
+   363 points by `kuberwastaken` - [335 comments](https://news.ycombinator.com/item?id=50186037)
 
-8. **[The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck](https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/)**
-   236 points by `robtherobber` - [170 comments](https://news.ycombinator.com/item?id=50181137)
+8. **[Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)**
+   508 points by `abhisek` - [168 comments](https://news.ycombinator.com/item?id=50181114)
 
-9. **[Most advice is right for the person giving it](https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/)**
-   97 points by `rohanm93` - [77 comments](https://news.ycombinator.com/item?id=50180444)
+9. **[Rust Style Guide](https://google.github.io/styleguide/rustguide.html)**
+   297 points by `kaycebasques` - [180 comments](https://news.ycombinator.com/item?id=50186010)
 
-10. **[C++ futures part 1: The mental model](https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/)**
-   25 points by `ibobev` - [5 comments](https://news.ycombinator.com/item?id=50155751)
+10. **[GitLab critical patch release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)**
+   345 points by `artooro` - [80 comments](https://news.ycombinator.com/item?id=50185869)

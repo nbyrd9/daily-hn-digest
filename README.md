@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-10-22.md`](./digests/2026-10-22.md)
 
-_Captured 2026-10-22 09:15 UTC._
+_Captured 2026-10-22 20:25 UTC._
 
-1. **[CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943)**
-   14 points by `keks24` - [1 comments](https://news.ycombinator.com/item?id=50192900)
+1. **[Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)**
+   651 points by `farrokhi` - [243 comments](https://news.ycombinator.com/item?id=50195959)
 
-2. **[WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)**
-   171 points by `alphax314` - [54 comments](https://news.ycombinator.com/item?id=50190363)
+2. **[OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell)**
+   139 points by `niemandhier` - [67 comments](https://news.ycombinator.com/item?id=50198675)
 
-3. **[The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)**
-   193 points by `craigcitro` - [129 comments](https://news.ycombinator.com/item?id=50190455)
+3. **[Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html)**
+   132 points by `dewey` - [39 comments](https://news.ycombinator.com/item?id=50197404)
 
-4. **[Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)**
-   451 points by `passenger` - [260 comments](https://news.ycombinator.com/item?id=50188228)
+4. **[Show HN: Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel)**
+   217 points by `aghuang` - [73 comments](https://news.ycombinator.com/item?id=50196718)
 
-5. **[Show HN: The fastest browser for AI agents to run browser automation](https://ego-lite.apposters.com)**
-   8 points by `ehurynovich` - [0 comments](https://news.ycombinator.com/item?id=50192585)
+5. **[AI and the Enclosure of the Scientific Commons](https://arxiv.org/abs/2610.27251)**
+   39 points by `jrepinc` - [12 comments](https://news.ycombinator.com/item?id=50199230)
 
-6. **[OpenAI CLI](https://github.com/openai/openai-cli)**
-   110 points by `armcat` - [66 comments](https://news.ycombinator.com/item?id=50191507)
+6. **[Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions)**
+   42 points by `elwingo1` - [15 comments](https://news.ycombinator.com/item?id=50199290)
 
-7. **[Claude Duet](https://claude.com/product/claude-duet)**
-   363 points by `kuberwastaken` - [335 comments](https://news.ycombinator.com/item?id=50186037)
+7. **[Award-Winning AI Literature](https://jamesyu.org/award-winning-ai-literature/)**
+   37 points by `jamesjyu` - [22 comments](https://news.ycombinator.com/item?id=50199232)
 
-8. **[Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)**
-   508 points by `abhisek` - [168 comments](https://news.ycombinator.com/item?id=50181114)
+8. **[eMudhra to exit global SSL/TLS certificate business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)**
+   805 points by `bo0tzz` - [567 comments](https://news.ycombinator.com/item?id=50195110)
 
-9. **[Rust Style Guide](https://google.github.io/styleguide/rustguide.html)**
-   297 points by `kaycebasques` - [180 comments](https://news.ycombinator.com/item?id=50186010)
+9. **[What Is Gridifcation](https://musicalform.substack.com/p/what-is-gridifcation)**
+   331 points by `gumby` - [162 comments](https://news.ycombinator.com/item?id=50150163)
 
-10. **[GitLab critical patch release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)**
-   345 points by `artooro` - [80 comments](https://news.ycombinator.com/item?id=50185869)
+10. **[Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html)**
+   224 points by `oidar` - [231 comments](https://news.ycombinator.com/item?id=50194833)

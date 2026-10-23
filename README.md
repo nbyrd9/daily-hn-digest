@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-10-22.md`](./digests/2026-10-22.md)
+## Latest snapshot - [`2026-10-23.md`](./digests/2026-10-23.md)
 
-_Captured 2026-10-22 20:25 UTC._
+_Captured 2026-10-23 14:33 UTC._
 
-1. **[Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)**
-   651 points by `farrokhi` - [243 comments](https://news.ycombinator.com/item?id=50195959)
+1. **[Investor-owned utilities charge 23% more for electricity than public providers](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities)**
+   184 points by `hubraumhugo` - [124 comments](https://news.ycombinator.com/item?id=50208837)
 
-2. **[OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell)**
-   139 points by `niemandhier` - [67 comments](https://news.ycombinator.com/item?id=50198675)
+2. **[OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)**
+   78 points by `petecooper` - [13 comments](https://news.ycombinator.com/item?id=50208099)
 
-3. **[Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html)**
-   132 points by `dewey` - [39 comments](https://news.ycombinator.com/item?id=50197404)
+3. **[Phone Is About to Stop Being Yours: 70 Days Until Lockdown](https://keepandroidopen.org/?)**
+   264 points by `NackerHughes` - [140 comments](https://news.ycombinator.com/item?id=50208558)
 
-4. **[Show HN: Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel)**
-   217 points by `aghuang` - [73 comments](https://news.ycombinator.com/item?id=50196718)
+4. **[Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)**
+   738 points by `sohkamyung` - [153 comments](https://news.ycombinator.com/item?id=50202285)
 
-5. **[AI and the Enclosure of the Scientific Commons](https://arxiv.org/abs/2610.27251)**
-   39 points by `jrepinc` - [12 comments](https://news.ycombinator.com/item?id=50199230)
+5. **[Shitter – A Nitter Fork](https://codeberg.org/shitter/shitter)**
+   73 points by `eustoria` - [29 comments](https://news.ycombinator.com/item?id=50208343)
 
-6. **[Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions)**
-   42 points by `elwingo1` - [15 comments](https://news.ycombinator.com/item?id=50199290)
+6. **[No Need for Retirement When Utopia Is Around the Corner](https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/)**
+   77 points by `speckx` - [62 comments](https://news.ycombinator.com/item?id=50207050)
 
-7. **[Award-Winning AI Literature](https://jamesyu.org/award-winning-ai-literature/)**
-   37 points by `jamesjyu` - [22 comments](https://news.ycombinator.com/item?id=50199232)
+7. **[Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier](https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/)**
+   138 points by `robtherobber` - [117 comments](https://news.ycombinator.com/item?id=50205934)
 
-8. **[eMudhra to exit global SSL/TLS certificate business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)**
-   805 points by `bo0tzz` - [567 comments](https://news.ycombinator.com/item?id=50195110)
+8. **[Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet)**
+   199 points by `armcat` - [82 comments](https://news.ycombinator.com/item?id=50207405)
 
-9. **[What Is Gridifcation](https://musicalform.substack.com/p/what-is-gridifcation)**
-   331 points by `gumby` - [162 comments](https://news.ycombinator.com/item?id=50150163)
+9. **[Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)**
+   644 points by `psxuaw` - [267 comments](https://news.ycombinator.com/item?id=50202681)
 
-10. **[Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html)**
-   224 points by `oidar` - [231 comments](https://news.ycombinator.com/item?id=50194833)
+10. **[Dutch government had hacked into Jared Kushner's phone](https://twitter.com/jaredkushner/status/2113376217415958767)**
+   214 points by `teekert` - [140 comments](https://news.ycombinator.com/item?id=50206914)

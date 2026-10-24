@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-10-24.md`](./digests/2026-10-24.md)
 
-_Captured 2026-10-24 14:05 UTC._
+_Captured 2026-10-24 17:07 UTC._
 
-1. **[I Don't Understand Quantum Physics (2018)](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)**
-   146 points by `rramadass` - [95 comments](https://news.ycombinator.com/item?id=50219666)
+1. **[Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move)**
+   73 points by `cxr` - [31 comments](https://news.ycombinator.com/item?id=50222622)
 
-2. **[OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)**
-   267 points by `pentagrama` - [79 comments](https://news.ycombinator.com/item?id=50218430)
+2. **[FreeDNS](https://freedns.afraid.org/)**
+   110 points by `esher` - [23 comments](https://news.ycombinator.com/item?id=50222133)
 
-3. **[Elon Musk Just Gave Europe a Reason to Replace American Technology](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/)**
-   162 points by `sblank` - [115 comments](https://news.ycombinator.com/item?id=50220913)
+3. **[The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise](https://de.numista.com/9866)**
+   13 points by `schleck8` - [0 comments](https://news.ycombinator.com/item?id=50222927)
 
-4. **[Around a dozen banking apps began specifically permitting GrapheneOS](https://grapheneos.social/@GrapheneOS/117492375462459244)**
-   305 points by `privacyishuman` - [79 comments](https://news.ycombinator.com/item?id=50217495)
+4. **[Neural chip decodes interactions between brain regions](https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/)**
+   26 points by `giuliomagnifico` - [3 comments](https://news.ycombinator.com/item?id=50222525)
 
-5. **[Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)**
-   977 points by `Jowsey` - [584 comments](https://news.ycombinator.com/item?id=50212065)
+5. **[OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)**
+   357 points by `pentagrama` - [122 comments](https://news.ycombinator.com/item?id=50218430)
 
-6. **[Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)**
-   126 points by `mooreds` - [49 comments](https://news.ycombinator.com/item?id=50186450)
+6. **[Around a dozen banking apps began specifically permitting GrapheneOS](https://grapheneos.social/@GrapheneOS/117492375462459244)**
+   492 points by `privacyishuman` - [169 comments](https://news.ycombinator.com/item?id=50217495)
 
 7. **[Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)**
-   83 points by `theanonymousone` - [38 comments](https://news.ycombinator.com/item?id=50219177)
+   167 points by `theanonymousone` - [82 comments](https://news.ycombinator.com/item?id=50219177)
 
-8. **[Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)**
-   962 points by `pavel_lishin` - [619 comments](https://news.ycombinator.com/item?id=50211474)
+8. **[TornadoVM 7 Enables GPU-Native Workloads from Java Applications](https://www.infoq.com/news/2026/10/tornadovm-7-gpu/)**
+   55 points by `pjmlp` - [11 comments](https://news.ycombinator.com/item?id=50192975)
 
-9. **[Appreciating the beauty of all your body's scars and scratches](https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/)**
-   31 points by `surprisetalk` - [22 comments](https://news.ycombinator.com/item?id=50181106)
+9. **[Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)**
+   1023 points by `Jowsey` - [625 comments](https://news.ycombinator.com/item?id=50212065)
 
-10. **[Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)**
-   265 points by `otoolep` - [41 comments](https://news.ycombinator.com/item?id=50217500)
+10. **[Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)**
+   196 points by `mooreds` - [66 comments](https://news.ycombinator.com/item?id=50186450)

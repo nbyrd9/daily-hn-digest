@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-10-23.md`](./digests/2026-10-23.md)
+## Latest snapshot - [`2026-10-24.md`](./digests/2026-10-24.md)
 
-_Captured 2026-10-23 14:33 UTC._
+_Captured 2026-10-24 14:05 UTC._
 
-1. **[Investor-owned utilities charge 23% more for electricity than public providers](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities)**
-   184 points by `hubraumhugo` - [124 comments](https://news.ycombinator.com/item?id=50208837)
+1. **[I Don't Understand Quantum Physics (2018)](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)**
+   146 points by `rramadass` - [95 comments](https://news.ycombinator.com/item?id=50219666)
 
-2. **[OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)**
-   78 points by `petecooper` - [13 comments](https://news.ycombinator.com/item?id=50208099)
+2. **[OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)**
+   267 points by `pentagrama` - [79 comments](https://news.ycombinator.com/item?id=50218430)
 
-3. **[Phone Is About to Stop Being Yours: 70 Days Until Lockdown](https://keepandroidopen.org/?)**
-   264 points by `NackerHughes` - [140 comments](https://news.ycombinator.com/item?id=50208558)
+3. **[Elon Musk Just Gave Europe a Reason to Replace American Technology](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/)**
+   162 points by `sblank` - [115 comments](https://news.ycombinator.com/item?id=50220913)
 
-4. **[Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)**
-   738 points by `sohkamyung` - [153 comments](https://news.ycombinator.com/item?id=50202285)
+4. **[Around a dozen banking apps began specifically permitting GrapheneOS](https://grapheneos.social/@GrapheneOS/117492375462459244)**
+   305 points by `privacyishuman` - [79 comments](https://news.ycombinator.com/item?id=50217495)
 
-5. **[Shitter – A Nitter Fork](https://codeberg.org/shitter/shitter)**
-   73 points by `eustoria` - [29 comments](https://news.ycombinator.com/item?id=50208343)
+5. **[Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)**
+   977 points by `Jowsey` - [584 comments](https://news.ycombinator.com/item?id=50212065)
 
-6. **[No Need for Retirement When Utopia Is Around the Corner](https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/)**
-   77 points by `speckx` - [62 comments](https://news.ycombinator.com/item?id=50207050)
+6. **[Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)**
+   126 points by `mooreds` - [49 comments](https://news.ycombinator.com/item?id=50186450)
 
-7. **[Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier](https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/)**
-   138 points by `robtherobber` - [117 comments](https://news.ycombinator.com/item?id=50205934)
+7. **[Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)**
+   83 points by `theanonymousone` - [38 comments](https://news.ycombinator.com/item?id=50219177)
 
-8. **[Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet)**
-   199 points by `armcat` - [82 comments](https://news.ycombinator.com/item?id=50207405)
+8. **[Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)**
+   962 points by `pavel_lishin` - [619 comments](https://news.ycombinator.com/item?id=50211474)
 
-9. **[Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)**
-   644 points by `psxuaw` - [267 comments](https://news.ycombinator.com/item?id=50202681)
+9. **[Appreciating the beauty of all your body's scars and scratches](https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/)**
+   31 points by `surprisetalk` - [22 comments](https://news.ycombinator.com/item?id=50181106)
 
-10. **[Dutch government had hacked into Jared Kushner's phone](https://twitter.com/jaredkushner/status/2113376217415958767)**
-   214 points by `teekert` - [140 comments](https://news.ycombinator.com/item?id=50206914)
+10. **[Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)**
+   265 points by `otoolep` - [41 comments](https://news.ycombinator.com/item?id=50217500)

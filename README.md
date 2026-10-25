@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-10-24.md`](./digests/2026-10-24.md)
+## Latest snapshot - [`2026-10-25.md`](./digests/2026-10-25.md)
 
-_Captured 2026-10-24 17:07 UTC._
+_Captured 2026-10-25 15:08 UTC._
 
-1. **[Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move)**
-   73 points by `cxr` - [31 comments](https://news.ycombinator.com/item?id=50222622)
+1. **[Tool book of a Nuremberg knight from 1505](https://loeffelholz-codex.org/en/)**
+   84 points by `edwardog` - [33 comments](https://news.ycombinator.com/item?id=50230917)
 
-2. **[FreeDNS](https://freedns.afraid.org/)**
-   110 points by `esher` - [23 comments](https://news.ycombinator.com/item?id=50222133)
+2. **[Show HN: Farol – a risk map of a pull request for the person who approves it](https://github.com/winnin/farol)**
+   24 points by `ericholiveira` - [17 comments](https://news.ycombinator.com/item?id=50231349)
 
-3. **[The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise](https://de.numista.com/9866)**
-   13 points by `schleck8` - [0 comments](https://news.ycombinator.com/item?id=50222927)
+3. **[fheroes2: A recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)**
+   97 points by `tosh` - [32 comments](https://news.ycombinator.com/item?id=50230384)
 
-4. **[Neural chip decodes interactions between brain regions](https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/)**
-   26 points by `giuliomagnifico` - [3 comments](https://news.ycombinator.com/item?id=50222525)
+4. **[We should be more ambitious with the software we build](https://danluu.com/ambitious/)**
+   564 points by `ltratt` - [524 comments](https://news.ycombinator.com/item?id=50225695)
 
-5. **[OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)**
-   357 points by `pentagrama` - [122 comments](https://news.ycombinator.com/item?id=50218430)
+5. **[R/open source bans all solo projects and projects using LLMs](https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai)**
+   49 points by `schleck8` - [30 comments](https://news.ycombinator.com/item?id=50231722)
 
-6. **[Around a dozen banking apps began specifically permitting GrapheneOS](https://grapheneos.social/@GrapheneOS/117492375462459244)**
-   492 points by `privacyishuman` - [169 comments](https://news.ycombinator.com/item?id=50217495)
+6. **[Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)**
+   256 points by `gmays` - [85 comments](https://news.ycombinator.com/item?id=50227356)
 
-7. **[Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)**
-   167 points by `theanonymousone` - [82 comments](https://news.ycombinator.com/item?id=50219177)
+7. **[How Japanese Dried Bonito Is Made](https://kottke.org/26/10/how-japanese-dried-bonito-is-made)**
+   118 points by `bookofjoe` - [31 comments](https://news.ycombinator.com/item?id=50193936)
 
-8. **[TornadoVM 7 Enables GPU-Native Workloads from Java Applications](https://www.infoq.com/news/2026/10/tornadovm-7-gpu/)**
-   55 points by `pjmlp` - [11 comments](https://news.ycombinator.com/item?id=50192975)
+8. **[The Goose Programming Language](https://aardappel.github.io/goose/)**
+   486 points by `bobbydigitales` - [297 comments](https://news.ycombinator.com/item?id=50224100)
 
-9. **[Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)**
-   1023 points by `Jowsey` - [625 comments](https://news.ycombinator.com/item?id=50212065)
+9. **[Samsung running a TensorFlow lite model on 960x540 image to track you](https://twitter.com/mike64_t/status/2114150399406202896)**
+   188 points by `mashally` - [121 comments](https://news.ycombinator.com/item?id=50230181)
 
-10. **[Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)**
-   196 points by `mooreds` - [66 comments](https://news.ycombinator.com/item?id=50186450)
+10. **[US inequality is getting worse in ways you might not expect](https://theconversation.com/us-inequality-is-getting-worse-in-ways-you-might-not-expect-294075)**
+   30 points by `JKCalhoun` - [27 comments](https://news.ycombinator.com/item?id=50231310)

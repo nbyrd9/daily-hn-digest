@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-10-25.md`](./digests/2026-10-25.md)
+## Latest snapshot - [`2026-10-26.md`](./digests/2026-10-26.md)
 
-_Captured 2026-10-25 20:39 UTC._
+_Captured 2026-10-26 02:19 UTC._
 
 1. **[Dolly Parton's Imagination Library](https://imaginationlibrary.com/)**
-   178 points by `jumploops` - [27 comments](https://news.ycombinator.com/item?id=50234474)
+   395 points by `jumploops` - [68 comments](https://news.ycombinator.com/item?id=50234474)
 
-2. **[Eunice is almost here (William Gibson, Agency)](https://armincat.com/articles/eunice-is-almost-here)**
-   17 points by `armcat` - [13 comments](https://news.ycombinator.com/item?id=50235316)
+2. **[F-Zero X on Nintendo 3DS](https://hypnotize.works/gdx-3ds/postmortem/index.html)**
+   47 points by `bpierre` - [28 comments](https://news.ycombinator.com/item?id=50237078)
 
-3. **[Why the Rich Are Getting Richer and the Poor Are Further Removed from Prosperity](https://lusopt2016.blogspot.com/2026/10/a-grande-divisao-porque-e-que-os-ricos.html)**
-   10 points by `inandout` - [0 comments](https://news.ycombinator.com/item?id=50235433)
+3. **[Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/)**
+   146 points by `speckx` - [39 comments](https://news.ycombinator.com/item?id=50197108)
 
-4. **[A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)**
-   271 points by `sungam` - [131 comments](https://news.ycombinator.com/item?id=50233779)
+4. **[Attention Is Not What You Need (2025)](https://arxiv.org/abs/2512.19428)**
+   26 points by `westurner` - [9 comments](https://news.ycombinator.com/item?id=50237224)
 
-5. **[I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)**
-   256 points by `Tomte` - [124 comments](https://news.ycombinator.com/item?id=50233929)
+5. **[Why I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html)**
+   143 points by `jruohonen` - [52 comments](https://news.ycombinator.com/item?id=50235017)
 
-6. **[JetBrains Thinkrail](https://github.com/JetBrains/thinkrail)**
-   85 points by `hmokiguess` - [39 comments](https://news.ycombinator.com/item?id=50233294)
+6. **[What goes into making an animated film?](https://www.disneyanimation.com/process/)**
+   96 points by `embedding-shape` - [35 comments](https://news.ycombinator.com/item?id=50235738)
 
-7. **[Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/)**
-   210 points by `tdeck` - [51 comments](https://news.ycombinator.com/item?id=50234232)
+7. **[The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)**
+   85 points by `pchristensen` - [24 comments](https://news.ycombinator.com/item?id=50235780)
 
-8. **[Why I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html)**
-   16 points by `jruohonen` - [5 comments](https://news.ycombinator.com/item?id=50235017)
+8. **[A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)**
+   446 points by `sungam` - [212 comments](https://news.ycombinator.com/item?id=50233779)
 
-9. **[VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]](https://www.youtube.com/watch?v=46wxttvq9qY)**
-   33 points by `zdw` - [9 comments](https://news.ycombinator.com/item?id=50223435)
+9. **[OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)**
+   160 points by `minimaxir` - [186 comments](https://news.ycombinator.com/item?id=50236102)
 
-10. **[Gheist campaign plants secret-dumping workflows using stolen GitHub tokens](https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles)**
-   8 points by `acossta` - [0 comments](https://news.ycombinator.com/item?id=50235010)
+10. **[Where the Romans Fought (interactive map)](https://iosiflazaridis.github.io/battles-of-the-romans/)**
+   53 points by `endorphine` - [20 comments](https://news.ycombinator.com/item?id=50234879)

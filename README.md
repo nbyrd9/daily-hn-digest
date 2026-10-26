@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-10-26.md`](./digests/2026-10-26.md)
 
-_Captured 2026-10-26 02:19 UTC._
+_Captured 2026-10-26 22:53 UTC._
 
-1. **[Dolly Parton's Imagination Library](https://imaginationlibrary.com/)**
-   395 points by `jumploops` - [68 comments](https://news.ycombinator.com/item?id=50234474)
+1. **[Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities/)**
+   158 points by `jonluca` - [39 comments](https://news.ycombinator.com/item?id=50251344)
 
-2. **[F-Zero X on Nintendo 3DS](https://hypnotize.works/gdx-3ds/postmortem/index.html)**
-   47 points by `bpierre` - [28 comments](https://news.ycombinator.com/item?id=50237078)
+2. **[CorridorKey 2.0](https://corridorkey.com/)**
+   91 points by `ravenical` - [21 comments](https://news.ycombinator.com/item?id=50251127)
 
-3. **[Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/)**
-   146 points by `speckx` - [39 comments](https://news.ycombinator.com/item?id=50197108)
+3. **[Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)**
+   168 points by `adamnemecek` - [125 comments](https://news.ycombinator.com/item?id=50248371)
 
-4. **[Attention Is Not What You Need (2025)](https://arxiv.org/abs/2512.19428)**
-   26 points by `westurner` - [9 comments](https://news.ycombinator.com/item?id=50237224)
+4. **[Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)**
+   502 points by `sgiannopoulos` - [76 comments](https://news.ycombinator.com/item?id=50245138)
 
-5. **[Why I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html)**
-   143 points by `jruohonen` - [52 comments](https://news.ycombinator.com/item?id=50235017)
+5. **[CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)**
+   342 points by `edent` - [79 comments](https://news.ycombinator.com/item?id=50245831)
 
-6. **[What goes into making an animated film?](https://www.disneyanimation.com/process/)**
-   96 points by `embedding-shape` - [35 comments](https://news.ycombinator.com/item?id=50235738)
+6. **[Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)**
+   8 points by `wondersky` - [1 comments](https://news.ycombinator.com/item?id=50252159)
 
-7. **[The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)**
-   85 points by `pchristensen` - [24 comments](https://news.ycombinator.com/item?id=50235780)
+7. **[Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)**
+   221 points by `enlyth` - [130 comments](https://news.ycombinator.com/item?id=50248055)
 
-8. **[A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)**
-   446 points by `sungam` - [212 comments](https://news.ycombinator.com/item?id=50233779)
+8. **[A Printer Printing onto Paper](https://twitter.com/macrofying/status/2112904628509528219)**
+   8 points by `MrBuddyCasino` - [0 comments](https://news.ycombinator.com/item?id=50204697)
 
-9. **[OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)**
-   160 points by `minimaxir` - [186 comments](https://news.ycombinator.com/item?id=50236102)
+9. **[Nietzschian Debugger](https://github.com/DilawarShafiq/nietzschian-debugger)**
+   111 points by `dilawargopang` - [37 comments](https://news.ycombinator.com/item?id=50247493)
 
-10. **[Where the Romans Fought (interactive map)](https://iosiflazaridis.github.io/battles-of-the-romans/)**
-   53 points by `endorphine` - [20 comments](https://news.ycombinator.com/item?id=50234879)
+10. **[GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra/)**
+   444 points by `meetpateltech` - [283 comments](https://news.ycombinator.com/item?id=50248124)

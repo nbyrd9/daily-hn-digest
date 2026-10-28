@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-10-27.md`](./digests/2026-10-27.md)
+## Latest snapshot - [`2026-10-28.md`](./digests/2026-10-28.md)
 
-_Captured 2026-10-27 21:02 UTC._
+_Captured 2026-10-28 01:55 UTC._
 
 1. **[Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)**
-   532 points by `acossta` - [319 comments](https://news.ycombinator.com/item?id=50261319)
+   735 points by `acossta` - [436 comments](https://news.ycombinator.com/item?id=50261319)
 
-2. **[Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)**
-   459 points by `deaux` - [137 comments](https://news.ycombinator.com/item?id=50261998)
+2. **[Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)**
+   774 points by `deaux` - [229 comments](https://news.ycombinator.com/item?id=50261998)
 
-3. **[Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)**
-   68 points by `figmert` - [18 comments](https://news.ycombinator.com/item?id=50264857)
+3. **[Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)**
+   45 points by `_Microft` - [6 comments](https://news.ycombinator.com/item?id=50234796)
 
-4. **[Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)**
-   48 points by `Luc` - [28 comments](https://news.ycombinator.com/item?id=50264853)
+4. **[Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)**
+   128 points by `dataking` - [113 comments](https://news.ycombinator.com/item?id=50265609)
 
-5. **[New 14‑inch MacBook Pro with M6](https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)**
-   183 points by `beex` - [197 comments](https://news.ycombinator.com/item?id=50261352)
+5. **[Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)**
+   193 points by `figmert` - [103 comments](https://news.ycombinator.com/item?id=50264857)
 
-6. **[Classification of Finite Simple Groups Formalized in Lean](https://cfsg.axiommath.ai/)**
-   123 points by `pfdietz` - [28 comments](https://news.ycombinator.com/item?id=50261647)
+6. **[Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)**
+   190 points by `Luc` - [101 comments](https://news.ycombinator.com/item?id=50264853)
 
-7. **[New iMac with M6](https://www.apple.com/imac/)**
-   255 points by `notfried` - [310 comments](https://news.ycombinator.com/item?id=50258538)
+7. **[Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)**
+   96 points by `sthlmb` - [35 comments](https://news.ycombinator.com/item?id=50265594)
 
-8. **[Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)**
-   384 points by `f311a` - [203 comments](https://news.ycombinator.com/item?id=50257419)
+8. **[SS United States to be sunk as largest artificial reef](https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november)**
+   86 points by `geox` - [54 comments](https://news.ycombinator.com/item?id=50239214)
 
-9. **[Wikipedia's Cleanup of AI-Generated Content](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup)**
-   388 points by `rbanffy` - [179 comments](https://news.ycombinator.com/item?id=50257326)
+9. **[81 Jokes for the ZX81](https://spelk.press/gb/products/81-jokes-for-the-zx81)**
+   36 points by `robin_reala` - [1 comments](https://news.ycombinator.com/item?id=50242688)
 
-10. **[An examination of lost firefly species of the US and Canada](https://journaloflostspecies.org/index.php/jls/article/view/37/33)**
-   24 points by `bryanrasmussen` - [0 comments](https://news.ycombinator.com/item?id=50224079)
+10. **[New 14‑inch MacBook Pro with M6](https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)**
+   284 points by `beex` - [359 comments](https://news.ycombinator.com/item?id=50261352)

@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-10-28.md`](./digests/2026-10-28.md)
+## Latest snapshot - [`2026-10-29.md`](./digests/2026-10-29.md)
 
-_Captured 2026-10-28 08:15 UTC._
+_Captured 2026-10-29 02:27 UTC._
 
-1. **[Git for the US Code](https://lexifina.com/blog/git-for-the-us-code)**
-   223 points by `alansaber` - [112 comments](https://news.ycombinator.com/item?id=50268380)
+1. **[Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)**
+   99 points by `csmantle` - [22 comments](https://news.ycombinator.com/item?id=50282838)
 
-2. **[Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)**
-   860 points by `acossta` - [503 comments](https://news.ycombinator.com/item?id=50261319)
+2. **[Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)**
+   887 points by `hazebooth` - [188 comments](https://news.ycombinator.com/item?id=50276998)
 
-3. **[Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)**
-   976 points by `deaux` - [299 comments](https://news.ycombinator.com/item?id=50261998)
+3. **[GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)**
+   82 points by `sashk` - [28 comments](https://news.ycombinator.com/item?id=50282544)
 
-4. **[Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)**
-   197 points by `_Microft` - [30 comments](https://news.ycombinator.com/item?id=50234796)
+4. **[The first wired XR glasses powered by Android XR](https://blog.google/products-and-platforms/platforms/android/xreal-aura/)**
+   38 points by `yincrash` - [29 comments](https://news.ycombinator.com/item?id=50282538)
 
-5. **[Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)**
-   322 points by `Luc` - [135 comments](https://news.ycombinator.com/item?id=50264853)
+5. **[A Health Update](https://furbo.org/2026/10/28/a-health-update/)**
+   112 points by `frizlab` - [12 comments](https://news.ycombinator.com/item?id=50280974)
 
-6. **[MacOS Extensions Pack for the Apple Network Server v1.0](http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html)**
-   23 points by `classichasclass` - [0 comments](https://news.ycombinator.com/item?id=50227400)
+6. **[CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)**
+   408 points by `bschne` - [118 comments](https://news.ycombinator.com/item?id=50274409)
 
-7. **[Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)**
-   268 points by `figmert` - [139 comments](https://news.ycombinator.com/item?id=50264857)
+7. **[Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)**
+   815 points by `acossta` - [679 comments](https://news.ycombinator.com/item?id=50276792)
 
-8. **[Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)**
-   215 points by `dataking` - [189 comments](https://news.ycombinator.com/item?id=50265609)
+8. **[Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/)**
+   126 points by `mhb` - [88 comments](https://news.ycombinator.com/item?id=50281044)
 
-9. **[SS United States to be sunk as largest artificial reef](https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november)**
-   133 points by `geox` - [95 comments](https://news.ycombinator.com/item?id=50239214)
+9. **[The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand](https://www.circuithub.com/post/unveiling-the-grid)**
+   434 points by `seddona` - [205 comments](https://news.ycombinator.com/item?id=50243060)
 
-10. **[Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)**
-   151 points by `sthlmb` - [79 comments](https://news.ycombinator.com/item?id=50265594)
+10. **[Start Doing Graph Theory](https://vertex.degree/)**
+   589 points by `ibobev` - [129 comments](https://news.ycombinator.com/item?id=50208960)

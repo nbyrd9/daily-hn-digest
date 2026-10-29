@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-10-29.md`](./digests/2026-10-29.md)
 
-_Captured 2026-10-29 02:27 UTC._
+_Captured 2026-10-29 07:54 UTC._
 
 1. **[Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)**
-   99 points by `csmantle` - [22 comments](https://news.ycombinator.com/item?id=50282838)
+   357 points by `csmantle` - [80 comments](https://news.ycombinator.com/item?id=50282838)
 
 2. **[Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)**
-   887 points by `hazebooth` - [188 comments](https://news.ycombinator.com/item?id=50276998)
+   1104 points by `hazebooth` - [219 comments](https://news.ycombinator.com/item?id=50276998)
 
-3. **[GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)**
-   82 points by `sashk` - [28 comments](https://news.ycombinator.com/item?id=50282544)
+3. **[We Won't "Just Hang Out"](https://borretti.me/article/we-wont-just-hang-out)**
+   18 points by `barry-cotter` - [11 comments](https://news.ycombinator.com/item?id=50285154)
 
-4. **[The first wired XR glasses powered by Android XR](https://blog.google/products-and-platforms/platforms/android/xreal-aura/)**
-   38 points by `yincrash` - [29 comments](https://news.ycombinator.com/item?id=50282538)
+4. **[A new faster algorithm to compute 64-bit signed floor division](https://www.benjoffe.com/fast-floordiv)**
+   41 points by `benjoffe` - [3 comments](https://news.ycombinator.com/item?id=50256409)
 
 5. **[A Health Update](https://furbo.org/2026/10/28/a-health-update/)**
-   112 points by `frizlab` - [12 comments](https://news.ycombinator.com/item?id=50280974)
+   220 points by `frizlab` - [35 comments](https://news.ycombinator.com/item?id=50280974)
 
-6. **[CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)**
-   408 points by `bschne` - [118 comments](https://news.ycombinator.com/item?id=50274409)
+6. **[GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)**
+   162 points by `sashk` - [68 comments](https://news.ycombinator.com/item?id=50282544)
 
-7. **[Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)**
-   815 points by `acossta` - [679 comments](https://news.ycombinator.com/item?id=50276792)
+7. **[StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1)**
+   351 points by `babelfish` - [296 comments](https://news.ycombinator.com/item?id=50282454)
 
-8. **[Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/)**
-   126 points by `mhb` - [88 comments](https://news.ycombinator.com/item?id=50281044)
+8. **[Claude Code regularly sends each background agent’s transcript to its model](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)**
+   303 points by `NikZaal` - [92 comments](https://news.ycombinator.com/item?id=50284255)
 
-9. **[The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand](https://www.circuithub.com/post/unveiling-the-grid)**
-   434 points by `seddona` - [205 comments](https://news.ycombinator.com/item?id=50243060)
+9. **[OpenAI's agents talked to each other through the CPU Cache](https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/)**
+   83 points by `limbicsystem` - [26 comments](https://news.ycombinator.com/item?id=50251200)
 
-10. **[Start Doing Graph Theory](https://vertex.degree/)**
-   589 points by `ibobev` - [129 comments](https://news.ycombinator.com/item?id=50208960)
+10. **[CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)**
+   457 points by `bschne` - [127 comments](https://news.ycombinator.com/item?id=50274409)

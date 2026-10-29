@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-10-29.md`](./digests/2026-10-29.md)
 
-_Captured 2026-10-29 07:54 UTC._
+_Captured 2026-10-29 15:18 UTC._
 
-1. **[Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)**
-   357 points by `csmantle` - [80 comments](https://news.ycombinator.com/item?id=50282838)
+1. **[Mistral Large 4 (Le Chonk) is now Open Weight](https://mistral.ai/news/mistral-large-4-oss/)**
+   293 points by `kuberwastaken` - [64 comments](https://news.ycombinator.com/item?id=50289418)
 
-2. **[Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)**
-   1104 points by `hazebooth` - [219 comments](https://news.ycombinator.com/item?id=50276998)
+2. **[Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1)**
+   212 points by `theHocineSaad` - [161 comments](https://news.ycombinator.com/item?id=50288019)
 
-3. **[We Won't "Just Hang Out"](https://borretti.me/article/we-wont-just-hang-out)**
-   18 points by `barry-cotter` - [11 comments](https://news.ycombinator.com/item?id=50285154)
+3. **[Read the letter the FBI sent MLK to try to convince him to kill himself (2014)](https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter)**
+   233 points by `surprisetalk` - [134 comments](https://news.ycombinator.com/item?id=50288867)
 
-4. **[A new faster algorithm to compute 64-bit signed floor division](https://www.benjoffe.com/fast-floordiv)**
-   41 points by `benjoffe` - [3 comments](https://news.ycombinator.com/item?id=50256409)
+4. **[DoorDash is acquiring Instacart for $17B](https://about.doordash.com/en-us/news/doordash-to-acquire-instacart)**
+   33 points by `DeepLogin` - [15 comments](https://news.ycombinator.com/item?id=50289859)
 
-5. **[A Health Update](https://furbo.org/2026/10/28/a-health-update/)**
-   220 points by `frizlab` - [35 comments](https://news.ycombinator.com/item?id=50280974)
+5. **[Finland investigate Google over destruction of 250k trees](https://yle.fi/a/74-20254086)**
+   17 points by `DeepLogin` - [4 comments](https://news.ycombinator.com/item?id=50290170)
 
-6. **[GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)**
-   162 points by `sashk` - [68 comments](https://news.ycombinator.com/item?id=50282544)
+6. **[Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers](https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers)**
+   96 points by `882542F3884314B` - [44 comments](https://news.ycombinator.com/item?id=50286987)
 
-7. **[StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1)**
-   351 points by `babelfish` - [296 comments](https://news.ycombinator.com/item?id=50282454)
+7. **[React.lazy, Suspense and the Hidden 300 ms Delay](https://tabwidgets.com/blog/react-lazy-suspense-delay)**
+   8 points by `ctrlt` - [1 comments](https://news.ycombinator.com/item?id=50290042)
 
-8. **[Claude Code regularly sends each background agent’s transcript to its model](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)**
-   303 points by `NikZaal` - [92 comments](https://news.ycombinator.com/item?id=50284255)
+8. **[Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)**
+   622 points by `csmantle` - [130 comments](https://news.ycombinator.com/item?id=50282838)
 
-9. **[OpenAI's agents talked to each other through the CPU Cache](https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/)**
-   83 points by `limbicsystem` - [26 comments](https://news.ycombinator.com/item?id=50251200)
+9. **[Zero click, silent, remote Android DoS](https://smsofdeath.com/)**
+   230 points by `MarkBlah` - [124 comments](https://news.ycombinator.com/item?id=50285452)
 
-10. **[CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)**
-   457 points by `bschne` - [127 comments](https://news.ycombinator.com/item?id=50274409)
+10. **[Google determines the names for bodies of water in Google Earth (2008)](https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html)**
+   130 points by `terminalbraid` - [101 comments](https://news.ycombinator.com/item?id=50287448)

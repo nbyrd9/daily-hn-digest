@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-10-31.md`](./digests/2026-10-31.md)
 
-_Captured 2026-10-31 08:31 UTC._
+_Captured 2026-10-31 15:04 UTC._
 
-1. **[My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)**
-   304 points by `DHowett` - [82 comments](https://news.ycombinator.com/item?id=50307190)
+1. **[Molly(Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)**
+   125 points by `DeepLogin` - [78 comments](https://news.ycombinator.com/item?id=50314666)
 
-2. **[Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve)**
-   185 points by `costco` - [54 comments](https://news.ycombinator.com/item?id=50277379)
+2. **[Prospero: A new coding harness for a more civilized age](https://nullprogram.com/blog/2026/10/31/)**
+   70 points by `fovc` - [38 comments](https://news.ycombinator.com/item?id=50315226)
 
-3. **[Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)**
-   179 points by `x______________` - [71 comments](https://news.ycombinator.com/item?id=50312756)
+3. **[We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)**
+   135 points by `armcat` - [59 comments](https://news.ycombinator.com/item?id=50314699)
 
-4. **[The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)**
-   435 points by `domhudson` - [290 comments](https://news.ycombinator.com/item?id=50303172)
+4. **[Switch Lowering in GCC](https://xoranth.net/gcc-switch/)**
+   119 points by `signa11` - [22 comments](https://news.ycombinator.com/item?id=50314085)
 
-5. **[Northflank Breached](https://status.northflank.com)**
-   425 points by `js4ever` - [312 comments](https://news.ycombinator.com/item?id=50305025)
+5. **[Simple circuits can create complex behaviors](https://aatishb.com/myriad/lets-build-a-brain/)**
+   46 points by `aatish` - [4 comments](https://news.ycombinator.com/item?id=50261253)
 
-6. **[Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)**
-   254 points by `raybb` - [106 comments](https://news.ycombinator.com/item?id=50263837)
+6. **[Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament)**
+   511 points by `input_sh` - [306 comments](https://news.ycombinator.com/item?id=50314654)
 
-7. **[Show HN: Samosa – Linter for Math Derivations](https://samosa-math.vercel.app)**
-   13 points by `Hussain04` - [1 comments](https://news.ycombinator.com/item?id=50258605)
+7. **[Digital minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html)**
+   144 points by `wilbertliu` - [111 comments](https://news.ycombinator.com/item?id=50313661)
 
-8. **[Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death](https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397)**
-   27 points by `brandonb` - [11 comments](https://news.ycombinator.com/item?id=50274885)
+8. **[Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/)**
+   126 points by `foOg` - [36 comments](https://news.ycombinator.com/item?id=50260753)
 
-9. **[Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/)**
-   4 points by `foOg` - [1 comments](https://news.ycombinator.com/item?id=50260753)
+9. **[AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura](https://thedataexchange.media/leo-de-moura-lean-aws/)**
+   106 points by `datascientist` - [25 comments](https://news.ycombinator.com/item?id=50290652)
 
-10. **[Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)**
-   242 points by `dbreunig` - [121 comments](https://news.ycombinator.com/item?id=50306442)
+10. **[Hunting 'Zombie Accounts' in Active Directory](https://www.fabian.fyi/2026/10/zombie-hunt.html)**
+   8 points by `optimiz` - [1 comments](https://news.ycombinator.com/item?id=50296700)

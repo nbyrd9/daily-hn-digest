@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-10-29.md`](./digests/2026-10-29.md)
+## Latest snapshot - [`2026-10-31.md`](./digests/2026-10-31.md)
 
-_Captured 2026-10-29 15:18 UTC._
+_Captured 2026-10-31 08:31 UTC._
 
-1. **[Mistral Large 4 (Le Chonk) is now Open Weight](https://mistral.ai/news/mistral-large-4-oss/)**
-   293 points by `kuberwastaken` - [64 comments](https://news.ycombinator.com/item?id=50289418)
+1. **[My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)**
+   304 points by `DHowett` - [82 comments](https://news.ycombinator.com/item?id=50307190)
 
-2. **[Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1)**
-   212 points by `theHocineSaad` - [161 comments](https://news.ycombinator.com/item?id=50288019)
+2. **[Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve)**
+   185 points by `costco` - [54 comments](https://news.ycombinator.com/item?id=50277379)
 
-3. **[Read the letter the FBI sent MLK to try to convince him to kill himself (2014)](https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter)**
-   233 points by `surprisetalk` - [134 comments](https://news.ycombinator.com/item?id=50288867)
+3. **[Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)**
+   179 points by `x______________` - [71 comments](https://news.ycombinator.com/item?id=50312756)
 
-4. **[DoorDash is acquiring Instacart for $17B](https://about.doordash.com/en-us/news/doordash-to-acquire-instacart)**
-   33 points by `DeepLogin` - [15 comments](https://news.ycombinator.com/item?id=50289859)
+4. **[The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)**
+   435 points by `domhudson` - [290 comments](https://news.ycombinator.com/item?id=50303172)
 
-5. **[Finland investigate Google over destruction of 250k trees](https://yle.fi/a/74-20254086)**
-   17 points by `DeepLogin` - [4 comments](https://news.ycombinator.com/item?id=50290170)
+5. **[Northflank Breached](https://status.northflank.com)**
+   425 points by `js4ever` - [312 comments](https://news.ycombinator.com/item?id=50305025)
 
-6. **[Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers](https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers)**
-   96 points by `882542F3884314B` - [44 comments](https://news.ycombinator.com/item?id=50286987)
+6. **[Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)**
+   254 points by `raybb` - [106 comments](https://news.ycombinator.com/item?id=50263837)
 
-7. **[React.lazy, Suspense and the Hidden 300 ms Delay](https://tabwidgets.com/blog/react-lazy-suspense-delay)**
-   8 points by `ctrlt` - [1 comments](https://news.ycombinator.com/item?id=50290042)
+7. **[Show HN: Samosa – Linter for Math Derivations](https://samosa-math.vercel.app)**
+   13 points by `Hussain04` - [1 comments](https://news.ycombinator.com/item?id=50258605)
 
-8. **[Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)**
-   622 points by `csmantle` - [130 comments](https://news.ycombinator.com/item?id=50282838)
+8. **[Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death](https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397)**
+   27 points by `brandonb` - [11 comments](https://news.ycombinator.com/item?id=50274885)
 
-9. **[Zero click, silent, remote Android DoS](https://smsofdeath.com/)**
-   230 points by `MarkBlah` - [124 comments](https://news.ycombinator.com/item?id=50285452)
+9. **[Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/)**
+   4 points by `foOg` - [1 comments](https://news.ycombinator.com/item?id=50260753)
 
-10. **[Google determines the names for bodies of water in Google Earth (2008)](https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html)**
-   130 points by `terminalbraid` - [101 comments](https://news.ycombinator.com/item?id=50287448)
+10. **[Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)**
+   242 points by `dbreunig` - [121 comments](https://news.ycombinator.com/item?id=50306442)

@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-10-31.md`](./digests/2026-10-31.md)
+## Latest snapshot - [`2026-11-01.md`](./digests/2026-11-01.md)
 
-_Captured 2026-10-31 15:04 UTC._
+_Captured 2026-11-01 11:59 UTC._
 
-1. **[Molly(Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)**
-   125 points by `DeepLogin` - [78 comments](https://news.ycombinator.com/item?id=50314666)
+1. **[Norway makes shithouses great again](https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/)**
+   136 points by `giuliomagnifico` - [51 comments](https://news.ycombinator.com/item?id=50324388)
 
-2. **[Prospero: A new coding harness for a more civilized age](https://nullprogram.com/blog/2026/10/31/)**
-   70 points by `fovc` - [38 comments](https://news.ycombinator.com/item?id=50315226)
+2. **[HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)**
+   1449 points by `karpathy` - [392 comments](https://news.ycombinator.com/item?id=50319510)
 
-3. **[We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)**
-   135 points by `armcat` - [59 comments](https://news.ycombinator.com/item?id=50314699)
+3. **[A tiny Pacific country rolls out universal basic income](https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income)**
+   35 points by `motionlessveloc` - [7 comments](https://news.ycombinator.com/item?id=50324118)
 
-4. **[Switch Lowering in GCC](https://xoranth.net/gcc-switch/)**
-   119 points by `signa11` - [22 comments](https://news.ycombinator.com/item?id=50314085)
+4. **[An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)**
+   494 points by `ecares` - [153 comments](https://news.ycombinator.com/item?id=50320963)
 
-5. **[Simple circuits can create complex behaviors](https://aatishb.com/myriad/lets-build-a-brain/)**
-   46 points by `aatish` - [4 comments](https://news.ycombinator.com/item?id=50261253)
+5. **[The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)**
+   108 points by `luu` - [56 comments](https://news.ycombinator.com/item?id=50323088)
 
-6. **[Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament)**
-   511 points by `input_sh` - [306 comments](https://news.ycombinator.com/item?id=50314654)
+6. **[Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)**
+   152 points by `doodlesdev` - [61 comments](https://news.ycombinator.com/item?id=50322173)
 
-7. **[Digital minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html)**
-   144 points by `wilbertliu` - [111 comments](https://news.ycombinator.com/item?id=50313661)
+7. **[Running a bootstrapped SaaS for 20 years with my brother](https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/)**
+   114 points by `whyleyc` - [29 comments](https://news.ycombinator.com/item?id=50303984)
 
-8. **[Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/)**
-   126 points by `foOg` - [36 comments](https://news.ycombinator.com/item?id=50260753)
+8. **[TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)**
+   539 points by `oger` - [249 comments](https://news.ycombinator.com/item?id=50319143)
 
-9. **[AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura](https://thedataexchange.media/leo-de-moura-lean-aws/)**
-   106 points by `datascientist` - [25 comments](https://news.ycombinator.com/item?id=50290652)
+9. **[Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)**
+   266 points by `guregodevo` - [122 comments](https://news.ycombinator.com/item?id=50320995)
 
-10. **[Hunting 'Zombie Accounts' in Active Directory](https://www.fabian.fyi/2026/10/zombie-hunt.html)**
-   8 points by `optimiz` - [1 comments](https://news.ycombinator.com/item?id=50296700)
+10. **[Domain hacks with unusual Unicode characters (2018)](https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/)**
+   7 points by `n_plus_1_acc` - [2 comments](https://news.ycombinator.com/item?id=50324371)

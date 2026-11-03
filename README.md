@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-11-03.md`](./digests/2026-11-03.md)
 
-_Captured 2026-11-03 09:06 UTC._
+_Captured 2026-11-03 18:16 UTC._
 
-1. **[Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)**
-   2541 points by `dbreunig` - [784 comments](https://news.ycombinator.com/item?id=50341174)
+1. **[Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370)**
+   224 points by `sidgarimella` - [61 comments](https://news.ycombinator.com/item?id=50354960)
 
-2. **[Nvidia – open-source auto-ontology](https://github.com/NVIDIA/auto-ontology)**
-   37 points by `campervans` - [4 comments](https://news.ycombinator.com/item?id=50348962)
+2. **[Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/)**
+   289 points by `xx_ns` - [96 comments](https://news.ycombinator.com/item?id=50339288)
 
-3. **[Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)**
-   238 points by `polpenn` - [74 comments](https://news.ycombinator.com/item?id=50346981)
+3. **[Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/)**
+   48 points by `theanonymousone` - [5 comments](https://news.ycombinator.com/item?id=50355251)
 
-4. **[DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)**
-   180 points by `bpierre` - [45 comments](https://news.ycombinator.com/item?id=50346849)
+4. **[Mac at Any Scale](https://namespace.so/blog/mac-at-any-scale)**
+   155 points by `anner_` - [68 comments](https://news.ycombinator.com/item?id=50352758)
 
-5. **[European RISC-V Industrial Computing Initiative](https://erici.eu)**
-   92 points by `ymz5` - [44 comments](https://news.ycombinator.com/item?id=50334523)
+5. **[Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/)**
+   222 points by `bookofjoe` - [83 comments](https://news.ycombinator.com/item?id=50336918)
 
-6. **[Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088)**
-   679 points by `aarushyadav` - [336 comments](https://news.ycombinator.com/item?id=50340088)
+6. **[Schools that block Google’s A.I. will lose student access to its search engine](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html)**
+   248 points by `ceejayoz` - [190 comments](https://news.ycombinator.com/item?id=50353192)
 
-7. **[Resisting Cognitive Surrender](https://knlb.dev/essays/surrender)**
-   150 points by `knlb` - [62 comments](https://news.ycombinator.com/item?id=50323123)
+7. **[OpenAI seems to be silently re-enabling model training on Codex chats](https://news.ycombinator.com/item?id=50352757)**
+   185 points by `user052919` - [62 comments](https://news.ycombinator.com/item?id=50352757)
 
-8. **[Toit v2.0.0](https://toit.io/blog/toit-v2-0-0/)**
-   40 points by `floitsch` - [15 comments](https://news.ycombinator.com/item?id=50321605)
+8. **[USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance](https://arxiv.org/abs/2611.02618)**
+   18 points by `1equalsequals1` - [1 comments](https://news.ycombinator.com/item?id=50354250)
 
-9. **[Efficient algorithms, the Exponential Time Hypothesis, and losing the plot](https://www.argmin.net/p/galactus-the-devourer)**
-   33 points by `sebg` - [14 comments](https://news.ycombinator.com/item?id=50320904)
+9. **[Bear turns 10, and it still feels like day one](https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/)**
+   55 points by `psxuaw` - [27 comments](https://news.ycombinator.com/item?id=50353383)
 
-10. **[US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names)**
-   393 points by `xoobdev` - [370 comments](https://news.ycombinator.com/item?id=50339397)
+10. **[The 'Astra can read and write weights to improve Qwen' post is misleading](https://honnibal.dev/blog/astra-read-write-misleading)**
+   717 points by `syllogism` - [166 comments](https://news.ycombinator.com/item?id=50351111)

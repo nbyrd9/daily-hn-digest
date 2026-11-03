@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-11-01.md`](./digests/2026-11-01.md)
+## Latest snapshot - [`2026-11-03.md`](./digests/2026-11-03.md)
 
-_Captured 2026-11-01 22:24 UTC._
+_Captured 2026-11-03 09:06 UTC._
 
-1. **[Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)**
-   694 points by `roansh` - [157 comments](https://news.ycombinator.com/item?id=50326821)
+1. **[Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)**
+   2541 points by `dbreunig` - [784 comments](https://news.ycombinator.com/item?id=50341174)
 
-2. **[HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)**
-   2124 points by `karpathy` - [519 comments](https://news.ycombinator.com/item?id=50319510)
+2. **[Nvidia – open-source auto-ontology](https://github.com/NVIDIA/auto-ontology)**
+   37 points by `campervans` - [4 comments](https://news.ycombinator.com/item?id=50348962)
 
-3. **[Nibnib: Image compression with extreme decompression speed](https://github.com/raphlinus/nibnib)**
-   46 points by `raphlinus` - [5 comments](https://news.ycombinator.com/item?id=50299811)
+3. **[Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)**
+   238 points by `polpenn` - [74 comments](https://news.ycombinator.com/item?id=50346981)
 
-4. **[Tips for more effective fuzz testing with AFL++](https://nullprogram.com/blog/2025/02/05/)**
-   42 points by `luu` - [4 comments](https://news.ycombinator.com/item?id=50271106)
+4. **[DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)**
+   180 points by `bpierre` - [45 comments](https://news.ycombinator.com/item?id=50346849)
 
-5. **[New 3D thermal invisibility cloak makes objects disappear from infrared cameras](https://www.sciencedaily.com/releases/2026/10/261025073051.htm)**
-   13 points by `stevenalowe` - [5 comments](https://news.ycombinator.com/item?id=50299427)
+5. **[European RISC-V Industrial Computing Initiative](https://erici.eu)**
+   92 points by `ymz5` - [44 comments](https://news.ycombinator.com/item?id=50334523)
 
-6. **[Mathematics has changed. Let's act like it](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)**
-   155 points by `smilelamp` - [178 comments](https://news.ycombinator.com/item?id=50328251)
+6. **[Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088)**
+   679 points by `aarushyadav` - [336 comments](https://news.ycombinator.com/item?id=50340088)
 
-7. **[Copper – A minimal low-level programming language with OOP and generics](https://tibleiz.net/copper/)**
-   104 points by `bogdanoff_2` - [58 comments](https://news.ycombinator.com/item?id=50308754)
+7. **[Resisting Cognitive Surrender](https://knlb.dev/essays/surrender)**
+   150 points by `knlb` - [62 comments](https://news.ycombinator.com/item?id=50323123)
 
-8. **[Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896)**
-   32 points by `LecroJS` - [75 comments](https://news.ycombinator.com/item?id=50328896)
+8. **[Toit v2.0.0](https://toit.io/blog/toit-v2-0-0/)**
+   40 points by `floitsch` - [15 comments](https://news.ycombinator.com/item?id=50321605)
 
-9. **[An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)**
-   735 points by `ecares` - [194 comments](https://news.ycombinator.com/item?id=50320963)
+9. **[Efficient algorithms, the Exponential Time Hypothesis, and losing the plot](https://www.argmin.net/p/galactus-the-devourer)**
+   33 points by `sebg` - [14 comments](https://news.ycombinator.com/item?id=50320904)
 
-10. **[Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff)**
-   109 points by `FabCH` - [34 comments](https://news.ycombinator.com/item?id=50325253)
+10. **[US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names)**
+   393 points by `xoobdev` - [370 comments](https://news.ycombinator.com/item?id=50339397)

@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-11-05.md`](./digests/2026-11-05.md)
 
-_Captured 2026-11-05 01:44 UTC._
+_Captured 2026-11-05 23:38 UTC._
 
-1. **[Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)**
-   636 points by `Rasbora` - [208 comments](https://news.ycombinator.com/item?id=50371246)
+1. **[Search for everyone](https://kagi.com/changelog#11820)**
+   397 points by `elashri` - [204 comments](https://news.ycombinator.com/item?id=50383740)
 
-2. **[Images 2.6](https://openai.com/index/introducing-images-2-6/)**
-   86 points by `davidbarker` - [72 comments](https://news.ycombinator.com/item?id=50372945)
+2. **[Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)**
+   201 points by `motoroco` - [51 comments](https://news.ycombinator.com/item?id=50385272)
 
-3. **[A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)**
-   82 points by `dangelosaurus` - [54 comments](https://news.ycombinator.com/item?id=50372929)
+3. **[MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)**
+   233 points by `kuberwastaken` - [62 comments](https://news.ycombinator.com/item?id=50384233)
 
-4. **[Starfall – Affordable, routine access to microgravity](https://www.spacex.com/starfall)**
-   53 points by `gmays` - [21 comments](https://news.ycombinator.com/item?id=50373308)
+4. **[sshole](https://sshhole.com)**
+   2215 points by `josemrb` - [556 comments](https://news.ycombinator.com/item?id=50378228)
 
-5. **[AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)**
-   1063 points by `pseudolus` - [633 comments](https://news.ycombinator.com/item?id=50364336)
+5. **[Alpine Linux Security Advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)**
+   549 points by `pantalaimon` - [110 comments](https://news.ycombinator.com/item?id=50379704)
 
-6. **[Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding](https://www.ricursive.com/ripple)**
-   220 points by `Philpax` - [78 comments](https://news.ycombinator.com/item?id=50369925)
+6. **[The Hackintosh Reborn](https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/)**
+   160 points by `rubatuga` - [72 comments](https://news.ycombinator.com/item?id=50383057)
 
-7. **[Insects don't swarm at LED lights](https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/)**
-   164 points by `speckx` - [93 comments](https://news.ycombinator.com/item?id=50370610)
+7. **[Tencent Launches Hy4, One of the Leading Open-Source AI Models](https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/)**
+   64 points by `gmays` - [1 comments](https://news.ycombinator.com/item?id=50383963)
 
-8. **[Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)**
-   372 points by `abrarthought` - [101 comments](https://news.ycombinator.com/item?id=50366999)
+8. **[Window Sweaters](https://github.com/saragordic/window-sweaters)**
+   215 points by `nickswalker` - [76 comments](https://news.ycombinator.com/item?id=50381383)
 
-9. **[Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements](https://icode4.coffee/?p=1746)**
-   61 points by `muricula` - [2 comments](https://news.ycombinator.com/item?id=50372164)
+9. **[Goodbye from Salon](https://www.salon.com/2026/11/05/goodbye-from-salon/)**
+   337 points by `mkeeter` - [118 comments](https://news.ycombinator.com/item?id=50383739)
 
-10. **[A new Go API for JSON](https://go.dev/blog/jsonv2)**
-   228 points by `olexsmir` - [95 comments](https://news.ycombinator.com/item?id=50369106)
+10. **[The Cost of Blogging](https://onlinegoddess.net/2026/11/the-cost-of-blogging/)**
+   40 points by `speckx` - [33 comments](https://news.ycombinator.com/item?id=50383877)

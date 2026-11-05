@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-11-03.md`](./digests/2026-11-03.md)
+## Latest snapshot - [`2026-11-05.md`](./digests/2026-11-05.md)
 
-_Captured 2026-11-03 18:16 UTC._
+_Captured 2026-11-05 01:44 UTC._
 
-1. **[Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370)**
-   224 points by `sidgarimella` - [61 comments](https://news.ycombinator.com/item?id=50354960)
+1. **[Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)**
+   636 points by `Rasbora` - [208 comments](https://news.ycombinator.com/item?id=50371246)
 
-2. **[Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/)**
-   289 points by `xx_ns` - [96 comments](https://news.ycombinator.com/item?id=50339288)
+2. **[Images 2.6](https://openai.com/index/introducing-images-2-6/)**
+   86 points by `davidbarker` - [72 comments](https://news.ycombinator.com/item?id=50372945)
 
-3. **[Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/)**
-   48 points by `theanonymousone` - [5 comments](https://news.ycombinator.com/item?id=50355251)
+3. **[A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)**
+   82 points by `dangelosaurus` - [54 comments](https://news.ycombinator.com/item?id=50372929)
 
-4. **[Mac at Any Scale](https://namespace.so/blog/mac-at-any-scale)**
-   155 points by `anner_` - [68 comments](https://news.ycombinator.com/item?id=50352758)
+4. **[Starfall – Affordable, routine access to microgravity](https://www.spacex.com/starfall)**
+   53 points by `gmays` - [21 comments](https://news.ycombinator.com/item?id=50373308)
 
-5. **[Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/)**
-   222 points by `bookofjoe` - [83 comments](https://news.ycombinator.com/item?id=50336918)
+5. **[AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)**
+   1063 points by `pseudolus` - [633 comments](https://news.ycombinator.com/item?id=50364336)
 
-6. **[Schools that block Google’s A.I. will lose student access to its search engine](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html)**
-   248 points by `ceejayoz` - [190 comments](https://news.ycombinator.com/item?id=50353192)
+6. **[Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding](https://www.ricursive.com/ripple)**
+   220 points by `Philpax` - [78 comments](https://news.ycombinator.com/item?id=50369925)
 
-7. **[OpenAI seems to be silently re-enabling model training on Codex chats](https://news.ycombinator.com/item?id=50352757)**
-   185 points by `user052919` - [62 comments](https://news.ycombinator.com/item?id=50352757)
+7. **[Insects don't swarm at LED lights](https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/)**
+   164 points by `speckx` - [93 comments](https://news.ycombinator.com/item?id=50370610)
 
-8. **[USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance](https://arxiv.org/abs/2611.02618)**
-   18 points by `1equalsequals1` - [1 comments](https://news.ycombinator.com/item?id=50354250)
+8. **[Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)**
+   372 points by `abrarthought` - [101 comments](https://news.ycombinator.com/item?id=50366999)
 
-9. **[Bear turns 10, and it still feels like day one](https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/)**
-   55 points by `psxuaw` - [27 comments](https://news.ycombinator.com/item?id=50353383)
+9. **[Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements](https://icode4.coffee/?p=1746)**
+   61 points by `muricula` - [2 comments](https://news.ycombinator.com/item?id=50372164)
 
-10. **[The 'Astra can read and write weights to improve Qwen' post is misleading](https://honnibal.dev/blog/astra-read-write-misleading)**
-   717 points by `syllogism` - [166 comments](https://news.ycombinator.com/item?id=50351111)
+10. **[A new Go API for JSON](https://go.dev/blog/jsonv2)**
+   228 points by `olexsmir` - [95 comments](https://news.ycombinator.com/item?id=50369106)

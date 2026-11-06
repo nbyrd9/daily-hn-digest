@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-11-05.md`](./digests/2026-11-05.md)
+## Latest snapshot - [`2026-11-06.md`](./digests/2026-11-06.md)
 
-_Captured 2026-11-05 23:38 UTC._
+_Captured 2026-11-06 05:32 UTC._
 
-1. **[Search for everyone](https://kagi.com/changelog#11820)**
-   397 points by `elashri` - [204 comments](https://news.ycombinator.com/item?id=50383740)
+1. **[Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)**
+   789 points by `motoroco` - [267 comments](https://news.ycombinator.com/item?id=50385272)
 
-2. **[Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)**
-   201 points by `motoroco` - [51 comments](https://news.ycombinator.com/item?id=50385272)
+2. **[sshole](https://sshhole.com)**
+   2485 points by `josemrb` - [610 comments](https://news.ycombinator.com/item?id=50378228)
 
 3. **[MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)**
-   233 points by `kuberwastaken` - [62 comments](https://news.ycombinator.com/item?id=50384233)
+   412 points by `kuberwastaken` - [154 comments](https://news.ycombinator.com/item?id=50384233)
 
-4. **[sshole](https://sshhole.com)**
-   2215 points by `josemrb` - [556 comments](https://news.ycombinator.com/item?id=50378228)
+4. **[Pwn.college](https://pwn.college/)**
+   46 points by `tripdout` - [4 comments](https://news.ycombinator.com/item?id=50387796)
 
-5. **[Alpine Linux Security Advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)**
-   549 points by `pantalaimon` - [110 comments](https://news.ycombinator.com/item?id=50379704)
+5. **[Nvidia Kubernetes Engine (NVKE)](https://github.com/dsx-ai-factory/nvke)**
+   34 points by `gkapur` - [11 comments](https://news.ycombinator.com/item?id=50387738)
 
-6. **[The Hackintosh Reborn](https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/)**
-   160 points by `rubatuga` - [72 comments](https://news.ycombinator.com/item?id=50383057)
+6. **[Closed AI models dominate the price-performance frontier](https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/)**
+   38 points by `kevin_hu` - [27 comments](https://news.ycombinator.com/item?id=50387546)
 
-7. **[Tencent Launches Hy4, One of the Leading Open-Source AI Models](https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/)**
-   64 points by `gmays` - [1 comments](https://news.ycombinator.com/item?id=50383963)
+7. **[Inkling 2 Small](https://thinkingmachines.ai/news/inkling-2-small/)**
+   133 points by `Philpax` - [53 comments](https://news.ycombinator.com/item?id=50386338)
 
-8. **[Window Sweaters](https://github.com/saragordic/window-sweaters)**
-   215 points by `nickswalker` - [76 comments](https://news.ycombinator.com/item?id=50381383)
+8. **[The Hackintosh Reborn](https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/)**
+   260 points by `rubatuga` - [129 comments](https://news.ycombinator.com/item?id=50383057)
 
-9. **[Goodbye from Salon](https://www.salon.com/2026/11/05/goodbye-from-salon/)**
-   337 points by `mkeeter` - [118 comments](https://news.ycombinator.com/item?id=50383739)
+9. **[Window Sweaters](https://github.com/saragordic/window-sweaters)**
+   280 points by `nickswalker` - [92 comments](https://news.ycombinator.com/item?id=50381383)
 
-10. **[The Cost of Blogging](https://onlinegoddess.net/2026/11/the-cost-of-blogging/)**
-   40 points by `speckx` - [33 comments](https://news.ycombinator.com/item?id=50383877)
+10. **[Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM](https://firenook.dev/)**
+   75 points by `sanjevirau` - [14 comments](https://news.ycombinator.com/item?id=50378643)

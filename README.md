@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-11-06.md`](./digests/2026-11-06.md)
+## Latest snapshot - [`2026-11-08.md`](./digests/2026-11-08.md)
 
-_Captured 2026-11-06 13:42 UTC._
+_Captured 2026-11-08 00:29 UTC._
 
-1. **[Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105)**
-   299 points by `microtonal` - [188 comments](https://news.ycombinator.com/item?id=50390124)
+1. **[The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006)**
+   341 points by `srean` - [197 comments](https://news.ycombinator.com/item?id=50406563)
 
-2. **[Blender's UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI)**
-   363 points by `ppmpreetham` - [150 comments](https://news.ycombinator.com/item?id=50389333)
+2. **[GitHub New pull request overview page in public preview](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/)**
+   27 points by `xiaoyu2006` - [18 comments](https://news.ycombinator.com/item?id=50408931)
 
-3. **[Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)**
-   1298 points by `motoroco` - [409 comments](https://news.ycombinator.com/item?id=50385272)
+3. **[What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)**
+   299 points by `LaurensBER` - [75 comments](https://news.ycombinator.com/item?id=50406670)
 
-4. **[We've built an open-source feature flag server for 11 years](https://github.com/Unleash/unleash)**
-   33 points by `ivarconr` - [14 comments](https://news.ycombinator.com/item?id=50391145)
+4. **[Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)**
+   35 points by `germanrabbit` - [6 comments](https://news.ycombinator.com/item?id=50408713)
 
-5. **[Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)](https://jhr.pensoft.net/articles.php?id=9096)**
-   71 points by `hitekker` - [24 comments](https://news.ycombinator.com/item?id=50390525)
+5. **[Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)**
+   125 points by `shmulc` - [92 comments](https://news.ycombinator.com/item?id=50407882)
 
-6. **[sshole](https://sshhole.com)**
-   2790 points by `josemrb` - [677 comments](https://news.ycombinator.com/item?id=50378228)
+6. **[Apple’s grey list: Words and phrases your iPhone won’t help you spell](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you)**
+   323 points by `user_7832` - [224 comments](https://news.ycombinator.com/item?id=50406111)
 
-7. **[Kugelblitz – Mac-Native Google Earth Alternative](https://apps.metaebene.me/en/kugelblitz)**
-   134 points by `luoc` - [42 comments](https://news.ycombinator.com/item?id=50389370)
+7. **[Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)**
+   184 points by `hedgerow-dev` - [39 comments](https://news.ycombinator.com/item?id=50406292)
 
-8. **[Tesla winds down Cybertruck production after years of poor sales in few markets](https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv)**
-   80 points by `PLenz` - [49 comments](https://news.ycombinator.com/item?id=50391456)
+8. **[MaxxBench – "Nice DeepSWE score. But is it true?"](https://maxxbench.unlap.ai/research/why-maxxbench/)**
+   180 points by `antiuniverse` - [55 comments](https://news.ycombinator.com/item?id=50406222)
 
-9. **[MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)**
-   600 points by `kuberwastaken` - [222 comments](https://news.ycombinator.com/item?id=50384233)
+9. **[Uranium cubes reveal why the German nuclear project failed](https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/)**
+   47 points by `rbanffy` - [11 comments](https://news.ycombinator.com/item?id=50377661)
 
-10. **[From Linux to Wikipedia: How Volunteers Build the Internet](https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/)**
-   160 points by `jonbaer` - [54 comments](https://news.ycombinator.com/item?id=50388122)
+10. **[Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)**
+   782 points by `fluxusars` - [222 comments](https://news.ycombinator.com/item?id=50403052)

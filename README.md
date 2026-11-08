@@ -20,34 +20,34 @@ reading, and how the rankings shifted through the day.
 
 ## Latest snapshot - [`2026-11-08.md`](./digests/2026-11-08.md)
 
-_Captured 2026-11-08 00:29 UTC._
+_Captured 2026-11-08 03:31 UTC._
 
-1. **[The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006)**
-   341 points by `srean` - [197 comments](https://news.ycombinator.com/item?id=50406563)
+1. **[What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)**
+   389 points by `LaurensBER` - [89 comments](https://news.ycombinator.com/item?id=50406670)
 
-2. **[GitHub New pull request overview page in public preview](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/)**
-   27 points by `xiaoyu2006` - [18 comments](https://news.ycombinator.com/item?id=50408931)
+2. **[Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)**
+   219 points by `shmulc` - [146 comments](https://news.ycombinator.com/item?id=50407882)
 
-3. **[What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)**
-   299 points by `LaurensBER` - [75 comments](https://news.ycombinator.com/item?id=50406670)
+3. **[Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)**
+   75 points by `germanrabbit` - [19 comments](https://news.ycombinator.com/item?id=50408713)
 
-4. **[Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)**
-   35 points by `germanrabbit` - [6 comments](https://news.ycombinator.com/item?id=50408713)
+4. **[Uranium cubes reveal why the German nuclear project failed](https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/)**
+   80 points by `rbanffy` - [45 comments](https://news.ycombinator.com/item?id=50377661)
 
-5. **[Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)**
-   125 points by `shmulc` - [92 comments](https://news.ycombinator.com/item?id=50407882)
+5. **[Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)**
+   846 points by `fluxusars` - [231 comments](https://news.ycombinator.com/item?id=50403052)
 
-6. **[Apple’s grey list: Words and phrases your iPhone won’t help you spell](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you)**
-   323 points by `user_7832` - [224 comments](https://news.ycombinator.com/item?id=50406111)
+6. **[Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)**
+   202 points by `hedgerow-dev` - [43 comments](https://news.ycombinator.com/item?id=50406292)
 
-7. **[Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)**
-   184 points by `hedgerow-dev` - [39 comments](https://news.ycombinator.com/item?id=50406292)
+7. **[MaxxBench – "Nice DeepSWE score. But is it true?"](https://maxxbench.unlap.ai/research/why-maxxbench/)**
+   219 points by `antiuniverse` - [64 comments](https://news.ycombinator.com/item?id=50406222)
 
-8. **[MaxxBench – "Nice DeepSWE score. But is it true?"](https://maxxbench.unlap.ai/research/why-maxxbench/)**
-   180 points by `antiuniverse` - [55 comments](https://news.ycombinator.com/item?id=50406222)
+8. **[GitHub New pull request overview page in public preview](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/)**
+   80 points by `xiaoyu2006` - [58 comments](https://news.ycombinator.com/item?id=50408931)
 
-9. **[Uranium cubes reveal why the German nuclear project failed](https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/)**
-   47 points by `rbanffy` - [11 comments](https://news.ycombinator.com/item?id=50377661)
+9. **[The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006)**
+   417 points by `srean` - [244 comments](https://news.ycombinator.com/item?id=50406563)
 
-10. **[Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)**
-   782 points by `fluxusars` - [222 comments](https://news.ycombinator.com/item?id=50403052)
+10. **[Amsterdam School](https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html)**
+   6 points by `bondarchuk` - [1 comments](https://news.ycombinator.com/item?id=50351954)

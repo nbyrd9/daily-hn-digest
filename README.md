@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-11-08.md`](./digests/2026-11-08.md)
+## Latest snapshot - [`2026-11-09.md`](./digests/2026-11-09.md)
 
-_Captured 2026-11-08 03:31 UTC._
+_Captured 2026-11-09 02:00 UTC._
 
-1. **[What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)**
-   389 points by `LaurensBER` - [89 comments](https://news.ycombinator.com/item?id=50406670)
+1. **[KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)**
+   199 points by `dcoulmbe` - [48 comments](https://news.ycombinator.com/item?id=50418176)
 
-2. **[Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)**
-   219 points by `shmulc` - [146 comments](https://news.ycombinator.com/item?id=50407882)
+2. **[Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)**
+   53 points by `infosecau` - [21 comments](https://news.ycombinator.com/item?id=50419215)
 
-3. **[Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)**
-   75 points by `germanrabbit` - [19 comments](https://news.ycombinator.com/item?id=50408713)
+3. **[Herb Sutter: When a language's creator and its owners strongly disagree [pdf]](https://isocpp.org/files/papers/P4454R0.pdf)**
+   62 points by `acossta` - [40 comments](https://news.ycombinator.com/item?id=50418818)
 
-4. **[Uranium cubes reveal why the German nuclear project failed](https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/)**
-   80 points by `rbanffy` - [45 comments](https://news.ycombinator.com/item?id=50377661)
+4. **[Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)**
+   87 points by `nmstoker` - [14 comments](https://news.ycombinator.com/item?id=50418182)
 
-5. **[Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)**
-   846 points by `fluxusars` - [231 comments](https://news.ycombinator.com/item?id=50403052)
+5. **[Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/)**
+   199 points by `indigodaddy` - [61 comments](https://news.ycombinator.com/item?id=50416053)
 
-6. **[Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)**
-   202 points by `hedgerow-dev` - [43 comments](https://news.ycombinator.com/item?id=50406292)
+6. **[Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407)**
+   127 points by `david927` - [466 comments](https://news.ycombinator.com/item?id=50417407)
 
-7. **[MaxxBench – "Nice DeepSWE score. But is it true?"](https://maxxbench.unlap.ai/research/why-maxxbench/)**
-   219 points by `antiuniverse` - [64 comments](https://news.ycombinator.com/item?id=50406222)
+7. **[Declarative Dragging](https://declarative-dragging.github.io/)**
+   353 points by `smusamashah` - [42 comments](https://news.ycombinator.com/item?id=50368481)
 
-8. **[GitHub New pull request overview page in public preview](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/)**
-   80 points by `xiaoyu2006` - [58 comments](https://news.ycombinator.com/item?id=50408931)
+8. **[Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)**
+   246 points by `xmddmx` - [188 comments](https://news.ycombinator.com/item?id=50416158)
 
-9. **[The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006)**
-   417 points by `srean` - [244 comments](https://news.ycombinator.com/item?id=50406563)
+9. **[Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)**
+   605 points by `TheWiggles` - [359 comments](https://news.ycombinator.com/item?id=50415628)
 
-10. **[Amsterdam School](https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html)**
-   6 points by `bondarchuk` - [1 comments](https://news.ycombinator.com/item?id=50351954)
+10. **[The Web Is More Than Enough, by Paul Ford](https://ftrain.com/aboard-the-web-is-more-than-enough)**
+   76 points by `edward` - [38 comments](https://news.ycombinator.com/item?id=50416456)

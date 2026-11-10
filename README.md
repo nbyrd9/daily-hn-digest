@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-11-09.md`](./digests/2026-11-09.md)
+## Latest snapshot - [`2026-11-10.md`](./digests/2026-11-10.md)
 
-_Captured 2026-11-09 21:13 UTC._
+_Captured 2026-11-10 04:45 UTC._
 
-1. **[USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)**
-   140 points by `munro` - [53 comments](https://news.ycombinator.com/item?id=50431058)
+1. **[Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)**
+   333 points by `lairv` - [676 comments](https://news.ycombinator.com/item?id=50429068)
 
-2. **[Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)**
-   395 points by `ocd` - [215 comments](https://news.ycombinator.com/item?id=50427362)
+2. **[USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)**
+   548 points by `munro` - [276 comments](https://news.ycombinator.com/item?id=50431058)
 
-3. **[E-means: 10x faster k-means at equal loss](https://e-means.github.io/)**
-   118 points by `porridgeraisin` - [5 comments](https://news.ycombinator.com/item?id=50429734)
+3. **[E-means: Outperforming k-means in one-tenth the epochs](https://e-means.github.io/)**
+   314 points by `porridgeraisin` - [29 comments](https://news.ycombinator.com/item?id=50429734)
 
-4. **[Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)**
-   674 points by `meetpateltech` - [359 comments](https://news.ycombinator.com/item?id=50429906)
+4. **[Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)**
+   491 points by `ocd` - [274 comments](https://news.ycombinator.com/item?id=50427362)
 
-5. **[Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far](https://artificialanalysis.ai/models/claude-fable-5-2)**
-   43 points by `theanonymousone` - [10 comments](https://news.ycombinator.com/item?id=50431144)
+5. **[Foldable Flight: The Best Paper Airplanes](https://www.foldableflight.com)**
+   902 points by `vismit2000` - [144 comments](https://news.ycombinator.com/item?id=50424581)
 
-6. **[Our Smallest, Most Efficient Model: Muse Ember](https://research.meta.ai/blog/muse-ember)**
-   163 points by `dvaplima` - [68 comments](https://news.ycombinator.com/item?id=50429024)
+6. **[Horible public key tricks](https://maurycyz.com/projects/badcert/)**
+   73 points by `Curiositry` - [30 comments](https://news.ycombinator.com/item?id=50434264)
 
-7. **[CUI – Native UI components for C](https://yappologistic.github.io/CUI/)**
-   66 points by `hilti` - [37 comments](https://news.ycombinator.com/item?id=50430621)
+7. **[Locating the source of a mysterious beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)**
+   56 points by `bigwheels` - [30 comments](https://news.ycombinator.com/item?id=50434310)
 
-8. **[Infineon marks innovation milestone with 300mm power silicon carbide wafer](https://www.infineon.com/press-release/2026/infpr202611-028)**
-   62 points by `sshah03` - [22 comments](https://news.ycombinator.com/item?id=50429430)
+8. **[How Many People Work from Home?](https://nicholasdecker.substack.com/p/how-many-people-work-from-home)**
+   12 points by `surprisetalk` - [6 comments](https://news.ycombinator.com/item?id=50378118)
 
-9. **[Fold Epic Paper Airplanes](https://www.foldableflight.com)**
-   711 points by `vismit2000` - [124 comments](https://news.ycombinator.com/item?id=50424581)
+9. **[Exact – a new cross platform UI framework](https://github.com/expo/exact)**
+   84 points by `vmg12` - [36 comments](https://news.ycombinator.com/item?id=50433541)
 
-10. **[Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/)**
-   69 points by `gf74918` - [12 comments](https://news.ycombinator.com/item?id=50429426)
+10. **[CoreWeave bond yield tops 16% as AI credit stress rises](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html)**
+   48 points by `lxm` - [16 comments](https://news.ycombinator.com/item?id=50435660)

@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-11-13.md`](./digests/2026-11-13.md)
+## Latest snapshot - [`2026-11-17.md`](./digests/2026-11-17.md)
 
-_Captured 2026-11-13 20:08 UTC._
+_Captured 2026-11-17 00:14 UTC._
 
-1. **[FM-1 Workbench](https://open.m-vave.com/fm1-workbench)**
-   47 points by `simonebrunozzi` - [18 comments](https://news.ycombinator.com/item?id=50488325)
+1. **[Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)**
+   494 points by `pcompeau` - [85 comments](https://news.ycombinator.com/item?id=50522980)
 
-2. **[After 600 experiments, here's what I discovered about JEPA world models](https://haddyalchaer.com/jepa)**
-   119 points by `halcdev` - [25 comments](https://news.ycombinator.com/item?id=50487185)
+2. **[BugMeNot has closed](https://www.bugmenot.com/)**
+   239 points by `lode` - [118 comments](https://news.ycombinator.com/item?id=50523601)
 
-3. **[Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/)**
-   574 points by `scottjg` - [160 comments](https://news.ycombinator.com/item?id=50474959)
+3. **[Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)**
+   60 points by `cwaffles` - [29 comments](https://news.ycombinator.com/item?id=50524736)
 
-4. **[Models can now transmit viruses in weight-space](https://www.alphaxiv.org/abs/2611.weight-space-misfolding)**
-   67 points by `mkglees` - [31 comments](https://news.ycombinator.com/item?id=50487762)
+4. **[How to Break into Security, Ptacek Edition (2012)](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)**
+   58 points by `ronfriedhaber` - [14 comments](https://news.ycombinator.com/item?id=50524225)
 
-5. **[Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291)**
-   386 points by `voxleone` - [271 comments](https://news.ycombinator.com/item?id=50482379)
+5. **[World's Largest Brands Infected With Malware Via Optimizely](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)**
+   117 points by `martinald` - [19 comments](https://news.ycombinator.com/item?id=50523300)
 
-6. **[Show HN: Isometric SF – A pixel-art map of the SF Bay Area](https://isometricsf.com/)**
-   61 points by `juscha1` - [20 comments](https://news.ycombinator.com/item?id=50487228)
+6. **[OpenCode Browse](https://opencode.ai/product/browse)**
+   75 points by `mfiguiere` - [36 comments](https://news.ycombinator.com/item?id=50523459)
 
-7. **[Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures](https://toninoble.com/post/ctrlc-ctrlv-ctrlcve)**
-   24 points by `dethmasque` - [7 comments](https://news.ycombinator.com/item?id=50487605)
+7. **[Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)**
+   197 points by `PaulHoule` - [194 comments](https://news.ycombinator.com/item?id=50520182)
 
-8. **[A technical vision for the Haskell ecosystem](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078)**
-   137 points by `cosmic_quanta` - [58 comments](https://news.ycombinator.com/item?id=50484235)
+8. **[Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/)**
+   287 points by `burntsushi` - [68 comments](https://news.ycombinator.com/item?id=50519744)
 
-9. **[Perplexity Decider v1.3: Training, eval, and use cases](https://www.perplexity.ai/hub/blog/perplexity-decider)**
-   10 points by `gmays` - [0 comments](https://news.ycombinator.com/item?id=50488464)
+9. **[Chemistry is Actually Geometry](https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry)**
+   70 points by `sebg` - [16 comments](https://news.ycombinator.com/item?id=50522643)
 
-10. **[AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems](https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths)**
-   196 points by `bookofjoe` - [46 comments](https://news.ycombinator.com/item?id=50486748)
+10. **[Frame – 31.5" color ePaper display](https://trmnl.com/blog/introducing-frame)**
+   273 points by `geerlingguy` - [193 comments](https://news.ycombinator.com/item?id=50519354)

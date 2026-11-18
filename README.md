@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-11-17.md`](./digests/2026-11-17.md)
+## Latest snapshot - [`2026-11-18.md`](./digests/2026-11-18.md)
 
-_Captured 2026-11-17 06:50 UTC._
+_Captured 2026-11-18 23:24 UTC._
 
-1. **[Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)**
-   1202 points by `pcompeau` - [174 comments](https://news.ycombinator.com/item?id=50522980)
+1. **[Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)**
+   1014 points by `speedping` - [467 comments](https://news.ycombinator.com/item?id=50547374)
 
-2. **[Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)**
-   468 points by `cwaffles` - [303 comments](https://news.ycombinator.com/item?id=50524736)
+2. **[Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)**
+   396 points by `gmays` - [274 comments](https://news.ycombinator.com/item?id=50548021)
 
-3. **[BugMeNot has closed](https://www.bugmenot.com/)**
-   457 points by `lode` - [216 comments](https://news.ycombinator.com/item?id=50523601)
+3. **[Inside Deutsche Bank](https://www.inside-db.com/)**
+   504 points by `gyre007` - [181 comments](https://news.ycombinator.com/item?id=50547620)
 
-4. **[Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)**
-   262 points by `kristjansson` - [103 comments](https://news.ycombinator.com/item?id=50524767)
+4. **[DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1](https://www.radixark.com/blog/daisyrose-27b)**
+   102 points by `de_sty` - [26 comments](https://news.ycombinator.com/item?id=50551046)
 
-5. **[If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)**
-   80 points by `jshier` - [48 comments](https://news.ycombinator.com/item?id=50526560)
+5. **[AI agents ask better questions than KPMG accountants in audit trial](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/)**
+   304 points by `Betelbuddy` - [141 comments](https://news.ycombinator.com/item?id=50547777)
 
-6. **[Running coding agents without handing them my credentials](https://blog.antonio.cx/running-agents-with-lend)**
-   91 points by `antoniomika` - [46 comments](https://news.ycombinator.com/item?id=50526152)
+6. **[DNS resolvers are the wrong place to fight piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)**
+   554 points by `ritzaco` - [204 comments](https://news.ycombinator.com/item?id=50545958)
 
-7. **[OpenCode Browse](https://opencode.ai/product/browse)**
-   208 points by `mfiguiere` - [102 comments](https://news.ycombinator.com/item?id=50523459)
+7. **[Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)**
+   299 points by `yigitdemirag` - [291 comments](https://news.ycombinator.com/item?id=50552424)
 
-8. **[Why did modems have speakers? (2019)](https://retrocomputing.stackexchange.com/questions/11765)**
-   40 points by `Skyfall106` - [20 comments](https://news.ycombinator.com/item?id=50510969)
+8. **[Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon](https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/)**
+   22 points by `acossta` - [3 comments](https://news.ycombinator.com/item?id=50510385)
 
-9. **[Why 3dfx 1 cards had such a washed out color output?](https://twitter.com/id_aa_carmack/status/2122478083319992513)**
-   79 points by `mfiguiere` - [10 comments](https://news.ycombinator.com/item?id=50525575)
+9. **[Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models/)**
+   138 points by `vighneshiyer` - [78 comments](https://news.ycombinator.com/item?id=50549493)
 
-10. **[Test/verification technique effectiveness with Astra](https://danluu.com/astra-testing/)**
-   19 points by `luu` - [5 comments](https://news.ycombinator.com/item?id=50515035)
+10. **[The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026)**
+   221 points by `DeepLogin` - [164 comments](https://news.ycombinator.com/item?id=50546914)

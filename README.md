@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-11-19.md`](./digests/2026-11-19.md)
+## Latest snapshot - [`2026-11-20.md`](./digests/2026-11-20.md)
 
-_Captured 2026-11-19 15:52 UTC._
+_Captured 2026-11-20 15:39 UTC._
 
-1. **[How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/)**
-   431 points by `liotier` - [216 comments](https://news.ycombinator.com/item?id=50558533)
+1. **[Anthropic employee claims general proof of the Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)**
+   579 points by `iamronaldo` - [318 comments](https://news.ycombinator.com/item?id=50574968)
 
-2. **[Everything you need to survive and rebuild society](https://lastbook.org/)**
-   34 points by `tejohnso` - [13 comments](https://news.ycombinator.com/item?id=50560822)
+2. **[If you can't explain something in simple terms, you don't understand it (2017)](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)**
+   307 points by `sammatilda` - [184 comments](https://news.ycombinator.com/item?id=50572355)
 
-3. **[Garage Door Spam](https://blog.harrison.page/garage-door-spam/)**
-   358 points by `harrisonpage` - [144 comments](https://news.ycombinator.com/item?id=50519231)
+3. **[Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)**
+   376 points by `shioyama` - [241 comments](https://news.ycombinator.com/item?id=50572503)
 
-4. **[Making 8-page foldable zines from a single A4 sheet in the browser](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/)**
-   80 points by `krthr` - [23 comments](https://news.ycombinator.com/item?id=50559719)
+4. **[Show HN: I made an audio-to-MIDI model 60x more efficient](https://kobi.music/research/dettato)**
+   76 points by `hidude562` - [15 comments](https://news.ycombinator.com/item?id=50526023)
 
-5. **[Show HN: Foolscap – a writing app that reads your book and never writes for you](https://foolscap.works/)**
-   68 points by `atugard` - [34 comments](https://news.ycombinator.com/item?id=50559749)
+5. **[Floppy3.5: A portable 3.5-inch floppy WiFi NAS](https://github.com/bigcrimping/floppy3.5)**
+   65 points by `fortran77` - [15 comments](https://news.ycombinator.com/item?id=50560595)
 
-6. **[Nintendo takes Picofly firmware down from GitHub [video]](https://www.youtube.com/watch?v=-TLCGUpoD6c)**
-   135 points by `cowlevel` - [37 comments](https://news.ycombinator.com/item?id=50547048)
+6. **[Signal Is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)**
+   137 points by `dotcoma` - [49 comments](https://news.ycombinator.com/item?id=50572348)
 
-7. **[Someone reported java4shell bug in September 2026](https://github.com/openjdk/jdk/pull/32781)**
-   104 points by `notmine1337` - [27 comments](https://news.ycombinator.com/item?id=50558906)
+7. **[The Making of Oxygene](https://jeanmicheljarre.com/aaa/the-making-of-oxygene)**
+   118 points by `hggh` - [42 comments](https://news.ycombinator.com/item?id=50572822)
 
-8. **[Cooling buildings is overtaking heating them as an energy need, IEA says](https://maccus.fr/en/cooling-overtaking-heating/)**
-   13 points by `robtherobber` - [2 comments](https://news.ycombinator.com/item?id=50560955)
+8. **[Show HN: Fast deterministic natural language search for OpenStreetMap data](https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935)**
+   76 points by `vihren` - [24 comments](https://news.ycombinator.com/item?id=50561199)
 
-9. **[Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/)**
-   280 points by `jdns` - [111 comments](https://news.ycombinator.com/item?id=50556287)
+9. **[The G1 Garbage Collector](https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/)**
+   15 points by `ejboy` - [4 comments](https://news.ycombinator.com/item?id=50527444)
 
-10. **[OpenAI still has a WebRTC Problem](https://moq.dev/blog/webrtc-is-still-the-problem/)**
-   45 points by `surprisetalk` - [12 comments](https://news.ycombinator.com/item?id=50560461)
+10. **[OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652)**
+   327 points by `JacobHenner` - [276 comments](https://news.ycombinator.com/item?id=50569226)

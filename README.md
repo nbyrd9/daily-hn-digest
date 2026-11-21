@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-11-20.md`](./digests/2026-11-20.md)
+## Latest snapshot - [`2026-11-21.md`](./digests/2026-11-21.md)
 
-_Captured 2026-11-20 15:39 UTC._
+_Captured 2026-11-21 05:44 UTC._
 
-1. **[Anthropic employee claims general proof of the Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)**
-   579 points by `iamronaldo` - [318 comments](https://news.ycombinator.com/item?id=50574968)
+1. **[Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)**
+   1803 points by `jasondavies` - [820 comments](https://news.ycombinator.com/item?id=50579568)
 
-2. **[If you can't explain something in simple terms, you don't understand it (2017)](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)**
-   307 points by `sammatilda` - [184 comments](https://news.ycombinator.com/item?id=50572355)
+2. **[Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)**
+   2486 points by `iamronaldo` - [1711 comments](https://news.ycombinator.com/item?id=50574968)
 
-3. **[Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)**
-   376 points by `shioyama` - [241 comments](https://news.ycombinator.com/item?id=50572503)
+3. **[Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)**
+   850 points by `jasondavies` - [153 comments](https://news.ycombinator.com/item?id=50581260)
 
-4. **[Show HN: I made an audio-to-MIDI model 60x more efficient](https://kobi.music/research/dettato)**
-   76 points by `hidude562` - [15 comments](https://news.ycombinator.com/item?id=50526023)
+4. **[NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)**
+   190 points by `CharlesW` - [47 comments](https://news.ycombinator.com/item?id=50583274)
 
-5. **[Floppy3.5: A portable 3.5-inch floppy WiFi NAS](https://github.com/bigcrimping/floppy3.5)**
-   65 points by `fortran77` - [15 comments](https://news.ycombinator.com/item?id=50560595)
+5. **[We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)**
+   361 points by `QueensGambit` - [212 comments](https://news.ycombinator.com/item?id=50579331)
 
-6. **[Signal Is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/)**
-   137 points by `dotcoma` - [49 comments](https://news.ycombinator.com/item?id=50572348)
+6. **[Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/)**
+   390 points by `archon1410` - [158 comments](https://news.ycombinator.com/item?id=50578358)
 
-7. **[The Making of Oxygene](https://jeanmicheljarre.com/aaa/the-making-of-oxygene)**
-   118 points by `hggh` - [42 comments](https://news.ycombinator.com/item?id=50572822)
+7. **[Valkey kills the skiplist, cuts sorted set overhead by up to 43%](https://valkey.io/blog/from-skiplist-to-b+tree/)**
+   84 points by `reconditerose` - [35 comments](https://news.ycombinator.com/item?id=50534387)
 
-8. **[Show HN: Fast deterministic natural language search for OpenStreetMap data](https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935)**
-   76 points by `vihren` - [24 comments](https://news.ycombinator.com/item?id=50561199)
+8. **[Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)**
+   72 points by `mooreds` - [14 comments](https://news.ycombinator.com/item?id=50583768)
 
-9. **[The G1 Garbage Collector](https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/)**
-   15 points by `ejboy` - [4 comments](https://news.ycombinator.com/item?id=50527444)
+9. **[Clojure will affect the way you think about programming (2017)](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)**
+   29 points by `sammatilda` - [6 comments](https://news.ycombinator.com/item?id=50585376)
 
-10. **[OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652)**
-   327 points by `JacobHenner` - [276 comments](https://news.ycombinator.com/item?id=50569226)
+10. **[Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)**
+   370 points by `lwhsiao` - [116 comments](https://news.ycombinator.com/item?id=50577265)

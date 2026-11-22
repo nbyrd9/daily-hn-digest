@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-11-21.md`](./digests/2026-11-21.md)
+## Latest snapshot - [`2026-11-22.md`](./digests/2026-11-22.md)
 
-_Captured 2026-11-21 21:17 UTC._
+_Captured 2026-11-22 09:06 UTC._
 
-1. **[Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)**
-   234 points by `k__` - [50 comments](https://news.ycombinator.com/item?id=50591853)
+1. **[Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)**
+   417 points by `zdw` - [231 comments](https://news.ycombinator.com/item?id=50596133)
 
 2. **[Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)**
-   138 points by `rafaelc` - [42 comments](https://news.ycombinator.com/item?id=50582069)
+   947 points by `rafaelc` - [209 comments](https://news.ycombinator.com/item?id=50582069)
 
 3. **[Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)**
-   640 points by `g-b-r` - [506 comments](https://news.ycombinator.com/item?id=50589618)
+   1006 points by `g-b-r` - [830 comments](https://news.ycombinator.com/item?id=50589618)
 
-4. **[Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)**
-   434 points by `beginning_end` - [290 comments](https://news.ycombinator.com/item?id=50588982)
+4. **[Show HN: The Riemann Proof Handbook](https://github.com/tamnd/riemann-handbook)**
+   36 points by `tamnd` - [9 comments](https://news.ycombinator.com/item?id=50596664)
 
-5. **[Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria)**
-   614 points by `dvaplima` - [200 comments](https://news.ycombinator.com/item?id=50532613)
+5. **[Notes on the discrete Fourier transform (DFT)](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)**
+   18 points by `kouosi` - [4 comments](https://news.ycombinator.com/item?id=50596960)
 
-6. **[PostgreSQL Extensions in Go](https://jespino.github.io/gopgext/)**
-   85 points by `valyala` - [9 comments](https://news.ycombinator.com/item?id=50591260)
+6. **[Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)**
+   450 points by `k__` - [112 comments](https://news.ycombinator.com/item?id=50591853)
 
-7. **[My monitor was cutting my download speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/)**
-   385 points by `soheilpro` - [197 comments](https://news.ycombinator.com/item?id=50587875)
+7. **[Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)**
+   136 points by `sdko` - [53 comments](https://news.ycombinator.com/item?id=50595554)
 
-8. **[Getting the mind to steer the body to steer you](https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body)**
-   23 points by `jger15` - [9 comments](https://news.ycombinator.com/item?id=50583028)
+8. **[Sandwich Simulator](https://stulle.app/)**
+   202 points by `subdomain` - [69 comments](https://news.ycombinator.com/item?id=50594911)
 
-9. **[Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)**
-   2354 points by `jasondavies` - [1137 comments](https://news.ycombinator.com/item?id=50579568)
+9. **[If tiny 'primordial' black holes exist](https://phys.org/news/2026-11-tiny-primordial-black-holes.html)**
+   25 points by `wglb` - [0 comments](https://news.ycombinator.com/item?id=50569846)
 
-10. **[Tropical Rainforests Species may be surprisingly young](https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html)**
-   20 points by `PaulHoule` - [10 comments](https://news.ycombinator.com/item?id=50532417)
+10. **[Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)**
+   600 points by `beginning_end` - [385 comments](https://news.ycombinator.com/item?id=50588982)

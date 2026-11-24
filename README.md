@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-11-22.md`](./digests/2026-11-22.md)
+## Latest snapshot - [`2026-11-24.md`](./digests/2026-11-24.md)
 
-_Captured 2026-11-22 17:37 UTC._
+_Captured 2026-11-24 04:10 UTC._
 
-1. **[Open Social Web Alliance](https://osw-alliance.net/en/)**
-   109 points by `doener` - [95 comments](https://news.ycombinator.com/item?id=50600511)
+1. **[Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)**
+   2274 points by `jaz` - [3292 comments](https://news.ycombinator.com/item?id=50611576)
 
-2. **[Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)**
-   135 points by `ivantgam` - [34 comments](https://news.ycombinator.com/item?id=50599762)
+2. **[Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/)**
+   285 points by `shaunpud` - [139 comments](https://news.ycombinator.com/item?id=50620349)
 
-3. **[Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)**
-   960 points by `zdw` - [568 comments](https://news.ycombinator.com/item?id=50596133)
+3. **[Ladybird is now in alpha](https://ladybird.org/posts/alpha/)**
+   1568 points by `janvdberg` - [371 comments](https://news.ycombinator.com/item?id=50614249)
 
-4. **[Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/)**
-   8 points by `acossta` - [3 comments](https://news.ycombinator.com/item?id=50601525)
+4. **[The search for a top dark matter candidate](https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/)**
+   27 points by `apophatic` - [6 comments](https://news.ycombinator.com/item?id=50620831)
 
-5. **[Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)**
-   1255 points by `rafaelc` - [272 comments](https://news.ycombinator.com/item?id=50582069)
+5. **[GPUI is getting its own repository](https://github.com/zed-industries/gpui)**
+   175 points by `EvilGoose` - [60 comments](https://news.ycombinator.com/item?id=50619103)
 
-6. **[A Better Vocabulary for Testing](https://alperenkeles.com/posts/vocab-for-testing/)**
-   40 points by `alpaylan` - [12 comments](https://news.ycombinator.com/item?id=50594182)
+6. **[Bored.com: Fun, interesting and cool websites to explore when bored](https://www.bored.com/)**
+   154 points by `susam` - [34 comments](https://news.ycombinator.com/item?id=50619207)
 
-7. **[I joined the NTP Pool, but not with my Stratum 1 Pi](https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/)**
-   19 points by `fortran77` - [0 comments](https://news.ycombinator.com/item?id=50600622)
+7. **[Per Arm's request, this site will be discontinued on 4 December 2026 :(](https://arm.jonpalmisc.com/)**
+   920 points by `tech234a` - [213 comments](https://news.ycombinator.com/item?id=50617499)
 
-8. **[Europe weakens chemical rules as science links them to 'lifestyle diseases'](https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html)**
-   66 points by `atmosx` - [33 comments](https://news.ycombinator.com/item?id=50600677)
+8. **["Dario is hyping the dangers so OSS models are illegal and he stays in control"](https://twitter.com/ylecun/status/2124550037912920090)**
+   1342 points by `MrBuddyCasino` - [745 comments](https://news.ycombinator.com/item?id=50615308)
 
-9. **[Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)**
-   1164 points by `g-b-r` - [964 comments](https://news.ycombinator.com/item?id=50589618)
+9. **[New York Bans Subscription and Post-Purchase Fees on Cars](https://wgna.com/car-bill-extra-fees/)**
+   9 points by `binarymax` - [0 comments](https://news.ycombinator.com/item?id=50622769)
 
-10. **[The Where's Waldo of the 1500s](https://blog.alexbeals.com/posts/il-civetta)**
-   35 points by `speckx` - [7 comments](https://news.ycombinator.com/item?id=50551397)
+10. **[Freeing the iPod Nano 5G](https://viktorkrapivin.com/blog/nano5g-priv-prvd)**
+   63 points by `rpm_conservatio` - [8 comments](https://news.ycombinator.com/item?id=50620721)

@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-11-24.md`](./digests/2026-11-24.md)
+## Latest snapshot - [`2026-11-26.md`](./digests/2026-11-26.md)
 
-_Captured 2026-11-24 04:10 UTC._
+_Captured 2026-11-26 13:50 UTC._
 
-1. **[Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)**
-   2274 points by `jaz` - [3292 comments](https://news.ycombinator.com/item?id=50611576)
+1. **[Euro-Office comes to your desktop with the Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)**
+   116 points by `e12e` - [37 comments](https://news.ycombinator.com/item?id=50654289)
 
-2. **[Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/)**
-   285 points by `shaunpud` - [139 comments](https://news.ycombinator.com/item?id=50620349)
+2. **[Intel One Mono font](https://github.com/intel/intel-one-mono)**
+   189 points by `saikatsg` - [106 comments](https://news.ycombinator.com/item?id=50653667)
 
-3. **[Ladybird is now in alpha](https://ladybird.org/posts/alpha/)**
-   1568 points by `janvdberg` - [371 comments](https://news.ycombinator.com/item?id=50614249)
+3. **[Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379)**
+   1712 points by `Kotlopou` - [1545 comments](https://news.ycombinator.com/item?id=50646108)
 
-4. **[The search for a top dark matter candidate](https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/)**
-   27 points by `apophatic` - [6 comments](https://news.ycombinator.com/item?id=50620831)
+4. **[1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)**
+   1518 points by `lxhrstn` - [651 comments](https://news.ycombinator.com/item?id=50644817)
 
-5. **[GPUI is getting its own repository](https://github.com/zed-industries/gpui)**
-   175 points by `EvilGoose` - [60 comments](https://news.ycombinator.com/item?id=50619103)
+5. **[Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/)**
+   155 points by `joonehur` - [25 comments](https://news.ycombinator.com/item?id=50651719)
 
-6. **[Bored.com: Fun, interesting and cool websites to explore when bored](https://www.bored.com/)**
-   154 points by `susam` - [34 comments](https://news.ycombinator.com/item?id=50619207)
+6. **[Discovery of curse ritual in trash dump surprises Egyptologist](https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html)**
+   13 points by `PaulHoule` - [8 comments](https://news.ycombinator.com/item?id=50619466)
 
-7. **[Per Arm's request, this site will be discontinued on 4 December 2026 :(](https://arm.jonpalmisc.com/)**
-   920 points by `tech234a` - [213 comments](https://news.ycombinator.com/item?id=50617499)
+7. **[The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)**
+   470 points by `rmason` - [393 comments](https://news.ycombinator.com/item?id=50647673)
 
-8. **["Dario is hyping the dangers so OSS models are illegal and he stays in control"](https://twitter.com/ylecun/status/2124550037912920090)**
-   1342 points by `MrBuddyCasino` - [745 comments](https://news.ycombinator.com/item?id=50615308)
+8. **[Minipg: PostgreSQL as a Single Executable](https://progrium.github.io/minipg/)**
+   184 points by `rguiscard` - [26 comments](https://news.ycombinator.com/item?id=50650892)
 
-9. **[New York Bans Subscription and Post-Purchase Fees on Cars](https://wgna.com/car-bill-extra-fees/)**
-   9 points by `binarymax` - [0 comments](https://news.ycombinator.com/item?id=50622769)
+9. **[Collection of preserved UI style guides](https://aresluna.org/ui-style-guides/)**
+   276 points by `sohkamyung` - [49 comments](https://news.ycombinator.com/item?id=50649834)
 
-10. **[Freeing the iPod Nano 5G](https://viktorkrapivin.com/blog/nano5g-priv-prvd)**
-   63 points by `rpm_conservatio` - [8 comments](https://news.ycombinator.com/item?id=50620721)
+10. **[Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)**
+   489 points by `nb-t` - [281 comments](https://news.ycombinator.com/item?id=50648050)

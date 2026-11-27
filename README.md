@@ -18,36 +18,36 @@ reading, and how the rankings shifted through the day.
 
 ---
 
-## Latest snapshot - [`2026-11-26.md`](./digests/2026-11-26.md)
+## Latest snapshot - [`2026-11-27.md`](./digests/2026-11-27.md)
 
-_Captured 2026-11-26 13:50 UTC._
+_Captured 2026-11-27 17:09 UTC._
 
-1. **[Euro-Office comes to your desktop with the Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)**
-   116 points by `e12e` - [37 comments](https://news.ycombinator.com/item?id=50654289)
+1. **[Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/)**
+   167 points by `mday404` - [45 comments](https://news.ycombinator.com/item?id=50667726)
 
-2. **[Intel One Mono font](https://github.com/intel/intel-one-mono)**
-   189 points by `saikatsg` - [106 comments](https://news.ycombinator.com/item?id=50653667)
+2. **[Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)**
+   67 points by `scanr` - [23 comments](https://news.ycombinator.com/item?id=50668145)
 
-3. **[Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379)**
-   1712 points by `Kotlopou` - [1545 comments](https://news.ycombinator.com/item?id=50646108)
+3. **[First images of the impact of DART asteroid deflection experiment](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/)**
+   103 points by `Bender` - [28 comments](https://news.ycombinator.com/item?id=50657392)
 
-4. **[1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)**
-   1518 points by `lxhrstn` - [651 comments](https://news.ycombinator.com/item?id=50644817)
+4. **[False Computer-Checked Proofs](https://cr.yp.to/proofs/falseccp.html)**
+   40 points by `_tk_` - [17 comments](https://news.ycombinator.com/item?id=50667989)
 
-5. **[Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/)**
-   155 points by `joonehur` - [25 comments](https://news.ycombinator.com/item?id=50651719)
+5. **[Kimi for Science: More scientific ideas, made possible](https://www.kimi.ai/news/kimi-for-science-program)**
+   139 points by `theanonymousone` - [97 comments](https://news.ycombinator.com/item?id=50665920)
 
-6. **[Discovery of curse ritual in trash dump surprises Egyptologist](https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html)**
-   13 points by `PaulHoule` - [8 comments](https://news.ycombinator.com/item?id=50619466)
+6. **[The group chat where your AI talks behind your back](https://construct22.com/)**
+   545 points by `utiiiD` - [241 comments](https://news.ycombinator.com/item?id=50663595)
 
-7. **[The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)**
-   470 points by `rmason` - [393 comments](https://news.ycombinator.com/item?id=50647673)
+7. **[A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]](https://eprint.iacr.org/2026/3020.pdf)**
+   170 points by `yuvadam` - [76 comments](https://news.ycombinator.com/item?id=50665968)
 
-8. **[Minipg: PostgreSQL as a Single Executable](https://progrium.github.io/minipg/)**
-   184 points by `rguiscard` - [26 comments](https://news.ycombinator.com/item?id=50650892)
+8. **[AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)**
+   958 points by `jlelse` - [458 comments](https://news.ycombinator.com/item?id=50660180)
 
-9. **[Collection of preserved UI style guides](https://aresluna.org/ui-style-guides/)**
-   276 points by `sohkamyung` - [49 comments](https://news.ycombinator.com/item?id=50649834)
+9. **[US Air Force's cloud computing platform hacked](https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163)**
+   180 points by `freakynit` - [99 comments](https://news.ycombinator.com/item?id=50666375)
 
-10. **[Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)**
-   489 points by `nb-t` - [281 comments](https://news.ycombinator.com/item?id=50648050)
+10. **[Making a 3D fantasy map like a 16th-Century atlas](https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas)**
+   15 points by `HugoDz` - [1 comments](https://news.ycombinator.com/item?id=50667062)
